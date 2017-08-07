@@ -1,4 +1,7 @@
-# Proof of Aexistence example
+# Proof of Æxistence example
+
+The user installed a æpp. In this case the Proof of Æxistence. This æpp 
+
 ## Intro
 ![7.1 - PoE - Intro.jpg](screens/7.1-poe-intro.jpg)
 
@@ -22,7 +25,7 @@ The user is asked to open the Identity Manager, this will lead to creating an Id
 
 [Jump to: Authorization](authorization.md)
 
-## <a name="create-proof"></a>Create a proof
+## Create a proof
 ![8.1 - PoE - Arrived Back - Authorised.jpg](screens/8.1-poe-arrived_back-authorised.jpg)
 
 When the user has created an identity and/or authorised an existing one in the Identity Manager, she will come back to this screen. Where she is been informed that the authorisation has been successful.
