@@ -1,10 +1,10 @@
 # Manage Identities
 
-One user can have multiple Identities, every identitiy has a balance. An æepp with access to a specific identitiy has full control of the balance and can work with æternity-tokens of this identitiy. A user can connect multiple æpps with one identitiy.
+A user can have multiple Identities, each identitiy has a token balance. An æepp with access to a specific identitiy has full control of the balance and can use the æternity tokens of this identitiy. A user can authorise multiple æpps to use one identity.
 
 
 
-Identities can be private or public as explained in the [onboarding](onboarding.md) and are represented as cards.
+Identities can be private or public, as explained in the [onboarding](onboarding.md), and are represented as cards.
 
 
 
@@ -12,31 +12,31 @@ Identities can be private or public as explained in the [onboarding](onboarding.
 ![3.1 - ID Manager - Dashboard Total.jpg](screens/3.1-id_manager-dashboard_total.jpg)
 
 The Dashboard is an overview of the following items:
-1.	**Identities**: The first card is a combined view of all identities, swiping to the right shows more cards, they represent the most frequently used identities.
-1.	**Balance Summary of the last week**, these information depends on the selected card
-1.	**Recent transactions**, according to the selected cards
-1.	**Currency History** shows the fiat value of AET
+1.	**Identities**: The first card is a combined view of all identities, swiping to the right shows more cards, which represent the most frequently used identities.
+1.	**Balance Summary of the last week**, this information depends on the selected card.
+1.	**Recent transactions**, from the selected card.
+1.	**Currency History** shows the changes in fiat value of AET.
 
 
 ![3.2 - ID Manager - Dashboard ID.jpg](screens/3.2-id_manager-dashboard_id.jpg)
 
-The Dashboard when a specific identity is selected, only transactions from this identity are shown now.
+When a specific identity is selected in the Dashboard, only transactions from it are shown.
 
 ---
 
 
 ![4.2 - ID Manager - My Identities - Sidemen.jpg](screens/4.2-id_manager-my_identities-sidemenu.jpg)
 
-A sidemenu provides access to more functions
+A sidemenu provides access to additional functionality.
 
 ## My Identities
 
-This is the place to manage identities and access a more detailed view of a specific identity.
+This is the area where the user can manage identities and access the detail view of a specific identity.
 
 
 ![4.1 - ID Manager - My Identities.jpg](screens/4.1-id_manager-my_identities.jpg)
 
-A listview of all identities, the frequently used is shown on top.
+A list view of all identities. The most frequently used identities are shown at the top.
 
 
 ---
@@ -51,21 +51,21 @@ All Identities, scrolled down.
 
 ![4.4 - ID Manager - My Identities - Search.jpg](screens/4.3-id_manager-my_identities-scrolled.jpg)
 
-When the user taps the search field and enters an identity name, a more compact list is shown. This is useful when the user has a lot identities.
+When the user taps the search field and enters an identity name, a matching results list is shown. This is handy when a user has a lot of identities.
 
 ---
 
 
 ![4.5 - ID Manager - Identity Details.jpg](screens/4.5-id_manager-identity_details.jpg)
 
-The details of an identity is similar to the Dashboard, extra items are added: Authorized æpps and a graph that shows the recent balance of this certain Identity.
+The detail view of an identity is similar to the Dashboard, with the following additional items: Authorized æpps and a graph that shows the recent balance of this identity.
 
 ---
 
 
 ![4.6 - ID Manager - Identity Details - Authorised Æpp.jpg](screens/4.6-id_manager-identity_details-authorised_aepp.jpg)
 
-An  authorized æpp has been selected. In this detailed view the user sees the transactions that are made with the authorized æpp. The user has the option to revoke authorisation.
+An authorised æpp has been selected. In this view the user sees the transactions, which were made by the authorized æpp. The user has the option to revoke æpp authorisation.
 
 ---
 
@@ -79,7 +79,7 @@ An  authorized æpp has been selected. In this detailed view the user sees the t
 
 ![5.1 - ID Manager - Internal Transfer.jpg](screens/5.1-id_manager-internal_transfer.jpg)
 
-The user can make internal transactions here. In the upper area the user can add an amount of AE Tokens. ‘Transfer from’ shows the identity where the transfer is coming from. ‘Transfer to’ shows the identity which will receive the transaction.
+The user can make internal transactions here. In the upper area the user can add an amount of AE Tokens. ‘Transfer from’ shows the identity where the transfer is coming from. ‘Transfer to’ shows the identity which will receive the tokens transfer.
 
 ---
 
@@ -100,20 +100,20 @@ The user can make internal transactions here. In the upper area the user can add
 
 
 ## Revoke authorization
-As a user with a lot of different identities, one might lose track of which æpp has access to which identity. In this case a user might search for a specific æpp to review transactions and revoke authorization. We created the authorized æpps section for this case.
+If a user has a lot of different identities, they might lose track of which æpp has access to which identity. In this case they might search for a specific æpp to review the transactions and revoke its authorisation. 
 
 ![6.2 - ID Manager - Authorised Æpps - Sidemen.jpg](screens/6.2-id_manager-authorised_aepps-sidemenu.jpg)
 
-Sidemenu, Authorized æpps is active
+Sidemenu, when Authorised æpps is the current view.
 
 ---
 ![6.1 - ID Manager - Authorised Æpps.jpg](screens/6.1-id_manager-authorised_aepps.jpg)
 
-A list of all authorized æpps. Clicking on it shows details.
+A list of all authorized æpps. Clicking on each identity shows its details.
 
 ---
 
 
 ![6.3 - ID Manager - Authorised Æpps - Details.jpg](screens/6.3-id_manager-authorised_aepps-details.jpg)
 
-In this detail view lists all the transactions that are made with the authorized æpp and the connected identity. The user has the option to revoke authorization. It is the same view as 4.6.
+This view lists all the transactions, made by an authorized æpp (connected to a given identity). The user has the option to revoke authorization. This is the same view as 4.6.
