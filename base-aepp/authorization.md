@@ -23,4 +23,4 @@ The user searches for a specific identity. A list of results is shown. Clicking 
 To confirm the request and thus authorise another æpp, the user needs to securely approve it with the touch ID in iOS (for example).
 
 # Go back to Proof of æxistence
-[Jump to: Proof of æxistence](proof-of-aexistence.md#create-a-proof)
+[Jump to: Proof of æxistence](proof-of-aexistence.md#authorized---create-a-proof)
