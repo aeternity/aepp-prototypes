@@ -6,19 +6,19 @@ Our goal is to provide access to provide frictionless access to the aeternity bl
 ## Intro
 The intro screens explain the core concepts of identities on the æternity blockchain. The purpose of keys is explained as well as the option to give them an alias.
 
-![screens/1.1-id_manager-intro.jpg](screens/1.1-id_manager-intro.jpg)
+<img src="screens/1.1-id_manager-intro.jpg" width='375px'>
 
 ---
 
-![screens/1.2-id_manager-intro-manage.jpg](screens/1.2-id_manager-intro-manage.jpg)
+<img src="screens/1.2-id_manager-intro-manage.jpg" width='375px'>
 
 ---
 
-![screens/1.3-id_manager-intro-public_private.jpg](screens/1.3-id_manager-intro-public_private.jpg)
+<img src="screens/1.3-id_manager-intro-public_private.jpg" width='375px'>
 
 ---
 
-![screens/1.4-id_manager-intro-card_key.jpg](screens/1.4-id_manager-intro-card_key.jpg)
+<img src="screens/1.4-id_manager-intro-card_key.jpg" width='375px'>
 
 
 
@@ -31,48 +31,48 @@ The `Identity Creation` dialog provides an easy interface for beginners to set u
 Experienced users are free to skip these explanations.
 
 
-![2.1-id_manager-onboarding-create.jpg](screens/2.1-id_manager-onboarding-create.jpg)
+<img src="screens/2.1-id_manager-onboarding-create.jpg" width='375px'>
 
 A private identity is pre-made. The user is asked if she wants to leave it private, make it public, or skip everything and start using the app immediately. If she decides to skip the onboarding, there will be reminders later to securely back up her mnemonic pass phrase.
 
 ---
 
-![2.2-id_manager-onboarding-make_public.jpg](screens/2.2-id_manager-onboarding-make_public.jpg)
+<img src="screens/2.2-id_manager-onboarding-make_public.jpg" width='375px'>
 
 ---
 
-![2.3-id_manager-onboarding-phrase.jpg](screens/2.3-id_manager-onboarding-phrase.jpg)
+<img src="screens/2.3-id_manager-onboarding-phrase.jpg" width='375px'>
 
 Here the key is explained, a security phrase is given, the user is prompted to write the phrase down, and confirm that she did so.
 
 ---
 
 
-![2.5-id_manager-onboarding-add_alias.jpg](screens/2.5-id_manager-onboarding-add_alias.jpg)
+<img src="screens/2.5-id_manager-onboarding-add_alias.jpg" width='375px'>
 
 Aliases are not public. They are just internal bookmarks to your address. Public identities can have public name and profile, which can be set up later. In this case this is the primary public identity the user creates, so she is choosing to use her first name.
 
 ---
 
 
-![2.8-id_manager-onboarding-alias_added.jpg](screens/2.8-id_manager-onboarding-alias_added.jpg)
+<img src="screens/2.8-id_manager-onboarding-alias_added.jpg" width='375px'>
 
 The card changes: the alias is made prominent, while most of the key is hidden.
 
 ---
 
-![2.9-id_manager-onboarding-add_image.jpg](screens/2.9-id_manager-onboarding-add_image.jpg)
+<img src="screens/2.9-id_manager-onboarding-add_image.jpg" width='375px'>
 
 The user is asked to upload an image to personalize the public identity. Images are stored off chain.
 
 ---
 
-![2.11-id_manager-onboarding-add_image.jpg](screens/2.11-id_manager-onboarding-add_image.jpg)
+<img src="screens/2.11-id_manager-onboarding-add_image.jpg" width='375px'>
 
 
 ---
 
-![2.13-id_manager-onboarding-visit_dashboard.jpg](screens/2.13-id_manager-onboarding-visit_dashboard.jpg)
+<img src="screens/2.13-id_manager-onboarding-visit_dashboard.jpg" width='375px'>
 
 In the case where the user manually opened the Identity Manager, she can go back to the dashboard.
 

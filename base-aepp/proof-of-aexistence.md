@@ -17,18 +17,18 @@ Using the same introduction mechanism as in the base app creates a unified UX fo
 In the end of the intro the user is asked authorize the æpp in the base æpps identity manager. This will lead to creating an identity or pick an identity that exists already. Most æpps need to be connected with an identity for a full experience.
 
 
-![7.1 - PoE - Intro.jpg](screens/7.1-poe-intro.jpg)
+<img src="screens/7.1-poe-intro.jpg" width='375px'>
 
 ---
 
 
-![7.2 - PoE - Intro - Proofs.jpg](screens/7.2-poe-intro-proofs.jpg)
+<img src="screens/7.2-poe-intro-proofs.jpg" width='375px'>
 
 
 ---
 
 
-![7.3 - PoE - Intro - Open ID Manager.jpg](screens/7.3-poe-intro-open_id_manager.jpg)
+<img src="screens/7.3-poe-intro-open_id_manager.jpg" width='375px'>
 
 
 ## Authorize in Identity Manager
@@ -44,13 +44,13 @@ The main functinallity of an æpp should be the default screen after successful 
 In an authorised æpp, the connected identity is always shown in the bottom and displys relevant information such as balance.
 
 
-![8.1 - PoE - Arrived Back - Authorised.jpg](screens/8.1-poe-arrived_back-authorised.jpg)
+<img src="screens/8.1-poe-arrived_back-authorised.jpg" width='375px'>
 
 
 ---
 
 
-![9.1 - PoE - Onboarding - Create First.jpg](screens/9.1-poe-onboarding-create_first.jpg)
+<img src="screens/9.1-poe-onboarding-create_first.jpg" width='375px'>
 
 Forms are boring, so this conversational interface figures out the users intentions and information that are relevant, by asking simple questions.
 
@@ -60,53 +60,53 @@ The underlying complexity is hidden from the user. Whenever she doesn't understa
 ---
 
 
-![9.2 - PoE - Onboarding - Camera.jpg](screens/9.2-poe-onboarding-camera.jpg)
+<img src="screens/9.2-poe-onboarding-camera.jpg" width='375px'>
 
 Proofs can be created from different media source. Files or images from the gallery or directly form the camera. In the future even videos, messages and sensor data are possible.
 
 ---
 
-![9.3 - PoE - Onboarding - Take Photo.jpg](screens/9.3-poe-onboarding-take_photo.jpg)
+<img src="screens/9.3-poe-onboarding-take_photo.jpg" width='375px'>
 
 The camera has been chosen to create a proof.
 
 ---
 
 
-![9.4 - PoE - Onboarding - Add Name.jpg](screens/9.4-poe-onboarding-add_name.jpg)
+<img src="screens/9.4-poe-onboarding-add_name.jpg" width='375px'>
 
 ---
 
-![9.5 - PoE - Onboarding - Name Added.jpg](screens/9.5-poe-onboarding-name_added.jpg)
+<img src="screens/9.5-poe-onboarding-name_added.jpg" width='375px'>
 
 ---
 
-![9.6 - PoE - Onboarding - Make Transaction.jpg](screens/9.6-poe-onboarding-make_transaction.jpg)
+<img src="screens/9.6-poe-onboarding-make_transaction.jpg" width='375px'>
 
 ---
 
-![9.7- PoE - Onboarding - Confirm Transaction.jpg](screens/9.7-_poe-onboarding-confirm_transaction.jpg)
+<img src="screens/9.7-_poe-onboarding-confirm_transaction.jpg" width='375px'>
 
 Creating a proof costs æternity tokens. The transaction has to be confirmed by the user.
 
 ---
 
 
-![10.1 - PoE - Sidemenu.jpg](screens/10.1-poe-sidemenu.jpg)
+<img src="screens/10.1-poe-sidemenu.jpg" width='375px'>
 
 Sidemenu
 
 ---
 
 
-![11.1 - PoE - My Proofs.jpg](screens/11.1-poe-my_proofs.jpg)
+<img src="screens/11.1-poe-my_proofs.jpg" width='375px'>
 
 A list of all created proofs
 
 ---
 
 
-![11.2 - PoE - Single Proof.jpg](screens/11.2-poe-single_proof.jpg)
+<img src="screens/11.2-poe-single_proof.jpg" width='375px'>
 
 A detailed view of a proof. Here the user can see more information and share it with others to get more confirmations.
 
