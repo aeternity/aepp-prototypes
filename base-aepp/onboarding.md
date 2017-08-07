@@ -112,4 +112,4 @@ In the case that a user came from another æpp, the user is asked to authorise t
 In the case that the user manually opened the Identity Manager, the user can visit the dashboard
 
 ## Next
-[Jump to: Authorization](authorization.md)
+[Jump to: Proof of Aexistence](proof-of-aexistence.md)
