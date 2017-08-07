@@ -23,4 +23,4 @@ Authorisation part, but where the user has searched for a certain identity. A mo
 To confirm the request to authorise another æpp, the user needs to securely approve it with (for instance) the touch id in ios.
 
 # Go back to Proof of Aexistence
-[Jump to: Authorization](proof-of-aexistence.md#create-a--proof)
+[Jump to: Authorization](proof-of-aexistence.md#create-a-proof)
