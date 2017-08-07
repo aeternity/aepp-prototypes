@@ -1,20 +1,20 @@
-# Proof of Æxistence example
+# Proof of æxistence example
 
-The Proof of Æxistence æpp provides a easey to use interface to create hashes of files and store them on the aeternity blockchain inside of a smart contract as a undeniable proof a file existed at a certain time in the past.
+The Proof of æxistence æpp provides a easy to use interface to create hashes of files and store them on the æternity blockchain, inside of a smart contract (as a undeniable proof a file existed at a certain time in the past).
 
 
 You can find a click dummy of this app [here](https://aeternity.github.io/aepp-aexistence).
 
-This is a standalone æpp. It hase to authorize against the base æpp at some point to be able to spend funds on creating the proofs. After the introduction, the æpp switches to the base app for this request.
+This is a standalone æpp. It has to be authorised by the Identity Manager æpp, to be able to spend funds on creating the proofs. After the introduction, the æpp switches to the Identity Manager æpp for authorisation.
 
 This æpp should become a best practice example on how to create a rich user experience for æternity blockchain æpps.
 
 
 ## Intro
 
-Using the same introduction mechanism as in the base app creates a unified UX for novice users. The key concepts of the æpp should be explained in 3 - 5 sentences.
+Using the same introduction mechanism as in the Identity Manager æpp creates a unified UX for novice users. The key concepts of the æpp are explained in 3 - 5 sentences.
 
-In the end of the intro the user is asked authorize the æpp in the base æpps identity manager. This will lead to creating an identity or pick an identity that exists already. Most æpps need to be connected with an identity for a full experience.
+In the end of the intro the user is asked to authorise the æpp in the Identity Manager æpp. This leads the user to creating an identity or picking an existing one. Most æpps need to be connected with an identity for a full user experience.
 
 
 <img src="screens/7.1-poe-intro.jpg" width='375px'>
@@ -33,15 +33,15 @@ In the end of the intro the user is asked authorize the æpp in the base æpps i
 
 ## Authorize in Identity Manager
 
-The base æpp opens up the authorization screen. The user will be directed back to the Æxistance æpp after she successfully authorized the æpp with one of her identities. 
+The Identity Manager æpp opens up the authorisation screen. The user will be directed back to the Proof of æxistance æpp, after she successfully authorized the æpp with one of her identities. 
 
 [Jump to: Authorization](authorization.md)
 
 ## Authorized - Create a proof
 
-The main functinallity of an æpp should be the default screen after successful authorization. 
+The main functinallity of an æpp is the default screen after successful authorisation. 
 
-In an authorised æpp, the connected identity is always shown in the bottom and displys relevant information such as balance.
+In an authorised æpp, the connected identity is always shown in the bottom and displays relevant information, such as balance.
 
 
 <img src="screens/8.1-poe-arrived_back-authorised.jpg" width='375px'>
@@ -52,9 +52,9 @@ In an authorised æpp, the connected identity is always shown in the bottom and 
 
 <img src="screens/9.1-poe-onboarding-create_first.jpg" width='375px'>
 
-Forms are boring, so this conversational interface figures out the users intentions and information that are relevant, by asking simple questions.
+The conversational interface learns the users intentions and information by asking simple questions.
 
-The underlying complexity is hidden from the user. Whenever she doesn't understand the neccecity of an action or simply wants know more about the topic, she can retreive them with a simple question.
+The underlying complexity is hidden from the user. Whenever she doesn't understand the necessity of an action or simply wants know more about the topic, she can ask a simple question.
 
 
 ---
@@ -62,7 +62,7 @@ The underlying complexity is hidden from the user. Whenever she doesn't understa
 
 <img src="screens/9.2-poe-onboarding-camera.jpg" width='375px'>
 
-Proofs can be created from different media source. Files or images from the gallery or directly form the camera. In the future even videos, messages and sensor data are possible.
+Proofs can be created from different media sources. Files, gallery images, or directly from the camera. In the future uploading videos, messages, and sensor data will be possible, too.
 
 ---
 
@@ -94,21 +94,21 @@ Creating a proof costs æternity tokens. The transaction has to be confirmed by 
 
 <img src="screens/10.1-poe-sidemenu.jpg" width='375px'>
 
-Sidemenu
+Sidemenu.
 
 ---
 
 
 <img src="screens/11.1-poe-my_proofs.jpg" width='375px'>
 
-A list of all created proofs
+A list of all proofs, which a user created.
 
 ---
 
 
 <img src="screens/11.2-poe-single_proof.jpg" width='375px'>
 
-A detailed view of a proof. Here the user can see more information and share it with others to get more confirmations.
+A detail view of a proof. Here the user can see more information and share it with others to get additional confirmations.
 
 
 ## Next
