@@ -15,7 +15,7 @@ All described concepts are in a very early prototype stage and subject to change
 
 ## Click dummy
 
-[Click dummy](https://projects.invisionapp.com/share/NUCWKLYYE#/screens/247183847)
+[Click dummy](https://projects.invisionapp.com/share/NUCWKLYYE#/screens)
 
 ## Screens with annotations
 
