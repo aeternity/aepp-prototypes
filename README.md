@@ -1,6 +1,14 @@
 # aepp-prototypes
 Concepts of apps that will work with the æterenity blockchain.
 
+## Sprint 2 (11/Oct/2017)
+
+# MVP Base æpp
+UI for a basic implementation of the functions: account creation, login, ID manager and Æpp browser
+Find [here](base-aepp/sprint2-mvp.md)
+
+## Sprint 1 (07/Aug/2017)
+
 # Base æpp
 First touchpoint with the aeternity blockchain
 Find [here](base-aepp/main.md)
