@@ -29,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1102,
+    "height": 1081,
     "width": 375,
     "x": -4800,
     "y": 1298
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -83,10 +83,6 @@
       "id": "A0DBED05-763E-41B9-8832-C1A79CB0F48B"
     },
     {
-      "class": "symbolInstance",
-      "id": "44C41225-C8B7-4745-AC83-9392DB04D82C"
-    },
-    {
       "class": "text",
       "id": "78909664-B690-49B0-90BD-2E47A69C938F"
     },
@@ -125,6 +121,14 @@
     {
       "class": "symbolInstance",
       "id": "FAE85168-B280-4416-9063-54BA73057624"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4C6DA11-7347-4018-A69B-CD23F9C2DE85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F436F0A-254F-4210-A9EC-F3AC875CC948"
     }
   ],
   "name": "2.20-view-proof",

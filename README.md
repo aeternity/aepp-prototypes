@@ -5,21 +5,29 @@ We publish concepts and prototypes of æpps that will run on the æterenity bloc
 
 
 
+
 ## Base æpp & Identity manager
 Get in touch with the aeternity blockchain. 
 
-✨  Create account
 
 🔐  Login
 
+✨  Create account
+
 💳  Manage identities
 
-👀  App browser
+👀  Æpp browser
 
 💸  Transfer tokens
 
-* [View prototypes](base-aepp/sprint_02.md)
+🤞  Identity Switcher
+
+🤳  Sidemenu
+
+
+* [Show designs](base-aepp/base.md)
 * [Dev repository](https://github.com/aeternity/aepp-identity)
+
 
 
 
@@ -32,7 +40,7 @@ Write and read and support æternal messages, thoughts and ideas.
 
 👏  Reward authors
 
-* [View prototypes](base-aepp/sprint_02.md)
+* [Show designs](base-aepp/wall.md)
 * [Dev repository](https://github.com/aeternity/aepp-wall)
 
 
@@ -40,17 +48,20 @@ Write and read and support æternal messages, thoughts and ideas.
 ## Notary
 Create undeniable proofs of the existence of a file.
 
+🗂  Notary overview
+
 📃  Create proofs
+
+👀  View originals
+
+📄  Open receipts
 
 👐  Compare files
 
 👉  Share links
 
-👀  View transactions
-
-* [View prototypes](base-aepp/sprint_02.md)
+* [Show designs](base-aepp/notary.md)
 * [Dev repository](https://github.com/aeternity/aepp-aexistence)
-
 
 
 
@@ -72,6 +83,8 @@ or
 2. Create a new Sketch File, but use our Symbols as a Styleguide using the Sketch Library function. [Learn more about libraries](https://www.sketchapp.com/docs/libraries/adding-libraries)
 
 
+
+
 ### Dependencies
 👾 These Sketch Plugins are required to handle the sketch file.
 * [Anima App](https://animaapp.github.io/)
@@ -79,8 +92,9 @@ or
 
 
 
-# Earlier Versions
-[Sprint 01 – Initial Designs](base-aepp/main.md)
+# Index
+[Sprint 01 – Our initial ideas](base-aepp/main.md)
+
 
 
 
