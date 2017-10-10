@@ -3,7 +3,6 @@ Welcome to Æpp Prototypes! Here we design concepts and develop prototypes of æ
 
 Our æpps are designed mobile first, wich means, that all functionality should work within the 375*667px artboard.
 
-***
 
 ## Contributing
 If you want to contribute, you have two options:
