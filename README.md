@@ -1,26 +1,49 @@
 # æpp-prototypes
-Concepts of æpps that will work with the æterenity blockchain.
+Welcome to Æpp Prototypes! Here we design concepts and develop prototypes of æpps that will run on the æterenity blockchain.
 
-## Sprint 02 (11/Oct/2017)
 
-### Base æpp – MVP Implementation
-We developed a technical and UX concept for the implementation of basic functions of the account creation, login, Identity manager and Æpp browser:
+## Principles
+Our æpps are designed mobile first, wich means, that all functionality should work within the 375*667px artboard.
 
-Find it [here](base-aepp/sprint_02.md)
 
-## Sprint 01 (07/Aug/2017)
+## Contributing
+If you want to contribute, you have two options:
 
-### Base æpp
-First touchpoint with the aeternity blockchain
+*1 Use the Mac App and Sketch Plugin [Kactus](https://github.com/kactus-io/kactus) to make a branch and create pull requests of this repository.
 
-Find it [here](base-aepp/main.md)
+*2 Create a new Sketch File, but use our Symbols as a Styleguide using the Sketch Library function. [Learn more about libraries](https://www.sketchapp.com/docs/libraries/adding-libraries)
 
-### Proof of Æxistence æpp
-The Proof of æxistence æpp provides a easy to use interface to create hashes of files and store them on the æternity blockchain, inside of a smart contract (as a undeniable proof a file existed at a certain time in the past).
+### Dependencies
+These Sketch Plugins are required to open the sketch file.
+* [Anima App](https://animaapp.github.io/)
 
-[repository]( https://github.com/aeternity/aepp-aexistence )
 
-You can find a click dummy of this [æpp here](https://aeternity.github.io/aepp-aexistence).
+## Æpps
 
-### Voting æpp
-Vote for change proposals of Æternity tech with your ERC20 tokens. [repository]( https://github.com/aeternity/aepp-voting )
+### Base æpp & Identity manager
+First touchpoint with the aeternity blockchain. Account creation, login, Identity manager and Æpp browser
+
+The user can create one main account and several identities. Each identity will be a proper wallet.
+The user can switch between identities to authorize an æpp to do transactions on the blockchain/pay tokens for activities.
+
+* [Sprint 02 – Latest update](base-aepp/sprint_02.md)
+* [Sprint 01 – Initial design](base-aepp/main.md)
+
+
+### Notary
+A conversional interface to create hashes of files and store them on the æternity blockchain, as a undeniable proof a file existed at a certain time in the past.
+
+* The user can decide if the file itself also should be saved on an indelible server.
+
+[repository](https://github.com/aeternity/aepp-aexistence)
+
+
+### Voting
+Submit, comment and vote for change proposals of Æternity tech with your ERC20 tokens.
+
+[repository](https://github.com/aeternity/aepp-voting)
+
+
+### Message Wall
+
+[repository](https://github.com/aeternity/aepp-wall)
