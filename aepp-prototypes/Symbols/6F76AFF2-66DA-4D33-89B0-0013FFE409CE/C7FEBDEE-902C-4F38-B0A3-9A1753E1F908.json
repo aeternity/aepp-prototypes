@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C7FEBDEE-902C-4F38-B0A3-9A1753E1F908",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 31,
+    "width": 125,
+    "x": 18,
+    "y": 140
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "button/small/white copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "5555BB2B-4B13-4B8A-8BBD-E02F2AFEFCA0": "copy adress",
+    "5BA017E6-0098-4AFD-B314-9E6EC67D9CA2": "copy address",
+    "C572EBDC-C5F2-4A2B-9A20-BD8788AAA2ED": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3AA8EBF4-B1DF-46A9-A83E-8FD953BE6135",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 31,
+            "enabled": 1,
+            "modelID": "constraint_19376494-679d-4f57-a87d-b15606114eb3",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 125
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_01eeffe2-9ba8-49bd-a820-7d74bfb924b6",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
