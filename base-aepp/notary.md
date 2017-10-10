@@ -35,8 +35,3 @@ In the detail view of a proof the user can open the original file, if it has bee
 A public link to the proof is shown to share the proof.
 
 <img src=„img/2.20-view-proof.png" width=„300“ />
-
-
-
-## Next
-[Jump to: Identity Management](identity-management.md)

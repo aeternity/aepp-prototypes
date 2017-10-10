@@ -10,23 +10,24 @@ We publish concepts and prototypes of æpps that will run on the æterenity bloc
 Get in touch with the aeternity blockchain. 
 
 
-🔐  Login
+[🚀  Get started](base-aepp/base.md#--get--started)
 
-✨  Create account
+[✨  Create account](base-aepp/base.md#--create-account)
 
-💳  Manage identities
+[💳  Manage identities](base.md#—manage—identities)
 
-👀  Æpp browser
+[👀  Aepp browser](base.md#--aepp—browser)
 
-💸  Transfer tokens
+[💸  Transfer tokens](base.md#—transfer—tokens)
 
-🤞  Identity Switcher
+[🤞  Switch identities](base.md#—switch—identities)
 
-🤳  Sidemenu
+[🤳  Sidemenu](base.md#—sidemenu)
 
 
-* [Show designs](base-aepp/base.md)
-* [Dev repository](https://github.com/aeternity/aepp-identity)
+***
+
+[Dev repository](https://github.com/aeternity/aepp-identity)
 
 
 
@@ -34,13 +35,14 @@ Get in touch with the aeternity blockchain.
 ## Message Wall
 Write and read and support æternal messages, thoughts and ideas.
 
-👩‍💻  Browse the wall
+[👩‍💻  Browse the wall](base-aepp/wall.md#--browse-the-wall)
 
-✍️  Write messages
+[✍️  Write messages](base-aepp/wall.md#—write—messanges)
 
-👏  Reward authors
+[🔒  Confirm messages](base-aepp/wall.md#—confirm—messages)
 
-* [Show designs](base-aepp/wall.md)
+[👏  Reward authors](base-aepp/wall.md#—reward—authors)
+
 * [Dev repository](https://github.com/aeternity/aepp-wall)
 
 
@@ -48,19 +50,18 @@ Write and read and support æternal messages, thoughts and ideas.
 ## Notary
 Create undeniable proofs of the existence of a file.
 
-🗂  Notary overview
+[🗂  Notary overview](base-aepp/notary.md#—notary—overview)
 
-📃  Create proofs
+[📃  Create proofs](base-aepp/notary.md#—create—proofs)
 
-👀  View originals
+[👀  View originals](base-aepp/notary.md#--view-originals---open-receipts---compare-files---share-links)
 
-📄  Open receipts
+[📄  Open receipts](base-aepp/notary.md#--view-originals---open-receipts---compare-files---share-links)
 
-👐  Compare files
+[👐  Compare files](base-aepp/notary.md#--view-originals---open-receipts---compare-files---share-links)
 
-👉  Share links
+[👉  Share links](base-aepp/notary.md#--view-originals---open-receipts---compare-files---share-links)
 
-* [Show designs](base-aepp/notary.md)
 * [Dev repository](https://github.com/aeternity/aepp-aexistence)
 
 

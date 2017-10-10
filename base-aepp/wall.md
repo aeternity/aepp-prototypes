@@ -34,4 +34,4 @@ Messages from other authors can be read in a clean interface. To show respect or
 
 
 # Next
-[Jump to: Notary](notary.md)
+[Notary](notary.md)
