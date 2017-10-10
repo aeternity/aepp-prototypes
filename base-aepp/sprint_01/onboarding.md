@@ -6,7 +6,7 @@ Our goal is to provide access to provide frictionless access to the aeternity bl
 ## Intro
 The intro screens explain the core concepts of identities on the æternity blockchain. The purpose of keys is explained as well as the option to give them an alias.
 
-<img src="screens/1.1-id_manager-intro.jpg" width='375px'>
+<img src="screens/1.1-id_manager-intro.jpg" width='300px'>
 
 ---
 
