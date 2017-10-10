@@ -15,8 +15,9 @@ or
 
 
 ### Dependencies
-These Sketch Plugins are required to open the sketch file.
+These Sketch Plugins are required to handle the sketch file.
 * [Anima App](https://animaapp.github.io/)
+* [Symbol Organizer](https://github.com/sonburn/symbol-organizer)
 
 
 ## Æpps
@@ -28,18 +29,33 @@ The user can create one main account and several identities. Each identity will 
 The user can switch between identities to authorize an æpp to do transactions on the blockchain/pay tokens for activities.
 
 * [Sprint 02 – Latest update](base-aepp/sprint_02.md)
-
-* [Sprint 01 – Initial designs](base-aepp/main.md)
-
+* [Sprint 01 – Initial designs](base-aepp/onboarding.md)
+* [Sprint 01 – Initial designs](base-aepp/identity-management.md)
 
 ### Notary
 A conversional interface to create hashes of files and store them on the æternity blockchain, as a undeniable proof a file existed at a certain time in the past.
 
-* The user can decide if the file itself also should be saved on an indelible server.
+The user can decide if the file itself also should be saved on an indelible server.
 
-[repository](https://github.com/aeternity/aepp-aexistence)
+* [Sprint 02 – Latest update](base-aepp/sprint_02.md)
+* [Sprint 01 – Initial designs](base-aepp/proof-of-aexistence.md)
+* [repository](https://github.com/aeternity/aepp-aexistence)
 
 ***
+
+### Message Wall
+Write messages into the æternal blockchain space, to share thoughts for now and forever.
+Read æternal messages because you’re interested in the æternity community.
+Express support for messages that you like.
+
+1. Show messages
+2. Write a message
+3. Like a message with an ERC20 AE-Token, this token shall be transferred to message author
+
+* [Sprint 02 – Latest update](base-aepp/sprint_02.md)
+* [Sprint 01 – Initial designs](base-aepp/proof-of-aexistence.md)
+* [repository](https://github.com/aeternity/aepp-wall)
+
 
 ### Voting
 Submit, comment and vote for change proposals of Æternity tech with your ERC20 tokens.
@@ -48,6 +64,4 @@ Submit, comment and vote for change proposals of Æternity tech with your ERC20 
 
 ***
 
-### Message Wall
 
-[repository](https://github.com/aeternity/aepp-wall)
