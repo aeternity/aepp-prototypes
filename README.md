@@ -18,11 +18,11 @@ Get in touch with the aeternity blockchain.
 
 [👀 Aepp browser](base-aepp/base.md#-aepp-browser)
 
-[💸 Transfer tokens](base-aepp/base.md#—transfer-tokens)
+[💸 Transfer tokens](base-aepp/base.md#-transfer-tokens)
 
-[🤞 Switch identities](base-aepp/base.md#—switch-identities)
+[🤞 Switch identities](base-aepp/base.md#-switch-identities)
 
-[🤳 Sidemenu](base-aepp/base.md#—sidemenu)
+[🤳 Sidemenu](base-aepp/base.md#-sidemenu)
 
 ***
 
