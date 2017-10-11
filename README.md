@@ -14,15 +14,15 @@ Get in touch with the aeternity blockchain.
 
 [✨ Create account](base-aepp/base.md#-create-account)
 
-[💳 Manage identities](base.md#-manage-identities)
+[💳 Manage identities](base-aepp/base.md#-manage-identities)
 
-[👀 Aepp browser](base.md#-aepp-browser)
+[👀 Aepp browser](base-aepp/base.md#-aepp-browser)
 
-[💸 Transfer tokens](base.md#—transfer-tokens)
+[💸 Transfer tokens](base-aepp/base.md#—transfer-tokens)
 
-[🤞 Switch identities](base.md#—switch-identities)
+[🤞 Switch identities](base-aepp/base.md#—switch-identities)
 
-[🤳 Sidemenu](base.md#—sidemenu)
+[🤳 Sidemenu](base-aepp/base.md#—sidemenu)
 
 ***
 
@@ -36,11 +36,11 @@ Write and read and support æternal messages, thoughts and ideas.
 
 [💻 Browse the wall](base-aepp/wall.md#-browse-the-wall)
 
-[✍ Write messages](base-aepp/wall.md#—write—messanges)
+[✍ Write messages](base-aepp/wall.md#-write-messages)
 
-[🔒 Confirm messages](base-aepp/wall.md#—confirm—messages)
+[🔒 Confirm messages](base-aepp/wall.md#-confirm-messages)
 
-[👏 Reward authors](base-aepp/wall.md#—reward—authors)
+[👏 Reward authors](base-aepp/wall.md#-reward-authors)
 
 ***
 
@@ -51,9 +51,9 @@ Write and read and support æternal messages, thoughts and ideas.
 ## Notary
 Create undeniable proofs of the existence of a file.
 
-[🗂 Notary overview](base-aepp/notary.md#—notary—overview)
+[🗂 Notary overview](base-aepp/notary.md#-notary-overview)
 
-[📃 Create proofs](base-aepp/notary.md#—create—proofs)
+[📃 Create proofs](base-aepp/notary.md#-create-proofs)
 
 [👀 View originals](base-aepp/notary.md#-view-originals--open-receipts--compare-files--share-links)
 
