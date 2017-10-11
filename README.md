@@ -97,7 +97,7 @@ or
 
 
 # Index
-[Sprint 01 – Our initial ideas](base-aepp/main.md)
+[Sprint 01 – Our initial ideas](base-aepp/sprint_01/main.md)
 
 
 
