@@ -29,7 +29,7 @@ Every action to the blockchain is eternal and requires a micro payment. To autho
 ## 👏 Reward authors
 Messages from other authors can be read in a clean interface. To show respect or thankfulness for the given information users can reward the author with a self set amount of tokens.
 
-<img src='screens/sprint_02/1.20-read_message.png' width='375px' />
+<img src='img/1.20-read_message.png' width='375px' />
 
 
 
