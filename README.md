@@ -1,26 +1,105 @@
-# æpp-prototypes
-Concepts of æpps that will work with the æterenity blockchain.
+# Welcome to Æternity Prototypes
+We publish concepts and prototypes of æpps that will run on the æterenity blockchain.
 
-## Sprint 02 (11/Oct/2017)
+📱 Our æpps are designed mobile first.
 
-### Base æpp – MVP Implementation
-We developed a technical and UX concept for the implementation of basic functions of the account creation, login, Identity manager and Æpp browser:
 
-Find it [here](base-aepp/sprint_02.md)
 
-## Sprint 01 (07/Aug/2017)
 
-### Base æpp
-First touchpoint with the aeternity blockchain
+## Base æpp & Identity manager
+Get in touch with the aeternity blockchain. 
 
-Find it [here](base-aepp/main.md)
 
-### Proof of Æxistence æpp
-The Proof of æxistence æpp provides a easy to use interface to create hashes of files and store them on the æternity blockchain, inside of a smart contract (as a undeniable proof a file existed at a certain time in the past).
+[🚀 Get started](base-aepp/base.md#-get-started)
 
-[repository]( https://github.com/aeternity/aepp-aexistence )
+[✨ Create account](base-aepp/base.md#-create-account)
 
-You can find a click dummy of this [æpp here](https://aeternity.github.io/aepp-aexistence).
+[💳 Manage identities](base-aepp/base.md#-manage-identities)
 
-### Voting æpp
-Vote for change proposals of Æternity tech with your ERC20 tokens. [repository]( https://github.com/aeternity/aepp-voting )
+[👀 Aepp browser](base-aepp/base.md#-aepp-browser)
+
+[💸 Transfer tokens](base-aepp/base.md#-transfer-tokens)
+
+[🤞 Switch identities](base-aepp/base.md#-switch-identities)
+
+[🤳 Sidemenu](base-aepp/base.md#-sidemenu)
+
+***
+
+[Dev repository](https://github.com/aeternity/aepp-identity)
+
+
+
+
+## Message Wall
+Write and read and support æternal messages, thoughts and ideas.
+
+[💻 Browse the wall](base-aepp/wall.md#-browse-the-wall)
+
+[✍ Write messages](base-aepp/wall.md#-write-messages)
+
+[🔒 Confirm messages](base-aepp/wall.md#-confirm-messages)
+
+[👏 Reward authors](base-aepp/wall.md#-reward-authors)
+
+***
+
+[Dev repository](https://github.com/aeternity/aepp-wall)
+
+
+
+## Notary
+Create undeniable proofs of the existence of a file.
+
+[🗂 Notary overview](base-aepp/notary.md#-notary-overview)
+
+[📃 Create proofs](base-aepp/notary.md#-create-proofs)
+
+[👀 View originals](base-aepp/notary.md#-view-originals--open-receipts--compare-files--share-links)
+
+[📄 Open receipts](base-aepp/notary.md#-view-originals--open-receipts--compare-files--share-links)
+
+[👐 Compare files](base-aepp/notary.md#-view-originals--open-receipts--compare-files--share-links)
+
+[👉 Share links](base-aepp/notary.md#-view-originals--open-receipts--compare-files--share-links)
+
+***
+
+[Dev repository](https://github.com/aeternity/aepp-aexistence)
+
+
+
+
+## Voting
+Submit, comment and vote for change proposals of Æternity tech.
+
+[Dev repository](https://github.com/aeternity/aepp-voting)
+
+
+
+# Contributing
+👏 If you want to contribute, you have two options:
+
+1. Use the Mac App and the Sketch Plugin [Kactus](https://github.com/kactus-io/kactus), make a branch, keep track of changes and create pull requests of this repository.
+
+or
+
+2. Create a new Sketch File, but use our Symbols as a Styleguide using the Sketch Library function. [Learn more about libraries](https://www.sketchapp.com/docs/libraries/adding-libraries)
+
+
+
+
+### Dependencies
+👾 These Sketch Plugins are required to handle the sketch file.
+* [Anima App](https://animaapp.github.io/)
+* [Symbol Organizer](https://github.com/sonburn/symbol-organizer)
+
+
+
+# Index
+[Sprint 01 – Our initial ideas](base-aepp/sprint_01/main.md)
+
+
+
+
+
