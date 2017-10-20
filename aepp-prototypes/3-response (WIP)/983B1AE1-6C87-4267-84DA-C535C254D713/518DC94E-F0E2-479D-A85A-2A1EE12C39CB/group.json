@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "518DC94E-F0E2-479D-A85A-2A1EE12C39CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 90,
+    "width": 90,
+    "x": 143,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "23C9A90D-BAC6-497B-BA5E-DA48B8B225B9"
+    },
+    {
+      "class": "bitmap",
+      "id": "406C29E8-1036-4A92-9875-61B9ED77044A"
+    }
+  ],
+  "name": "app logo copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 84,
+            "enabled": 1,
+            "modelID": "constraint_78f33652-cfeb-4f20-bf8a-ae71ed375c23",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 84
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_20bb94eb-281a-47a7-887c-064d42ca4a3f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

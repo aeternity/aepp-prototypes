@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 8,
   "masterInfluenceEdgeMaxYPadding": 12,
   "masterInfluenceEdgeMinXPadding": 8,
-  "masterInfluenceEdgeMinYPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 6,
   "name": "card-minified",
   "nameIsFixed": false,
   "overrides": {
@@ -49,21 +49,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "automatic": 1,
-          "bottom": {
-            "constant": 0,
-            "enabled": 1,
-            "modelID": "constraint_531c6e19-9d6e-4a41-b4c4-956b9cec69b3",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
-          "modelID": "viewConstraints_25ea1b90-0ee8-4b0d-877c-cde1404b0539",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        }
       }
     }
   },

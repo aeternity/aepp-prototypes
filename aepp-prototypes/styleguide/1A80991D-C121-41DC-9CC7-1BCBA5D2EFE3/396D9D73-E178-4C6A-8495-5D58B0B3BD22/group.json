@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": true,
     "height": 100,
-    "width": 506.9651741293533,
+    "width": 507,
     "x": 0,
     "y": 0
   },
@@ -25,6 +25,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E6E4EA1B-57D7-4D7E-904D-54437C9427EB"
+    },
     {
       "class": "shapeGroup",
       "id": "4A6DB731-7274-4ADF-BAB5-48171F2C11C1"
@@ -44,10 +48,6 @@
     {
       "class": "shapeGroup",
       "id": "6E4111DF-C529-423F-90B7-9573DDA5A5B0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E6E4EA1B-57D7-4D7E-904D-54437C9427EB"
     },
     {
       "class": "shapeGroup",
@@ -87,12 +87,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 201,
+            "constant": 100,
             "enabled": 1,
             "modelID": "constraint_95e0377b-d955-4afc-98f9-f5cbee51047b",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 1019
+            "multiplier": 506.9652
           },
           "automatic": 1,
           "modelID": "viewConstraints_785f9293-42b5-48dc-bc1f-5d7d9989c654",
