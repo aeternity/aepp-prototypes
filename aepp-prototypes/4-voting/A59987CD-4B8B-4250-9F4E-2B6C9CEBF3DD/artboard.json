@@ -29,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
+    "height": 1199,
     "width": 375,
     "x": 1814,
-    "y": 3786
+    "y": 767
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -89,22 +89,6 @@
     {
       "class": "symbolInstance",
       "id": "34F2645A-2822-4F0A-BA2C-0D135C3F6445"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5C892797-77AE-455B-B511-9F03D372BE5E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "482C3D78-FA48-463C-9008-375AB6380FBD"
-    },
-    {
-      "class": "text",
-      "id": "5270845C-86C3-4D7E-ADAC-3773B0127234"
-    },
-    {
-      "class": "group",
-      "id": "E561CDDC-DB30-471F-A845-C93EEC48B080"
     }
   ],
   "name": "4.90-votings-mobile",

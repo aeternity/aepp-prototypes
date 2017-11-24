@@ -32,8 +32,8 @@
       "id": "51BD1D62-4840-4EA0-9C75-B51DE412BF20"
     }
   ],
-  "name": "Rectangle 3",
-  "nameIsFixed": false,
+  "name": "background",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -79,13 +79,13 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 10,
+        "blurRadius": 8,
         "color": {
           "_class": "color",
-          "alpha": 0.11,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 0.1,
+          "blue": 0.2352941176470588,
+          "green": 0.2352941176470588,
+          "red": 0.2352941176470588
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -94,10 +94,11 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": 0,
+        "offsetY": 4,
         "spread": 0
       }
     ],
+    "sharedObjectID": "EC847FA7-0426-482E-B12C-D732E5C512AB",
     "startDecorationType": 0
   },
   "userInfo": {
