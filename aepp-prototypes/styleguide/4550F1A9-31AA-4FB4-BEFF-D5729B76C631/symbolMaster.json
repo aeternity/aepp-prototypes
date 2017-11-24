@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 663,
+  "changeIdentifier": 736,
   "do_objectID": "4550F1A9-31AA-4FB4-BEFF-D5729B76C631",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 45,
+    "height": 50,
     "width": 141,
-    "x": 2816,
-    "y": 1327
+    "x": 966,
+    "y": 1547
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,20 +44,16 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "5AF3D7E3-FD09-404C-9DBD-8B9B40288A8D"
-    },
-    {
       "class": "shapeGroup",
       "id": "797854E9-CA1E-4B2A-9492-F8DED8C288C9"
     },
     {
       "class": "text",
-      "id": "92182740-5D06-4D8E-BC2E-D136FC0782DD"
+      "id": "33F324C3-0647-4F82-8C42-9EE015566562"
     }
   ],
-  "name": "button/medium/white",
-  "nameIsFixed": false,
+  "name": "button/medium/secondary",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

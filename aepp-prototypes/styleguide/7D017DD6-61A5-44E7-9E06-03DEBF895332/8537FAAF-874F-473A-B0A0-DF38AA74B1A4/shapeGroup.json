@@ -56,11 +56,6 @@
         "thickness": 1
       }
     ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.1000000014901161
-    },
     "endDecorationType": 0,
     "fills": [
       {
@@ -68,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.596078431372549,
-          "green": 0.596078431372549,
-          "red": 0.596078431372549
+          "blue": 0.9607843137254902,
+          "green": 0.9607843137254902,
+          "red": 0.9607843137254902
         },
         "fillType": 0,
         "isEnabled": true,
@@ -84,25 +79,26 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 10,
+        "blurRadius": 8,
         "color": {
           "_class": "color",
-          "alpha": 0.11,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 0.1,
+          "blue": 0.2352941176470588,
+          "green": 0.2352941176470588,
+          "red": 0.2352941176470588
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
-        "offsetY": 0,
+        "offsetY": 4,
         "spread": 0
       }
     ],
+    "sharedObjectID": "1758DA54-7F4A-4231-AB2A-6F977504D734",
     "startDecorationType": 0
   },
   "userInfo": {

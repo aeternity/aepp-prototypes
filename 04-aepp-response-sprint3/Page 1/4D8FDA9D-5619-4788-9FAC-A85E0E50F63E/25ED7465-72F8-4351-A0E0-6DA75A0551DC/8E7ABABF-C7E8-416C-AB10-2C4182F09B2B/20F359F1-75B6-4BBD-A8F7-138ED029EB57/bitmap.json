@@ -1,0 +1,68 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "20F359F1-75B6-4BBD-A8F7-138ED029EB57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 49.09090909090909,
+    "width": 49.09090909090909,
+    "x": -0.5454545454545041,
+    "y": -0.5454545454545041
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/7efb87a07deb2223f5a0f4709a451a2cd0865329",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cnn-logo",
+  "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 49.09091,
+            "enabled": 1,
+            "modelID": "constraint_38123b9d-33bf-4676-bcab-e9c80e215e6c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 49.09091
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_758f192d-feb6-4b62-b4ab-2277fa3e25fb",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

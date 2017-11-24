@@ -16,7 +16,7 @@
     "height": 60,
     "width": 310,
     "x": 33,
-    "y": 734
+    "y": 972
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 12,
   "masterInfluenceEdgeMinXPadding": 8,
   "masterInfluenceEdgeMinYPadding": 6,
-  "name": "card-minified",
+  "name": "card/minified",
   "nameIsFixed": false,
   "overrides": {
     "6D15DA79-8F72-458F-9302-FD965424CEC4": {
@@ -38,7 +38,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -49,6 +49,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "bottom": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_75372221-77ed-4a21-91c7-27d143f7d81b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_55bbbe62-64d9-4451-a830-d832c120c72e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   },
