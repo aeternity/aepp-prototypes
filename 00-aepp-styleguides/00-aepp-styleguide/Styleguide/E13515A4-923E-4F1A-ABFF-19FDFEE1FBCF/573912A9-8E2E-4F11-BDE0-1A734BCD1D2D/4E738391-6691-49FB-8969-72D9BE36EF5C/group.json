@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "do_objectID": "4E738391-6691-49FB-8969-72D9BE36EF5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 94,
+    "width": 164,
+    "x": 22,
+    "y": 113
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "705FB016-77E2-425E-85EF-8A2442EE1A9D"
+    },
+    {
+      "class": "text",
+      "id": "E3FF578D-70D6-4DC3-A5D6-898CE9E67E8B"
+    },
+    {
+      "class": "text",
+      "id": "2C7A3F73-6E23-41D5-AF08-3A7FE85D0F79"
+    },
+    {
+      "class": "text",
+      "id": "B7846E9E-7147-495C-8E5F-27F022AEDFA6"
+    },
+    {
+      "class": "text",
+      "id": "0244D422-4560-4536-85D5-547EA465CB88"
+    },
+    {
+      "class": "text",
+      "id": "D92D2F75-0104-41E4-BC9E-E56F67AF9C37"
+    },
+    {
+      "class": "text",
+      "id": "DD429277-51F1-44E9-91FB-BE378E8E7EA8"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_4b0e4a60-02c6-4d00-bb7e-88c3d86132c2",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 164,
+            "enabled": 1,
+            "modelID": "constraint_f03e8f53-cbf7-48a1-9a22-ba39124884ce",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        },
+        "isCollapsing": 1,
+        "spacing": 0,
+        "type": 0
+      }
+    }
+  }
+}
