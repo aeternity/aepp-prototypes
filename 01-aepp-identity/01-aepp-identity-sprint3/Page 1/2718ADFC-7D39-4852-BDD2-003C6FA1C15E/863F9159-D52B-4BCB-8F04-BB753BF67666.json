@@ -16,7 +16,7 @@
     "height": 188,
     "width": 306,
     "x": 35,
-    "y": 116
+    "y": 115
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,15 +24,22 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 6,
-  "masterInfluenceEdgeMaxYPadding": 6,
-  "masterInfluenceEdgeMinXPadding": 6,
-  "masterInfluenceEdgeMinYPadding": 6,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "card/large",
   "nameIsFixed": false,
   "overrides": {
     "A27D5D9B-F3F6-4CD7-8DB1-830B49E86C33": {
       "2B0DA6FB-343F-419D-B0AD-3DD11AE28F66": "124.0"
+    },
+    "F9858161-DB6B-49FE-A831-4593CE370880": {
+      "DD57BC71-52DE-4D04-ABA1-4ED4C2EEEFDE": {
+        "5A51E438-2879-4BEF-896A-DDF855887291": {
+          "symbolID": "F4D7B5F3-0BA2-4159-A39F-2DC10A58CBF2"
+        }
+      }
     }
   },
   "resizingConstraint": 63,
