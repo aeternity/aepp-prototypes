@@ -38,11 +38,11 @@ Create a new Sketch File, but use our Symbols as a [Styleguide](00-aepp-stylegui
 2. Use the [Shared Style Guide Sketch Plugin](https://github.com/nilshoenson/shared-text-styles), install the plugin and import the Æternity Shared Text Style you just downloaded.
 
 ## Take a look at our designed æpps until now:
-💳 [Æpp Identity Designs](01-aepp-identity) - [Demo æpp](http://identity.aepps.com/)  
-✍️ [Æpp Message Wall Designs](02-aepp-message-wall) - [Demo æpp](https://wall.aepps.com/)  
-🚀 [Æpp Notary Designs](03-aepp-notary) - [Demo æpp](http://notary.aepps.com/)  
-🙋 [Æpp Response Designs](04-aepp-response)  
-📝 [Æpp Voting Designs](05-aepp-voting) - [Demo æpp](https://vote.aepps.com/)  
+💳 **Æpp Identity** [Designs](01-aepp-identity) - [Demo æpp](http://identity.aepps.com/)  
+✍️ **Æpp Message Wall** [Designs](02-aepp-message-wall) - [Demo æpp](https://wall.aepps.com/)  
+🚀 **Æpp Notary** [Designs](03-aepp-notary) - [Demo æpp](http://notary.aepps.com/)  
+🙋 **Æpp Response** [Designs](04-aepp-response)  
+📝 **Æpp Voting** [Designs](05-aepp-voting) - [Demo æpp](https://vote.aepps.com/)  
 
 
 ---
