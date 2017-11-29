@@ -5,7 +5,9 @@ We publish concepts and prototypes of æpps that will run on the æternity block
 📱 Our æpps are designed mobile first  
 📖 Everything we build is open source
 
+
 ---
+
 
 # Getting started as a developer
 Developers can make use of the existing open source æpps components and tools in the development repositories below.
@@ -15,7 +17,9 @@ Developers can make use of the existing open source æpps components and tools i
 🙋‍ [Æpp Conversational Machine](https://github.com/aeternity/aepp-conversational-machine)  
 🛠 [Æpp Components](https://github.com/aeternity/aepp-components)  
 
+
 ---
+
 
 # Getting started as a designer
 Designers can make use of the styleguide and shared styles for Sketch. Read below how to get started.
@@ -30,8 +34,8 @@ or
 Create a new Sketch File, but use our Symbols as a [Styleguide](00-aepp-styleguides/00-aepp-styleguide.sketch) using the Sketch Library function. [Learn more about libraries](https://www.sketchapp.com/docs/libraries/adding-libraries)
 
 ## Make use of the shared text styles in Sketch
-1.Save the [Æternity Text Styles](00-aepp-styleguides/aepp-text-styles.json) locally  
-2.Use the [Shared Style Guide Sketch Plugin](https://github.com/nilshoenson/shared-text-styles), install the plugin and import the Æternity Shared Text Style you just downloaded.
+1. Save the [Æternity Text Styles](00-aepp-styleguides/aepp-text-styles.json) locally  
+2. Use the [Shared Style Guide Sketch Plugin](https://github.com/nilshoenson/shared-text-styles), install the plugin and import the Æternity Shared Text Style you just downloaded.
 
 ## Take a look at our designed æpps until now:
 💳 [Æpp Identity Designs](01-aepp-identity) - [Demo æpp](http://identity.aepps.com/)  
@@ -42,6 +46,7 @@ Create a new Sketch File, but use our Symbols as a [Styleguide](00-aepp-stylegui
 
 
 ---
+
 
 # Results Last Sprint (05)
 
@@ -92,8 +97,8 @@ All the different text styles can be found in the JSON [shared text file](00-aep
 
 ---
 
-# Results previous sprints
 
+# Results previous sprints
 
 ## Results Sprint 02
 [Sprint 02 – A complete walkthrough through the æpps](sprint-02-release/main.md)
