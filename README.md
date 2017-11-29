@@ -86,6 +86,8 @@ All the different types comes in different sizes as well. We advice to use the m
 
 
 ### Text styles
+Text styles can be found in the shared text file, the most important styles are shown in the screenshot below:  
+<img src='sprint-05-release/img/titles-paragraphs.png' width='375px' />
 All the different text styles can be found in the JSON [shared text file](00-aepp-styleguides/aepp-text-styles.json).
 
 
