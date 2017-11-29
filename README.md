@@ -68,7 +68,7 @@ A screen with a collection of buttons in all different varieties.
 <img src='sprint-05-release/img/button-types.png' width='375px'/>
 
 
-###Different types - Input fields & Dividers
+### Different types - Input fields & Dividers
 Input fields and dividers also can make use of the different types, which are used by the buttons. Input fields use a normal and a dramatic state, dividers can be used in all states.
 
 <img src='sprint-05-release/img/inputfields-dividers.png' width='375px' />
