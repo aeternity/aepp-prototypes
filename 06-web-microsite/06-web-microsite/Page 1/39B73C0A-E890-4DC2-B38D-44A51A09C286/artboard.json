@@ -26,7 +26,7 @@
     "y": -1597
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -78,12 +78,12 @@
       "id": "08C9FCBD-BCBD-4A76-B744-01329DF44033"
     },
     {
-      "class": "group",
-      "id": "CFC735EA-5584-4171-A2AA-71C3CA88C3EF"
+      "class": "symbolInstance",
+      "id": "2A8640A5-6741-4892-9E83-B45F5C388C88"
     },
     {
-      "class": "group",
-      "id": "BCDF0ADE-C226-451B-9D33-BDE07D010181"
+      "class": "symbolInstance",
+      "id": "D09A5347-C2B8-4DFE-9357-69A8E22300A0"
     }
   ],
   "name": "06.11-screenshots",
@@ -92,7 +92,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

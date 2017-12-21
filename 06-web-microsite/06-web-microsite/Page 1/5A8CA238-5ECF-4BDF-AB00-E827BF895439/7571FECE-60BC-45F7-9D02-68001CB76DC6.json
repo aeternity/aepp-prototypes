@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1798,
+    "height": 1366,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -30,9 +30,14 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "gradient/lght",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -52,7 +57,7 @@
             "modelID": "constraint_400cb292-7fe1-4a25-916a-70e525643af3",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 1.015943
+            "multiplier": 1.022939
           },
           "left": {
             "constant": 0,
