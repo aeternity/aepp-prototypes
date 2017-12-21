@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 915,
     "width": 375,
-    "x": 1744,
+    "x": 1601,
     "y": -1394
   },
   "hasBackgroundColor": false,
@@ -71,6 +71,10 @@
       "id": "67765ADB-DF87-4753-B4DB-C96E4771E125"
     },
     {
+      "class": "symbolInstance",
+      "id": "75165DA9-471F-446C-858C-0168089EAE6F"
+    },
+    {
       "class": "text",
       "id": "50641FD9-1C52-4AF9-B776-3D1D25D0D87E"
     },
@@ -100,10 +104,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "210EB171-5DEC-4A88-8F61-90DE38D65823"
-    },
-    {
-      "class": "symbolInstance",
       "id": "03A55897-E020-428A-8EC6-5F36BC37BD23"
     },
     {
@@ -129,7 +129,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

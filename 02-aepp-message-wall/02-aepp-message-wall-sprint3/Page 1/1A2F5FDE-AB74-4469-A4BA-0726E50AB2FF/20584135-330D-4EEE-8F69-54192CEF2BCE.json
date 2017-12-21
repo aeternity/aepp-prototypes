@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "message/overview",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C7CE67BC-7550-411A-B0C3-E25F1E5D8862_stringValue",
+      "value": "10 things that you can do with your Æ Tokens!"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C35CB02-8D02-4F81-B55D-CEE93EEAC45F_stringValue",
+      "value": "48 Minutes ago"
+    }
+  ],
   "overrides": {
     "5C35CB02-8D02-4F81-B55D-CEE93EEAC45F": "48 Minutes ago",
     "C7CE67BC-7550-411A-B0C3-E25F1E5D8862": "10 things that you can do with your Æ Tokens!"
@@ -37,6 +49,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

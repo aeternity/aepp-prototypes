@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 2219,
+    "x": 2148,
     "y": -1394
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,10 +53,6 @@
     {
       "class": "symbolInstance",
       "id": "93901825-1229-4EC8-82C5-9F209A8012AE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4A5AFA04-EDD5-4D68-95A4-038CAF65DA5B"
     },
     {
       "class": "text",
@@ -155,6 +151,10 @@
       "id": "B430D838-6188-48B1-BE2E-64EA13369F17"
     },
     {
+      "class": "symbolInstance",
+      "id": "51C7C353-E610-4E20-AA71-25E4F50874F9"
+    },
+    {
       "class": "text",
       "id": "393E5BB4-6201-4E9B-AE92-E6D6239A102C"
     }
@@ -165,7 +165,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

@@ -30,6 +30,38 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "button/large/main",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D2DF2C10-67E3-4D4C-B8E6-F07207F2F4C2_stringValue",
+      "value": "💰  Create Message"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "06509013-F738-456E-B962-AD260745BADE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6EF24B5E-2B7D-47ED-A5C2-DB217E04E465_stringValue",
+      "value": "👏 Support Message"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "01E250F7-FCF8-45CD-B98B-8367212715B7_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "01E250F7-FCF8-45CD-B98B-8367212715B7/5A51E438-2879-4BEF-896A-DDF855887291_symbolID",
+      "value": "66F836F3-4379-4A70-903D-42A4D1FBFE09"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2479880E-4A42-45D8-9BBC-5EF3C685625E_stringValue",
+      "value": "💸 Transfer"
+    }
+  ],
   "overrides": {
     "01E250F7-FCF8-45CD-B98B-8367212715B7": {
       "5A51E438-2879-4BEF-896A-DDF855887291": {
@@ -47,6 +79,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

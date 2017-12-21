@@ -30,6 +30,38 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "button/small/hover",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CACC11F1-1F94-4996-AAA6-6DD48E4F9E3D_stringValue",
+      "value": "Hide Supporters"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1139CC9D-6B17-40F1-8CE5-BE19C0D127DF_stringValue",
+      "value": "SHOW DETAILS"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6EBAC06C-0A32-4AB5-9667-8916BC65C4AC_stringValue",
+      "value": "Popular"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5BA017E6-0098-4AFD-B314-9E6EC67D9CA2_stringValue",
+      "value": "hide supporters"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BE1800A1-9CDC-46A6-AC23-49926F3229BA_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BE1800A1-9CDC-46A6-AC23-49926F3229BA/B101C8D0-DDED-4FA2-B2E1-B2D95E573C95_symbolID",
+      "value": "66F836F3-4379-4A70-903D-42A4D1FBFE09"
+    }
+  ],
   "overrides": {
     "1139CC9D-6B17-40F1-8CE5-BE19C0D127DF": "SHOW DETAILS",
     "5BA017E6-0098-4AFD-B314-9E6EC67D9CA2": "hide supporters",
@@ -45,6 +77,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
