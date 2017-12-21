@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 8,
-    "width": 62,
+    "width": 98,
     "x": 0,
     "y": 0
   },
@@ -23,11 +23,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "50AD9B24-925B-48FD-9046-6C05F5EA910D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B50D82DD-BC7C-4863-A0C8-2D08657669B3"
     },
     {
       "class": "symbolInstance",
@@ -40,6 +44,10 @@
     {
       "class": "symbolInstance",
       "id": "10B239FF-0FBC-4B5E-859E-171A36A2418A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5FF4A8C4-06F5-4847-905E-19A2F348F102"
     }
   ],
   "name": "Stacked Group",

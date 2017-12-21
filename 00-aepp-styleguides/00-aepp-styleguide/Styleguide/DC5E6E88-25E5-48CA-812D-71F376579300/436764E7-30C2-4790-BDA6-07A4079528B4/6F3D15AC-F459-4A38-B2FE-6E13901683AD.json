@@ -30,14 +30,22 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "fill/white",
   "nameIsFixed": true,
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.2
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

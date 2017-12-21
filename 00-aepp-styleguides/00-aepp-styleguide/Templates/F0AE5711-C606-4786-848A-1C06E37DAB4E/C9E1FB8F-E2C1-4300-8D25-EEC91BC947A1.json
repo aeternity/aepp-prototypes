@@ -25,11 +25,28 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 8,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "header/mobile",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C1FCD26F-D089-48F8-A67E-AA9BF6FDA305_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "80AF3BCC-5A00-4778-9D59-592092E17D12_stringValue",
+      "value": "Titles & Paragraphs"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "648C1E75-79FA-4C7C-9867-57207B281929_symbolID",
+      "value": ""
+    }
+  ],
   "overrides": {
     "648C1E75-79FA-4C7C-9867-57207B281929": {
       "symbolID": ""
@@ -42,6 +59,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

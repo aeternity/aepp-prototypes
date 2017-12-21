@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "button/dramatic/large/active",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9EBF7D3E-2D56-40E9-BE76-170D7421A579_symbolID",
+      "value": ""
+    }
+  ],
   "overrides": {
     "9EBF7D3E-2D56-40E9-BE76-170D7421A579": {
       "symbolID": ""
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
