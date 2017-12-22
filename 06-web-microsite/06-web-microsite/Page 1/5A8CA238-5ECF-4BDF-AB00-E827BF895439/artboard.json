@@ -29,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1770,
+    "height": 1335,
     "width": 1440,
-    "x": -1862,
+    "x": -1861,
     "y": 1199
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -56,27 +56,91 @@
     },
     {
       "class": "group",
-      "id": "A4AD84F7-DEE3-4C57-84F1-D56D3D759D45"
+      "id": "FC454634-8773-487F-80BE-C0A428BD3DB1"
+    },
+    {
+      "class": "text",
+      "id": "ECF935FD-2528-4CA0-88B8-C33C0F3BB344"
+    },
+    {
+      "class": "text",
+      "id": "FAA0E9D1-A306-410C-9456-8F8D9D1CD0C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "637B8554-BC90-4554-B07B-4A997E61A779"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F59F5C8-0808-429D-BB3E-FB141F2723A5"
+    },
+    {
+      "class": "text",
+      "id": "7712895A-B68E-4D43-8C4F-CC8182B82589"
     },
     {
       "class": "group",
-      "id": "DE15DAAA-88F0-45B3-AD89-8F06E89821F1"
+      "id": "86EED448-0F17-453F-91BE-B506D97516DF"
     },
     {
       "class": "group",
-      "id": "8452B361-EC62-488F-B693-048B045581D7"
+      "id": "A820AAB9-2741-422A-BF94-ECBF2756E0F8"
+    },
+    {
+      "class": "text",
+      "id": "D189706E-84C5-4A04-8AA4-AE76E83492C3"
+    },
+    {
+      "class": "text",
+      "id": "92D26DBB-AB98-4620-89D8-81B1A984C75F"
+    },
+    {
+      "class": "text",
+      "id": "0825E56F-4C1E-4756-9DB4-1E3A42BE6E68"
     },
     {
       "class": "group",
-      "id": "FABC0B07-57B1-4760-AF1A-84A556CE294A"
+      "id": "A40DDE98-E2C9-4E69-9DA4-8A3A0C2AA5C6"
+    },
+    {
+      "class": "text",
+      "id": "77B2C29C-A0C7-4819-A274-A6CAC11F9BB0"
+    },
+    {
+      "class": "text",
+      "id": "17865243-59CB-4D33-89D2-9226E2580070"
+    },
+    {
+      "class": "text",
+      "id": "526CD401-776B-4796-997D-572DE011A2A3"
     },
     {
       "class": "group",
-      "id": "B6B867F8-FF25-484B-B37E-12F5CDB5FFB2"
+      "id": "5B9E704A-3993-4E03-BFEA-77D63CD236A2"
     },
     {
-      "class": "group",
-      "id": "D705C687-ACCD-48A6-9038-3936E1A2A4A4"
+      "class": "text",
+      "id": "135D1D42-FF6C-487D-B746-B7F45681383B"
+    },
+    {
+      "class": "text",
+      "id": "968B6DC7-D807-4238-A840-4521AE4C2235"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1768C70-866D-4808-812E-AB554424C2FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D531D537-A1C1-4A1E-9670-E6B453B89CD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9777280F-12F6-44BF-A857-58D75D77C8B1"
+    },
+    {
+      "class": "text",
+      "id": "46C5BCB8-2FCC-4DB2-A11F-23061637CC92"
     },
     {
       "class": "symbolInstance",
@@ -87,28 +151,8 @@
       "id": "A8A15B74-8AF4-45C8-A428-AAA13F84F14C"
     },
     {
-      "class": "symbolInstance",
-      "id": "72D8863F-7F40-4D08-8968-BD172EC4986C"
-    },
-    {
-      "class": "text",
-      "id": "927228BE-8F9A-4B61-B5D4-A72339491183"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "4468DC71-2485-46BC-81AC-70F6C1DB1BD7"
-    },
-    {
       "class": "text",
       "id": "556DC7BD-EB80-4C08-B7E6-141DABFDD36F"
-    },
-    {
-      "class": "text",
-      "id": "BE5CEBAA-09FB-47EA-86CC-5F8739654989"
-    },
-    {
-      "class": "group",
-      "id": "9659EBA4-70B4-4779-A1D7-A014B639835F"
     },
     {
       "class": "text",
@@ -121,6 +165,26 @@
     {
       "class": "shapeGroup",
       "id": "378FED4A-EB23-4CCF-9911-5183A878D456"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1213B58E-85AF-4304-8054-B10B8495BD83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "896D3875-EDF4-409C-9569-6DE68C7B8D62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F3B9108-ABD7-4ADB-BE53-24BAA6C21735"
+    },
+    {
+      "class": "group",
+      "id": "A448965D-E474-4AF6-AAB2-3213D594B051"
+    },
+    {
+      "class": "group",
+      "id": "9E265624-1415-4FEE-B7BE-FFA12F345C86"
     }
   ],
   "name": "06.20-microsite-hackathon",
@@ -129,7 +193,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

@@ -14,14 +14,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17.27272727272728,
-    "width": 17,
-    "x": 244,
-    "y": 113
+    "height": 130.2727272727271,
+    "width": 261,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
-  "isFlippedHorizontal": true,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
@@ -30,11 +30,15 @@
     {
       "class": "shapePath",
       "id": "43020F2F-B154-4618-AD85-D5168E226ABC"
+    },
+    {
+      "class": "rectangle",
+      "id": "A175D1B9-EF58-4AFE-8D70-4CE213AD434F"
     }
   ],
-  "name": "message bg",
+  "name": "Combined Shape",
   "nameIsFixed": true,
-  "resizingConstraint": 36,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

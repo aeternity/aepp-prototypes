@@ -55,13 +55,6 @@
       {
         "_class": "color",
         "alpha": 1,
-        "blue": 0.2352941176470588,
-        "green": 0.0392156862745098,
-        "red": 0.196078431372549
-      },
-      {
-        "_class": "color",
-        "alpha": 1,
         "blue": 0.8161936649659864,
         "green": 0.6098748236384693,
         "red": 0.7749298967004832
@@ -86,6 +79,20 @@
         "blue": 0.3529411764705881,
         "green": 0.1568627450980392,
         "red": 0.8627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4313725490196083,
+        "green": 0.1607843137254902,
+        "red": 0.9686274509803922
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2352941176470588,
+        "green": 0.0392156862745098,
+        "red": 0.196078431372549
       }
     ],
     "gradients": [
@@ -184,6 +191,102 @@
           }
         ],
         "to": "{0.49999999999999989, 0.98708545918367341}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.4392156862745096,
+              "green": 0.1843137254901961,
+              "red": 0.9490196078431372
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.3607843137254902,
+              "green": 0.1450980392156863,
+              "red": 0.2588235294117647
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1, 1}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 1}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0,
+              "green": 0,
+              "red": 0
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.2188031462585034,
+              "green": 0.2188031462585034,
+              "red": 0.2188031462585034
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.50000000000000011, 0}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 1}",
+        "gradientType": 0,
+        "shouldSmoothenOpacity": false,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0,
+              "green": 0,
+              "red": 0
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.2188031462585034,
+              "green": 0.2188031462585034,
+              "red": 0.2188031462585034
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.50000000000000011, 0}"
       }
     ],
     "imageCollection": {
@@ -206,13 +309,18 @@
     ]
   },
   "meta": {
-    "appVersion": "47.1",
-    "build": 45422,
-    "commit": "d5cff89adfb6ffc45ca7b7d58d65cada3f63f39a",
-    "version": 95
+    "appVersion": "48.2",
+    "build": 47327,
+    "commit": "b8111e3393c4ca1f2399ecfdfc1e9488029ebe7b",
+    "version": 97
   },
   "pages": [
     "Styleguide",
     "Templates"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }

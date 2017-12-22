@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "icon/ui/check",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A51E438-2879-4BEF-896A-DDF855887291_symbolID",
+      "value": "20202E4D-8332-4AD4-8418-C52104812958"
+    }
+  ],
   "overrides": {
     "5A51E438-2879-4BEF-896A-DDF855887291": {
       "symbolID": "20202E4D-8332-4AD4-8418-C52104812958"
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

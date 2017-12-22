@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "inputfield/dramatic/empty",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1CEDC4F0-8C14-4496-AC3A-77EB5AB1DFC3_stringValue",
+      "value": "Input field in a dramatic state"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FDE3DB1F-D2C8-40DE-9ECA-1B3FF7C94E26_stringValue",
+      "value": "Input field in a normal state"
+    }
+  ],
   "overrides": {
     "1CEDC4F0-8C14-4496-AC3A-77EB5AB1DFC3": "Input field in a dramatic state",
     "FDE3DB1F-D2C8-40DE-9ECA-1B3FF7C94E26": "Input field in a normal state"
@@ -37,6 +49,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 4,
   "name": "button/dramatic/medium/active",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "06509013-F738-456E-B962-AD260745BADE_symbolID",
+      "value": ""
+    }
+  ],
   "overrides": {
     "06509013-F738-456E-B962-AD260745BADE": {
       "symbolID": ""
@@ -38,6 +45,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

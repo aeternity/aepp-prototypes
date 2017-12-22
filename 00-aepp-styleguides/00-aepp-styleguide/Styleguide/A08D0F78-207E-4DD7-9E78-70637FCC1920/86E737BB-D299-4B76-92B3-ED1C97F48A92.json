@@ -30,14 +30,22 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "icon/ui/close",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6E63BD3D-1C1D-4E6A-9C04-0C2D0E7AE80B_symbolID",
+      "value": "20202E4D-8332-4AD4-8418-C52104812958"
+    }
+  ],
   "overrides": {
     "6E63BD3D-1C1D-4E6A-9C04-0C2D0E7AE80B": {
       "symbolID": "20202E4D-8332-4AD4-8418-C52104812958"
     }
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

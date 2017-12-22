@@ -5,6 +5,9 @@ We publish concepts and prototypes of æpps that will run on the æternity block
 📱 Our æpps are designed mobile first  
 📖 Everything we build is open source
 
+## Quick access designs and styles in Zeplin
+All the designs are frequently updated in Zeplin Styleguide, where all the CSS Styles can be viewed. To receive access to the styleguide and the designs, send a request with your email address you used for your [Zeplin](https://zeplin.io/) account to ray@apeunit.com.
+
 
 ---
 
@@ -47,8 +50,7 @@ Create a new Sketch File, but use our Symbols as a [Styleguide](00-aepp-stylegui
 
 ---
 
-
-# Results Last Sprint (05)
+# Results Sprint (05)
 
 ## 1. We developed a Styleguide which helps designers to get started
 Which will be updated here when any changes will be made.

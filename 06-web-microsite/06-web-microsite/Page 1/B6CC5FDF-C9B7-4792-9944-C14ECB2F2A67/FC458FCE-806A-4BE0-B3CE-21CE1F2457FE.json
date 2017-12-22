@@ -16,7 +16,7 @@
     "height": 8,
     "width": 62,
     "x": 684,
-    "y": 1909
+    "y": 1889
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,18 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "pagination",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "77924F2B-D3A3-4CF3-AC9B-ABDF0732CC07_symbolID",
+      "value": "AB1825C1-909D-4529-AC4D-EF811668C24F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "10B239FF-0FBC-4B5E-859E-171A36A2418A_symbolID",
+      "value": "68244264-9958-4285-B599-6157E617F97A"
+    }
+  ],
   "overrides": {
     "10B239FF-0FBC-4B5E-859E-171A36A2418A": {
       "symbolID": "68244264-9958-4285-B599-6157E617F97A"
@@ -41,6 +53,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
