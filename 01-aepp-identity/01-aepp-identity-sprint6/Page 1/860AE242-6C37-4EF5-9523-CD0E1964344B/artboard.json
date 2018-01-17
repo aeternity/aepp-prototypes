@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 1366,
+    "x": 1759,
     "y": -5446
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,10 +53,6 @@
     {
       "class": "symbolInstance",
       "id": "3E53770F-C0DD-4333-B2DD-3FF43634D37F"
-    },
-    {
-      "class": "group",
-      "id": "BA4B3F29-94A6-46F5-81B2-C09A2C262EA6"
     },
     {
       "class": "text",
@@ -88,15 +84,27 @@
     },
     {
       "class": "group",
-      "id": "F09D7FE7-E6B5-43D3-9E4D-E3A0130CE198"
+      "id": "9A07ED08-3082-4F06-8517-58F5B4B3CEB7"
+    },
+    {
+      "class": "group",
+      "id": "CD011125-FB93-4648-BFFD-23A8CB5E3560"
+    },
+    {
+      "class": "group",
+      "id": "B45D4A42-2AD0-4AAC-BA7E-C1B878E7762E"
+    },
+    {
+      "class": "group",
+      "id": "CAC52B7C-86E4-4D2B-B0C2-D8B83B178075"
+    },
+    {
+      "class": "group",
+      "id": "BE97B7B0-85C1-4B75-9BBE-D7130C8BC2A1"
     },
     {
       "class": "text",
       "id": "F682F74E-618B-48CE-84AE-EBFC95671F88"
-    },
-    {
-      "class": "group",
-      "id": "36F498BF-E872-4851-9BDB-3524ABA5D643"
     },
     {
       "class": "shapeGroup",
@@ -109,6 +117,14 @@
     {
       "class": "group",
       "id": "74796F75-635A-4263-AA0F-931F50B3FC42"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2402109-094B-4173-B9BF-AD74878C9540"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9DF8DA5D-39D9-4296-AD1C-2C9BAB0A0FF1"
     }
   ],
   "name": "01.04-base-intro-app-browser",

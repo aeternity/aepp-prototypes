@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 359,
+    "x": 820,
     "y": -233
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -91,10 +91,6 @@
       "id": "DA4036FE-0F9B-4C8C-8DFE-1EC18614F070"
     },
     {
-      "class": "symbolInstance",
-      "id": "3EDD4B40-F811-4C7D-888D-D5E809CC5191"
-    },
-    {
       "class": "text",
       "id": "4C26B7B5-AB41-4B5D-87D4-F3B534107A17"
     },
@@ -112,14 +108,18 @@
     },
     {
       "class": "symbolInstance",
-      "id": "33C4E950-646B-4A4B-B01E-08D2C1588302"
+      "id": "97F041C5-D81F-45EA-B468-2EEBA0734A70"
     },
     {
       "class": "symbolInstance",
-      "id": "97F041C5-D81F-45EA-B468-2EEBA0734A70"
+      "id": "666AB557-610D-46A5-9D31-AC470F887B83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46E1E8CD-449B-4287-AF77-84C2FA0A0454"
     }
   ],
-  "name": "01.52-my-identities-info-edit-metadata",
+  "name": "01.53-my-identities-info-edit-metadata",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 867,
+    "x": 1286,
     "y": -5446
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -71,16 +71,16 @@
       "id": "5B31B61C-5F62-489E-8C5D-A44708240672"
     },
     {
-      "class": "group",
-      "id": "513F0651-DA1B-4B55-AD0D-528747FB0DF1"
-    },
-    {
-      "class": "group",
-      "id": "C7EBE506-BA74-4A11-AB8E-26298044B445"
+      "class": "shapeGroup",
+      "id": "1BED75DA-CC3C-41C7-A3DC-CB33F83C1158"
     },
     {
       "class": "group",
       "id": "2F045349-2E1A-4028-B680-A689302AB15A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EC15137-7FA4-499E-AA36-BDBF660DD0C9"
     },
     {
       "class": "shapeGroup",
@@ -93,6 +93,10 @@
     {
       "class": "symbolInstance",
       "id": "1913F252-8769-4F20-A497-DE7F8B6D1D1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1AFC06EA-625E-48F9-9DD2-8C9ECF0E0B12"
     }
   ],
   "name": "01.03-base-intro-name-image",
