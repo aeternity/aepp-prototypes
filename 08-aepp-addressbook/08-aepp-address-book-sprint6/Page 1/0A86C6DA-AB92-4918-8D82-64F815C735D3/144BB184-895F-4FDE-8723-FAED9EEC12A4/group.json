@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "144BB184-895F-4FDE-8723-FAED9EEC12A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 83,
+    "width": 121,
+    "x": 127,
+    "y": 292
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1199434F-C606-4D07-9054-DB2FCD0DABB8"
+    },
+    {
+      "class": "group",
+      "id": "C2914B6F-A86B-400C-AC1C-9CADB6DB4666"
+    },
+    {
+      "class": "group",
+      "id": "3719BA53-2CE8-4307-9A94-A809D66379C6"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 83,
+            "enabled": 1,
+            "modelID": "constraint_37382eb9-1aef-4d47-a32b-8e6e50d0b4b1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 121
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_9b69b6ee-dc5f-4b5b-ba69-2a9946b8d635",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

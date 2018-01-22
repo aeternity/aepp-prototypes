@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1702C4BE-8DC5-4A54-B314-F787DF7EB91C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 305,
+    "x": 35,
+    "y": 497
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 8,
+  "masterInfluenceEdgeMaxYPadding": 12,
+  "masterInfluenceEdgeMinXPadding": 8,
+  "masterInfluenceEdgeMinYPadding": 4,
+  "name": "button/large/main",
+  "nameIsFixed": false,
+  "originalObjectID": "A3979943-1660-4BE1-8C04-64AE0DBB6EBA",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D2DF2C10-67E3-4D4C-B8E6-F07207F2F4C2_stringValue",
+      "value": "💳  Create new Identity"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2479880E-4A42-45D8-9BBC-5EF3C685625E_stringValue",
+      "value": "💸 Transfer"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F21BBB7A-3D7F-4ABB-A407-27BDA2468558",
+      "overrideName": "3777A662-DCEC-4DB5-A99F-FDB989D848DE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B807F08F-1DA1-4317-970B-E771102D3708",
+      "overrideName": "31C14163-1713-435F-8B76-085803121C44_stringValue",
+      "value": "💸 Make Transaction"
+    }
+  ],
+  "overrides": {
+    "2479880E-4A42-45D8-9BBC-5EF3C685625E": "💸 Transfer",
+    "31C14163-1713-435F-8B76-085803121C44": "💸 Make Transaction",
+    "3777A662-DCEC-4DB5-A99F-FDB989D848DE": {
+      "symbolID": ""
+    },
+    "D2DF2C10-67E3-4D4C-B8E6-F07207F2F4C2": "💳  Create new Identity"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8111B70C-80B2-4079-93E3-059AEC6F43AF",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

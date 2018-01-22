@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "D380B2D9-51E5-461D-873F-F124EE31EE2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 23,
+    "width": 23,
+    "x": 907,
+    "y": 198
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7708819A-6627-4D03-BA4D-9CA00D7CB84B"
+    },
+    {
+      "class": "group",
+      "id": "9B75605C-473B-4BEE-A7FE-4DFA78541483"
+    }
+  ],
+  "name": "Slack_Mark_Monochrome_Black",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 23,
+            "enabled": 1,
+            "modelID": "constraint_eeae3939-4a2c-49dd-b37c-b01cfe7c2554",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 23
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_cd8e4447-0f10-4b1a-8ecf-bd68571a7028",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
