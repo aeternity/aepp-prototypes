@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -1036,
-    "y": 7102
+    "x": -1136,
+    "y": 6503
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -41,6 +41,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1AFBD80F-41EA-4256-9DAA-8E52AE0FEBA5"
+    },
     {
       "class": "symbolInstance",
       "id": "8A1F4DAF-E7BA-49E4-B69A-552E6031A5A8"
@@ -134,10 +138,6 @@
       "id": "0859A5CC-9A86-45BA-AF9E-874044FB83BC"
     },
     {
-      "class": "symbolInstance",
-      "id": "D150399D-D65A-4A86-B067-D28FC0D6161F"
-    },
-    {
       "class": "text",
       "id": "1624A60D-875B-48F6-BBCD-4A2A126217EF"
     },
@@ -166,12 +166,32 @@
       "id": "E907DC03-C33E-4728-AB62-E84AFCD9649B"
     },
     {
+      "class": "symbolInstance",
+      "id": "9828CAB9-BEC8-490A-AAD9-A9AF1F8E0442"
+    },
+    {
       "class": "shapeGroup",
-      "id": "1AFBD80F-41EA-4256-9DAA-8E52AE0FEBA5"
+      "id": "F5593BA2-EFA0-4F9F-BFC4-DEE8849E6B5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1644D494-C097-45FD-9E2A-C30C7D9413DF"
+    },
+    {
+      "class": "group",
+      "id": "71DF38FA-14D8-44A9-97B4-5E63255BF4EA"
+    },
+    {
+      "class": "text",
+      "id": "B870B12A-AD96-48EB-8F0B-67EA5C377394"
+    },
+    {
+      "class": "group",
+      "id": "7D68D248-97F5-497A-9EB5-2425CAFBDE54"
     }
   ],
-  "name": "iPhone 8 Copy",
-  "nameIsFixed": false,
+  "name": "07.21-blocks-mobile",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

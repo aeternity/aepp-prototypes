@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -107,
-    "y": 7102
+    "x": 170,
+    "y": 6503
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -71,6 +71,14 @@
     },
     {
       "class": "symbolInstance",
+      "id": "C160BDA1-E4A3-4442-AECA-36AFB3F220E1"
+    },
+    {
+      "class": "text",
+      "id": "7FC526CF-65BE-48BD-B0B2-EC98E8C0D72C"
+    },
+    {
+      "class": "symbolInstance",
       "id": "B35256D2-E078-4718-952F-B568A788B945"
     },
     {
@@ -98,8 +106,8 @@
       "id": "81A35E15-6F37-463B-816C-598C4CB3DD43"
     }
   ],
-  "name": "iPhone 8 Copy 3",
-  "nameIsFixed": false,
+  "name": "07.30-menu-mobile",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

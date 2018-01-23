@@ -4,6 +4,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -23,11 +32,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "C7EE05E4-5CAD-42AF-8EB1-A5B117B68C6C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29948D8B-42F6-45D6-907A-F31CC51E9615"
     }
   ],
   "name": "app/launcher",

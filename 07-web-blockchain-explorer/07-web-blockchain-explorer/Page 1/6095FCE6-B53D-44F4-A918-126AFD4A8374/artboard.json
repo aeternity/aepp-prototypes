@@ -22,8 +22,8 @@
     "constrainProportions": false,
     "height": 1071,
     "width": 375,
-    "x": -581,
-    "y": 7102
+    "x": -700,
+    "y": 6503
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -62,6 +62,10 @@
       "id": "CAEEBDE2-0B8D-432F-BE63-F1F006518D76"
     },
     {
+      "class": "shapeGroup",
+      "id": "934EB7FC-F9DC-42CE-81C8-46439CF0A059"
+    },
+    {
       "class": "text",
       "id": "ACCFD250-8F5C-4C06-8200-4816339F6C7B"
     },
@@ -86,12 +90,12 @@
       "id": "009B02C6-FB53-42C2-9E1D-B38434911DE8"
     },
     {
-      "class": "symbolInstance",
-      "id": "4C756138-DE84-4091-8BFE-E8A1AA397BBE"
+      "class": "group",
+      "id": "9D66CA62-326A-4A7D-B2D2-B312F2EADC6A"
     },
     {
       "class": "group",
-      "id": "9D66CA62-326A-4A7D-B2D2-B312F2EADC6A"
+      "id": "FD1EFE34-1C99-470B-9A46-DEDDEA99282A"
     },
     {
       "class": "text",
@@ -127,39 +131,131 @@
     },
     {
       "class": "text",
-      "id": "75185518-0BC0-414D-BAF8-75A63E15D710"
-    },
-    {
-      "class": "text",
       "id": "D0C1FC7A-D725-41C0-885E-6D2A7BDDB7D1"
     },
     {
       "class": "group",
-      "id": "9C2C33EE-B5E0-4B33-B681-C4AEE4218A75"
-    },
-    {
-      "class": "group",
-      "id": "4369BCAC-26AB-40F9-8C9F-DF4BDB4B7D2F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A22CC097-2F71-4D07-A554-7F2573FE264F"
-    },
-    {
-      "class": "group",
-      "id": "16BF7EF8-33A8-40C5-9D01-4EBFE5A2CDD6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "53E22ABA-7071-42A5-8FB0-1D91F677246E"
-    },
-    {
-      "class": "group",
       "id": "5E40E943-C116-4FEB-9C11-E144CA6CEDF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B599691B-5763-498D-81B5-1750CFDDCBF9"
+    },
+    {
+      "class": "text",
+      "id": "AAB1B847-04AB-483B-A5FE-02A3F8A848F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81A6EC32-4195-44B7-9AFC-B7A9E04FA11F"
+    },
+    {
+      "class": "text",
+      "id": "E67EEDF7-C20A-43A6-86AB-F4272387F1C2"
+    },
+    {
+      "class": "text",
+      "id": "EEAB591C-D5DB-4BAE-BD80-2C4E701B26AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE3B4FBD-3292-4257-9DE2-90C22A8B04F6"
+    },
+    {
+      "class": "text",
+      "id": "F8A112E7-FFF5-4305-AE44-1F8B4F51DEF0"
+    },
+    {
+      "class": "text",
+      "id": "C928A49D-7D09-4E02-BABE-7ADC7AE2F731"
+    },
+    {
+      "class": "text",
+      "id": "CD98E336-1BEF-4825-AEED-74D3E6FAD29D"
+    },
+    {
+      "class": "text",
+      "id": "199BF041-AF41-46E9-9D4F-4E52B2A17ACB"
+    },
+    {
+      "class": "text",
+      "id": "D04FD796-CF8C-4834-8BB0-A2D8B1114870"
+    },
+    {
+      "class": "text",
+      "id": "ED332064-6B1E-479C-81F7-4975453ED18D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72D12207-D4D5-4C0B-82B8-D7655B695F5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B68D8CEE-FC05-4AC4-9D6B-CE142DFFB9A4"
+    },
+    {
+      "class": "text",
+      "id": "D5932C5C-C581-47C0-8FEF-02A0760223D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3377FB3C-6E40-453F-94B1-6487013D19B1"
+    },
+    {
+      "class": "text",
+      "id": "ECE62548-44E0-43FA-A379-5729F262A586"
+    },
+    {
+      "class": "text",
+      "id": "1262384A-0EAB-4670-8D60-06B8A0741A14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "781C8798-16A3-4DA6-9787-F12A12C7BE71"
+    },
+    {
+      "class": "text",
+      "id": "749F8286-EF70-43CB-BF68-BE181304091C"
+    },
+    {
+      "class": "text",
+      "id": "1D72D1FF-4891-4734-BAE5-3E77A471A0F2"
+    },
+    {
+      "class": "text",
+      "id": "7F143614-16F4-43C6-B74B-30932231C207"
+    },
+    {
+      "class": "text",
+      "id": "0CE7F399-17A0-423A-9551-386B154178FC"
+    },
+    {
+      "class": "text",
+      "id": "DAF9268F-FB8B-487D-B8E9-858A83155614"
+    },
+    {
+      "class": "text",
+      "id": "DBAF5786-6965-44A9-8FFF-3B3A585917A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "71E87022-6C4D-48D2-8EA7-2FEA4969CFCB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D7005117-4A89-43F4-BCD0-4285E7365797"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E60A853C-970E-4B30-BE5B-4B4300ADE363"
+    },
+    {
+      "class": "text",
+      "id": "262A1D1B-6565-490D-B3E2-C4B85A34C52C"
     }
   ],
-  "name": "iPhone 8 Copy 2",
-  "nameIsFixed": false,
+  "name": "07.22-block-mobile",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
