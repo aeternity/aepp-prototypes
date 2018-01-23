@@ -35,7 +35,7 @@
     "y": -2808
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,8 +55,8 @@
       "id": "F44ADE76-5563-4580-A528-7DB82FB6531A"
     },
     {
-      "class": "group",
-      "id": "211E3ADF-47DF-424A-845C-05B55A1CE94E"
+      "class": "symbolInstance",
+      "id": "E9F5DED2-F76C-4300-9925-AFA0872C2ABC"
     },
     {
       "class": "symbolInstance",
@@ -71,10 +71,6 @@
       "id": "E391C96B-AC93-415F-94B9-40BACBD16453"
     },
     {
-      "class": "group",
-      "id": "F2AB6E24-B4B9-459D-8348-53189F4B166F"
-    },
-    {
       "class": "symbolInstance",
       "id": "16F91B2B-1307-4140-8736-692CB029B5E5"
     },
@@ -84,11 +80,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "06435254-AC5C-4478-80F0-FA4736BBF425"
+      "id": "DF66651E-2303-4099-AE47-EA3461CF3695"
     },
     {
       "class": "symbolInstance",
-      "id": "DF66651E-2303-4099-AE47-EA3461CF3695"
+      "id": "5B5DC5A9-6459-4E89-8A9E-EEC00BC262F9"
+    },
+    {
+      "class": "group",
+      "id": "B05D9616-4AE4-459A-A0F7-301E0C51C0B4"
     }
   ],
   "name": "01.20-aepps-browse-recovered",

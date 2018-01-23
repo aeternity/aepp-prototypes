@@ -35,7 +35,7 @@
     "y": 2295
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -97,14 +97,6 @@
     {
       "class": "text",
       "id": "464CC1D1-D1C6-4472-A210-64B251C1C89B"
-    },
-    {
-      "class": "group",
-      "id": "40E96D02-C985-4FA5-BCCA-BC115000A3BD"
-    },
-    {
-      "class": "text",
-      "id": "75AE13F6-1BB9-4EC1-8F1F-BB27FF86AB1A"
     },
     {
       "class": "text",
@@ -201,6 +193,10 @@
     {
       "class": "symbolInstance",
       "id": "691F9AD8-B542-48F7-9841-EADAB38B8A15"
+    },
+    {
+      "class": "group",
+      "id": "5A25E70B-E541-4FBC-AEBD-012A0902CFBA"
     }
   ],
   "name": "01.81-aepp-request-read-data-more",
