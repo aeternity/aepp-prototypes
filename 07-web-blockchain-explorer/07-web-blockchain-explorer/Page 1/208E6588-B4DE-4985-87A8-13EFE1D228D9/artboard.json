@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -23,10 +32,10 @@
     "height": 2970,
     "width": 1440,
     "x": -1571,
-    "y": 124
+    "y": 118
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

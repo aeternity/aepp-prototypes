@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -92,14 +101,6 @@
     {
       "class": "shapeGroup",
       "id": "50BC51C5-4CF3-491C-B0E6-A4F92A1D8751"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4A147840-8DF3-4393-AD27-7994D8435E8D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "607474EE-66C3-45D1-92FB-9F4C61A52F6A"
     }
   ],
   "name": "07.01-blocks",
