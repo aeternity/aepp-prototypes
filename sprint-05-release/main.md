@@ -15,13 +15,13 @@ We have developed a structure in our elements that should be used consistently t
 ### Different types - Buttons
 A screen with a collection of buttons in all different varieties.
 
-<img src='sprint-05-release/img/button-types.png' width='375px'/>
+<img src='/sprint-05-release/img/button-types.png' width='375px'/>
 
 
 ### Different types - Input fields & Dividers
 Input fields and dividers also can make use of the different types, which are used by the buttons. Input fields use a normal and a dramatic state, dividers can be used in all states.
 
-<img src='sprint-05-release/img/inputfields-dividers.png' width='375px' />  
+<img src='/sprint-05-release/img/inputfields-dividers.png' width='375px' />  
 
 
 ### Buttons in different sizes
@@ -31,13 +31,13 @@ All the different types comes in different sizes as well. We advice to use the m
 * medium (default)
 * large
 
-<img src='sprint-05-release/img/button-sizes.png' width='375px' />  
+<img src='/sprint-05-release/img/button-sizes.png' width='375px' />  
 
 
 
 ### Text styles
 The most important styles are shown in the screenshot below. All the different text styles can be found in the JSON [shared text file](00-aepp-styleguides/aepp-text-styles.json).  
-<img src='sprint-05-release/img/titles-paragraphs.png' width='375px' />  
+<img src='/sprint-05-release/img/titles-paragraphs.png' width='375px' />  
 
 
 
