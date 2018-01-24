@@ -83,7 +83,16 @@ You can visit the working version [here](https://explorer.aepps.com/)
 
 <img src='sprint-06-release/img/blockchain-explorer-transaction-info.png' width='750px' />
 
+
+### Address Info
+* Clicking on an address anywhere in the blockchain explorer leads to the detailed address information
+* Here are the details of the address listed, such as amount, number of transactions, latets transactions.
+
+<img src='sprint-06-release/img/blockchain-explorer-address-info.png' width='750px' />
+
+
 ---
+
 
 ## 2. We started the concept/design of the decision maker æpp
 The decision maker is an æpp that lets users create documents (decisions) based on a meeting that has been taken place. The author can create notes from this meeting and invite the people that took part of the meeting. When every attendee agreed to a note (quote, short text, ..), the note is closed and an agreement has took place and everyone should commit to that.  
