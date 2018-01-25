@@ -114,6 +114,49 @@ The decision maker is an æpp that lets users create documents (decisions) based
 
 ---
 
+## 3. We started the concept/design of the Æddress Book æpp
+The Æddress Book aepp allows the user to create and save contacts—like the smartphone address book or contacs application does—in the local storage. The user can assign aliases/names to Æternity addresses and interact, e.g. send transactions, in a more user friendly and visual appealing way. The design was already put together in a click dummy and will be developed as aepp in the upcoming sprints.
+
+### Æddress Book
+* At first start, there are no saved contacts, yet
+
+<img src='sprint-06-release/img/aeddress-book-empty.png' width='375px' />
+
+* Clicking/Tapping the prominent `+`-button leads the user to the next screen which shows a field for an alias/name, a field for an Æternity address and two buttons: `PASTE` an address you previously copied into your clipboard or `SCAN QR` to scan an identity which was given to you in shape of a QR code.
+
+<img src='sprint-06-release/img/aeddress-book-add-contact-empty.png' width='375px' />
+
+* Once both input fields are filled, the `Save contact` button is clickable/tappable
+
+<img src='sprint-06-release/img/aeddress-book-add-contact-filled.png' width='375px' />
+
+* Clicking/Tapping the `Save contact` button, leads the user back to the contact overview, now listing your first saved contact
+
+<img src='sprint-06-release/img/aeddress-book-one-contact.png' width='375px' />
+
+* Next to the contacts’ alias/name, identicon—or later profile picture—and Æternity address the user finds a button to expand the action menu which when being clicked/tapped shows possible actions like sending a transaction to that contact, or sharing that contacts’ indentity with another contact
+
+<img src='sprint-06-release/img/aeddress-book-one-contact-action-menu.png' width='375px' />
+
+* Clicking/Tapping the Transaction æpp’s button results in that contacts’ Æternity address being copied to the input field of the Transaction æpp where the user has to enter the amount of AE they’d like to send
+
+<img src='sprint-06-release/img/aeddress-book-transfer-empty.png' width='375px' />
+
+* Entering the amount makes the `Make transaction` button clickable/tappable
+
+<img src='sprint-06-release/img/aeddress-book-transfer-filled.png' width='375px' />
+
+* Clicking/Tapping the `Make transaction` button brings up a confirmation screen asking the user if they’d really like to make that transaction or not
+
+<img src='sprint-06-release/img/aeddress-book-transfer-confirmation.png' width='375px' />
+
+* If willing to make the transaction, you’ll be returned to the Æddress Book and get a notification, that your AE tokens were sent
+
+<img src='sprint-06-release/img/aeddress-book-transferred-and-multiple-contacts.png' width='375px' />
+
+
+---
+
 
 # Results previous sprints
 
