@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,9 +29,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1864,
+    "height": 1664,
     "width": 1440,
-    "x": 3176,
+    "x": 3145,
     "y": 118
   },
   "hasBackgroundColor": false,
@@ -41,6 +50,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B88D27DC-9B52-4753-8D13-BF3731F8C639"
+    },
     {
       "class": "symbolInstance",
       "id": "7DAC9387-8B8F-479F-8C91-FA5821934985"
@@ -140,18 +153,6 @@
     {
       "class": "text",
       "id": "CD94B597-1EC1-440B-8C9A-FDAEB89F3FAB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "CA6E0BED-EB7F-42DF-9CCD-22C45CD7EF1C"
-    },
-    {
-      "class": "text",
-      "id": "2B238996-9D06-41FB-A444-6D481E6736AE"
-    },
-    {
-      "class": "text",
-      "id": "6119D058-ED20-4154-8DA5-B14360C5F1BB"
     },
     {
       "class": "text",

@@ -47,64 +47,78 @@ Create a new Sketch File, but use our Symbols as a [Styleguide](00-aepp-stylegui
 🙋 **Æpp Response**: [Designs](04-aepp-response)  
 📝 **Æpp Voting**: [Designs](05-aepp-voting) | [Demo æpp](https://vote.aepps.com/)  
 
+---
+
+# Results Last Sprint (06)
+
+## 1. We created a Blockchain Explorer for the Æternity Test Net
+Which is a web tool that provides detailed information about blocks, addresses, and transactions made on the Æternity Test Net. It is mainly aimed at advanced users who already know what blocks are and what kind of information they contain. As our goal is to make the Blockchain more accessible for the mass, we designed a certain hierarchy in the visual representation of the different layers. (1) Blocks contain transactions, (2) transactions are interactions between addresses, (3) addresses contain user-specific information.
+
+You can visit the working version [here](https://explorer.aepps.com/)
+
+### The Dashboard
+* Starts with a prominent placed introduction text and a universal search bar, so users can instantly search for that what they're looking for without goint through the page
+* Displays the stats from the market, such as market cap and exchange rate, so users instantly get an understanding of the size and positioning of Æternity
+* Displays detailed information about the last mined block, so users can quickly scan the latest update on the chain
+* Displays the last tree blocks and most important information, so users have an understanding of the recent progress of the blockchain
+
+<img src='sprint-06-release/img/blockchain-explorer-home.png' width='750px' />
+
+### Blocks overview
+* Displays the last 10 blocks, with most important information
+* Time since mined is always positioned in the upper right corner, so that the user has an idea of the current
+
+<img src='sprint-06-release/img/blockchain-explorer-blocks.png' width='750px' />
+
+### Block Info
+* The general information that about the block is displayed in the purple area
+* Within this purple area the user can navigate back and forth in the chain of blocks
+* The transactions are listed in the grey area below, with transaction information such as fee, total amount, addresses, and the kind of transaction displayed as a label.
+
+<img src='sprint-06-release/img/blockchain-explorer-transactions.png' width='750px' />
+
+### Transaction Info
+* The general information that about the block is still displayed in the purple area
+* The transactions are listed in the grey area below, with information per transaction such as fee, total amount, addresses, and the kind of transaction displayed in a clear label.
+
+<img src='sprint-06-release/img/blockchain-explorer-transaction-info.png' width='750px' />
+
+
+### Address Info
+* Clicking on an address anywhere in the blockchain explorer leads to the detailed address information
+* Here are the details of the address listed, such as amount, number of transactions, latets transactions.
+
+<img src='sprint-06-release/img/blockchain-explorer-address-info.png' width='750px' />
+
 
 ---
 
-# Results Sprint (05)
 
-## 1. We developed a Styleguide which helps designers to get started
-Which will be updated here when any changes will be made.
+## 2. We started the concept/design of the decision maker æpp
+The decision maker is an æpp that lets users create documents (decisions) based on a meeting that has been taken place. The author can create notes from this meeting and invite the people that took part of the meeting. When every attendee agreed to a note (quote, short text, ..), the note is closed and an agreement has took place and everyone should commit to that.  
 
-## 2. We developed a design structure
-We have developed a structure in our elements that should be used consistently throughout all æpps and affects different UI elements, such as **buttons**, **dividers**, **notifications** and other elements. In this structure we made a difference in importance of all the elements and is divided in types:
+**This is a first draft of the concept and will be updated in the following sprint**
 
-* dramatic (changing/disrupting actions or potentially harmful)
-* exciting (makes user click fast in a guided process)
-* normal (default, change view, one of many options on a screen)
-* boring (alternative actions, not too much focus)
-* plain (no focus)
+### New Session
+* A new session can be started with a big button, for starting the audio.
+* After finishing the audio session, other attendees can be added directly.
 
-### Different types - Buttons
-A screen with a collection of buttons in all different varieties.
+<img src='sprint-06-release/img/decision-maker-new-session.png' width='752px' />
 
-<img src='sprint-05-release/img/button-types.png' width='375px'/>
+### Session and single card
+* A session can contain multiple cards (texts, that people need to accept), here the user sees which ones are closed and agreed upon and which ones are in need of attention.
+* A single card can
 
-
-### Different types - Input fields & Dividers
-Input fields and dividers also can make use of the different types, which are used by the buttons. Input fields use a normal and a dramatic state, dividers can be used in all states.
-
-<img src='sprint-05-release/img/inputfields-dividers.png' width='375px' />  
-
-
-### Buttons in different sizes
-All the different types comes in different sizes as well. We advice to use the medium button as a default and the large buttons only in web or tablet æpps. The different sizes are describes as below:
-* smaller (small, but no background)
-* small
-* medium (default)
-* large
-
-<img src='sprint-05-release/img/button-sizes.png' width='375px' />  
-
-
-
-### Text styles
-The most important styles are shown in the screenshot below. All the different text styles can be found in the JSON [shared text file](00-aepp-styleguides/aepp-text-styles.json).  
-<img src='sprint-05-release/img/titles-paragraphs.png' width='375px' />  
-
-
-
-### Dependencies
-👾 These Sketch Plugins are required to get started as a designer
-* [Kactus](https://github.com/kactus-io/kactus)
-* [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles)
-* [Anima App](https://animaapp.github.io/)
-* [Symbol Organizer](https://github.com/sonburn/symbol-organizer)
+<img src='sprint-06-release/img/decision-maker-card.png' width='752px' />
 
 
 ---
 
 
 # Results previous sprints
+
+## Results Sprint 05
+[Sprint 05 – We developed a design structure](sprint-05-release/main.md)
 
 ## Results Sprint 02
 [Sprint 02 – A complete walkthrough through the æpps](sprint-02-release/main.md)
