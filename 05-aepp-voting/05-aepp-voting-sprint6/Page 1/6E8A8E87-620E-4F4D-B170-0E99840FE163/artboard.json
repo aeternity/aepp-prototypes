@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": 11381,
-    "y": -1772
+    "x": 14138,
+    "y": -241
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,6 +61,10 @@
     {
       "class": "shapeGroup",
       "id": "0F5CBE9F-B683-4285-9229-D2EA6020BCD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05AC77A7-F8E2-48C1-B61D-108B7BF8F9B8"
     },
     {
       "class": "group",
@@ -95,7 +99,7 @@
       "id": "2ADCFBA0-D179-41E8-9A20-EF56AF95737C"
     }
   ],
-  "name": "05.41-voting-transaction-dropdown",
+  "name": "05.71-voting-transaction-dropdown",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

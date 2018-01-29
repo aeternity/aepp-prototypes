@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 1707,
     "width": 1440,
-    "x": 6664,
-    "y": -1772
+    "x": 6273,
+    "y": -248
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,6 +61,30 @@
     {
       "class": "shapeGroup",
       "id": "A05EF1EB-F18B-471D-9BD8-170740811078"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CFCAF400-1CD8-4B0D-B4D3-EEBB7E32D659"
+    },
+    {
+      "class": "text",
+      "id": "4010999E-46A0-4CBE-8D59-869479FC05F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F526B1DE-A5DC-4390-9388-BDA6FA6A4DF1"
+    },
+    {
+      "class": "text",
+      "id": "3695B364-980A-4D95-B050-3CE835B95CAE"
+    },
+    {
+      "class": "text",
+      "id": "6DE52094-599B-4E24-8618-B0BBCC4CD980"
+    },
+    {
+      "class": "text",
+      "id": "CE4B802B-D8D7-4C77-AA49-4F70285370A2"
     },
     {
       "class": "symbolInstance",
@@ -101,22 +125,6 @@
     {
       "class": "text",
       "id": "78FED6EB-F146-4EF8-9B3D-EF2AA4342162"
-    },
-    {
-      "class": "text",
-      "id": "5CE82018-CEE5-47BF-B433-9ACC0E6C7B0E"
-    },
-    {
-      "class": "text",
-      "id": "90499542-87F3-4EDD-9A1B-8925E884C73A"
-    },
-    {
-      "class": "text",
-      "id": "8381860B-D5D3-4C76-82F7-97BA9FD5E76F"
-    },
-    {
-      "class": "text",
-      "id": "318669B2-CC82-4620-A2C9-C92710CFFD78"
     },
     {
       "class": "shapeGroup",
@@ -203,14 +211,6 @@
       "id": "87378A7B-F88D-4BD0-AFE6-506A3EF48F22"
     },
     {
-      "class": "symbolInstance",
-      "id": "0D9D1D61-8F41-482D-9149-D29CCF63A60A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9DD6407A-8431-4309-BDC9-D24A01D657B6"
-    },
-    {
       "class": "text",
       "id": "65A6ACF2-7394-45B3-9AE6-20A2DCB146A7"
     },
@@ -245,9 +245,17 @@
     {
       "class": "symbolInstance",
       "id": "D6A41AF0-0251-4796-9640-C1D8FDE2EC62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B56F8D41-EC26-441D-98FE-6AF8D2B9D61E"
+    },
+    {
+      "class": "group",
+      "id": "E02DB425-AC41-4C5C-8FFA-3FC76BE21164"
     }
   ],
-  "name": "05.30-statement-agree",
+  "name": "05.52-statement-agree",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

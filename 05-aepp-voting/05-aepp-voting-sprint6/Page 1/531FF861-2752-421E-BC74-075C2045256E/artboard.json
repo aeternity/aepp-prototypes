@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 1707,
     "width": 1440,
-    "x": 3431,
-    "y": -1772
+    "x": 3040,
+    "y": -248
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -97,22 +97,6 @@
     {
       "class": "text",
       "id": "95E3D765-6ED4-48A5-A128-E2A43E6103A2"
-    },
-    {
-      "class": "text",
-      "id": "674A17C7-406D-4649-BA06-06D501D86CA1"
-    },
-    {
-      "class": "text",
-      "id": "9CAE07B0-0378-425A-8D74-2F828A11EC90"
-    },
-    {
-      "class": "text",
-      "id": "37863D47-4D1C-4D99-9181-9624D77B1097"
-    },
-    {
-      "class": "text",
-      "id": "6D92734E-8FAB-476E-BD54-090655F2AF8C"
     },
     {
       "class": "shapeGroup",
@@ -220,14 +204,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "BDB5A943-98A6-482A-BB4A-53F6A5F9902F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "928B9AA3-67D5-412B-9E25-A938F3E96E99"
-    },
-    {
-      "class": "symbolInstance",
       "id": "1A6AC2D8-5449-4EE1-8AAC-ED34A93CD1FA"
     },
     {
@@ -249,9 +225,45 @@
     {
       "class": "symbolInstance",
       "id": "92FAE60C-862E-45A4-809D-995AB33ADD2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81FD107D-328E-4984-92A9-996CF207960D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D70483E-0127-4E8E-8E29-336F6D5A9ACC"
+    },
+    {
+      "class": "group",
+      "id": "9B9C6311-7A8B-4BB0-A071-1C1153E39460"
+    },
+    {
+      "class": "text",
+      "id": "8C4C1EBB-9684-4F2E-9D4D-9A98FEC4D9CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F6F3D46-941A-4E7E-AC79-526EA90F989B"
+    },
+    {
+      "class": "text",
+      "id": "C734D1EF-6C68-4763-B610-970EC515308C"
+    },
+    {
+      "class": "text",
+      "id": "C144A216-31F3-4F9A-A0B2-5E6AD3C83E62"
+    },
+    {
+      "class": "text",
+      "id": "B7A57501-6357-43C4-AA53-4B67CDACCEDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B455484-35C6-4C89-B92E-EEA1FF9C5D3D"
     }
   ],
-  "name": "05.21-statement-not-signed-in",
+  "name": "05.50-statement-not-signed-in",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
