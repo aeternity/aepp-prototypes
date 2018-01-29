@@ -67,8 +67,40 @@
           "green": 0.847,
           "red": 0.847
         },
-        "fillType": 0,
-        "isEnabled": false,
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.3750767210226843, -0.016359219818014026}",
+          "gradientType": 0,
+          "shouldSmoothenOpacity": false,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6321481717687075,
+                "green": 0.3248414502458082,
+                "red": 0.4356733825983293
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3450980392156863,
+                "green": 0.1058823529411765,
+                "red": 0.1921568627450981
+              },
+              "position": 1
+            }
+          ],
+          "to": "{1, 1}"
+        },
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -79,10 +111,10 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 6,
+        "blurRadius": 8,
         "color": {
           "_class": "color",
-          "alpha": 0.25,
+          "alpha": 0.1,
           "blue": 0.2352941176470588,
           "green": 0.2352941176470588,
           "red": 0.2352941176470588
@@ -93,8 +125,8 @@
           "opacity": 1
         },
         "isEnabled": true,
-        "offsetX": -2,
-        "offsetY": -2,
+        "offsetX": 0,
+        "offsetY": 4,
         "spread": 0
       }
     ],

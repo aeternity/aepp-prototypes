@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": 1814,
-    "y": -1772
+    "x": -1562,
+    "y": -241
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -129,6 +129,10 @@
     {
       "class": "group",
       "id": "90157DB8-6601-4138-849B-515DBFF864E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26304E12-D488-413C-B878-BC342D30397B"
     },
     {
       "class": "text",
@@ -247,7 +251,7 @@
       "id": "55F28C41-A827-4522-B397-26A01FA70F4F"
     }
   ],
-  "name": "05.20-voting-desktop",
+  "name": "05.30-voting-desktop",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
