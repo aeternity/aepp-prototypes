@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "B83E7A0E-D05E-4EF6-965A-9C5275A116C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 19.09090909090909,
+    "width": 19.09090909090909,
+    "x": 1318.714285714285,
+    "y": 440
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "533C908B-9C22-4078-A7A8-3DF1EE0AECF0"
+    }
+  ],
+  "name": "Monogram",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 19.09091,
+            "enabled": 1,
+            "modelID": "constraint_3a01c3f0-61d4-4f03-91c1-455e9eca7d6d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 19.09091
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_9971f09a-d241-4c71-b96a-ccd19be7010c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
