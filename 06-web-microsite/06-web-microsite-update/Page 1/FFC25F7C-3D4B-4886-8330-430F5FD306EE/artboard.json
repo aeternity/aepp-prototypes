@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": 2149,
-    "y": 1759
+    "x": -3548,
+    "y": 8695
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,16 +42,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "D2D55E8E-31C1-4458-B7BF-A295995A44F0"
+      "class": "bitmap",
+      "id": "8D48C910-7FD3-463D-8197-4E9050D0AC40"
     },
     {
-      "class": "text",
-      "id": "46709E8C-7334-4F87-B4B4-6730ABE871F5"
+      "class": "group",
+      "id": "0CB754D6-0BC5-4A38-A981-E52702E2E48E"
     },
     {
-      "class": "text",
-      "id": "08C494D4-138F-4825-8FAE-B7DDB79116F5"
+      "class": "symbolInstance",
+      "id": "F36C755F-DF2F-47E2-9DA0-409F9D5AF376"
     },
     {
       "class": "group",
@@ -63,35 +63,7 @@
     },
     {
       "class": "text",
-      "id": "C496235F-B4E4-49B4-8B73-D19370918DE1"
-    },
-    {
-      "class": "text",
       "id": "3BA0B186-1C9D-49AD-9745-3F62EF555BB7"
-    },
-    {
-      "class": "text",
-      "id": "008E5686-EC49-47CA-8B03-D3B51A306BCB"
-    },
-    {
-      "class": "text",
-      "id": "7C266693-43D7-4759-9276-EE1AEA7A7A14"
-    },
-    {
-      "class": "text",
-      "id": "DF9371E4-15CB-44E5-BD24-AD40D0487B49"
-    },
-    {
-      "class": "text",
-      "id": "78D90E11-7352-460A-B131-F0D8667EE1CD"
-    },
-    {
-      "class": "group",
-      "id": "831718B3-4E03-4C2E-BDB2-6020AA447757"
-    },
-    {
-      "class": "text",
-      "id": "BEEAE46D-762E-4BC6-BB7D-1DCA3AC895E9"
     },
     {
       "class": "symbolInstance",
@@ -104,10 +76,6 @@
     {
       "class": "text",
       "id": "616C5D96-9F87-48ED-B463-1CEFA4511E2A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3AC3C1F3-F429-4998-B5C4-11A280CC7ACF"
     }
   ],
   "name": "Desktop HD Copy 4",
