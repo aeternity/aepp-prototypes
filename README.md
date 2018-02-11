@@ -49,7 +49,7 @@ Create a new Sketch File, but use our Symbols as a [Styleguide](00-aepp-stylegui
 
 ---
 
-# Results Last Sprint (06)
+# Results Last Sprint (07)
 
 ## 1. We created a Blockchain Explorer for the Æternity Test Net
 Which is a web tool that provides detailed information about blocks, addresses, and transactions made on the Æternity Test Net. It is mainly aimed at advanced users who already know what blocks are and what kind of information they contain. As our goal is to make the Blockchain more accessible for the mass, we designed a certain hierarchy in the visual representation of the different layers. (1) Blocks contain transactions, (2) transactions are interactions between addresses, (3) addresses contain user-specific information.
