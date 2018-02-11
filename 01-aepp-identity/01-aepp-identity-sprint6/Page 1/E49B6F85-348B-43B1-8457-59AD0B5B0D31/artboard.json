@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 171,
-    "y": 3917
+    "x": 1509,
+    "y": 5959
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -87,8 +87,8 @@
       "id": "8B3F5331-CA78-462F-8BFC-60EFB8CD408F"
     },
     {
-      "class": "symbolInstance",
-      "id": "FB642D10-849C-42ED-85AA-6A5B3E8268E6"
+      "class": "group",
+      "id": "2C9C1601-7652-4159-88FF-8F6173819C44"
     },
     {
       "class": "group",
@@ -97,9 +97,13 @@
     {
       "class": "symbolInstance",
       "id": "552ADADB-8646-4D26-AAD8-A4A94DC71339"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "203E84E1-7AA1-4225-921D-6A01D621CEAD"
     }
   ],
-  "name": "01.20-aepps-browse-recovered copy 2",
+  "name": "00.12-modal-3",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -45,56 +45,42 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FA6D9DCF-5742-4FCF-8D94-4FD1B1621A3E",
-      "overrideName": "9AE71566-8AE2-45AD-9709-425613340D11_symbolID",
-      "value": "74CA7592-3380-4C1C-BDB1-F524051A8188"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "1FE5FAE8-7A75-44BA-A8C0-CC76A63130B9",
-      "overrideName": "9AE71566-8AE2-45AD-9709-425613340D11/BB1E29A8-AC76-4776-A955-B18E179DCCC0_symbolID",
+      "do_objectID": "66D82BE9-65CD-41A6-BFCF-F2FB150C4A9B",
+      "overrideName": "8906EBAF-60AE-489D-A3D7-567F4675B2EE/BB1E29A8-AC76-4776-A955-B18E179DCCC0_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "47CAD9A9-8122-467D-9F0A-A870B6E726D8",
-      "overrideName": "8906EBAF-60AE-489D-A3D7-567F4675B2EE_symbolID",
-      "value": "C3C9CA80-F053-4AFA-9C4E-6B846F5CA095"
+      "do_objectID": "CFCCEFB9-7B10-497A-9434-F771D8C4C27C",
+      "overrideName": "8906EBAF-60AE-489D-A3D7-567F4675B2EE/A9E93EBD-D81C-4413-99E9-03B7D5D33A06_stringValue",
+      "value": "Upgrade Security"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "EB7E821A-B286-4A22-B58B-42D39E937E6C",
-      "overrideName": "8906EBAF-60AE-489D-A3D7-567F4675B2EE/3420460C-8385-4957-8454-7E13567CBC69_stringValue",
-      "value": "Configure Vault"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "3ABA3C59-723F-44B8-AFD8-B778BB889C98",
-      "overrideName": "8906EBAF-60AE-489D-A3D7-567F4675B2EE/A7DCA516-9668-4B89-B1BE-48BE4675DC33_symbolID",
+      "do_objectID": "17094BBB-0A2D-4FC5-9422-E0F9F29021CD",
+      "overrideName": "9AE71566-8AE2-45AD-9709-425613340D11/A7DCA516-9668-4B89-B1BE-48BE4675DC33_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "57D63D22-4D1C-4FC8-AF34-A096C88488E7",
-      "overrideName": "9AE71566-8AE2-45AD-9709-425613340D11/A9E93EBD-D81C-4413-99E9-03B7D5D33A06_stringValue",
-      "value": "I like risks"
+      "do_objectID": "079BDE61-FDE1-4514-97FC-4E9E7A0B21DF",
+      "overrideName": "9AE71566-8AE2-45AD-9709-425613340D11/3420460C-8385-4957-8454-7E13567CBC69_stringValue",
+      "value": "Not now"
     }
   ],
   "overrides": {
     "1050E4DF-BCE2-40FF-94FF-08EDE0D6B473": "Try upgrading your security level, by adding an extra vault",
     "8906EBAF-60AE-489D-A3D7-567F4675B2EE": {
-      "3420460C-8385-4957-8454-7E13567CBC69": "Configure Vault",
-      "A7DCA516-9668-4B89-B1BE-48BE4675DC33": {
-        "symbolID": ""
-      },
-      "symbolID": "C3C9CA80-F053-4AFA-9C4E-6B846F5CA095"
-    },
-    "9AE71566-8AE2-45AD-9709-425613340D11": {
-      "A9E93EBD-D81C-4413-99E9-03B7D5D33A06": "I like risks",
+      "A9E93EBD-D81C-4413-99E9-03B7D5D33A06": "Upgrade Security",
       "BB1E29A8-AC76-4776-A955-B18E179DCCC0": {
         "symbolID": ""
-      },
-      "symbolID": "74CA7592-3380-4C1C-BDB1-F524051A8188"
+      }
+    },
+    "9AE71566-8AE2-45AD-9709-425613340D11": {
+      "3420460C-8385-4957-8454-7E13567CBC69": "Not now",
+      "A7DCA516-9668-4B89-B1BE-48BE4675DC33": {
+        "symbolID": ""
+      }
     },
     "9D212699-2416-465B-837F-DA6DBADD2AF5": "👏 Your Identity has been verified!"
   },
