@@ -49,116 +49,66 @@ Create a new Sketch File, but use our Symbols as a [Styleguide](00-aepp-stylegui
 
 ---
 
-# Results Last Sprint (07)
+# Results Last Sprint (08)
 
-## 1. We created a Blockchain Explorer for the Æternity Test Net
-Which is a web tool that provides detailed information about blocks, addresses, and transactions made on the Æternity Test Net. It is mainly aimed at advanced users who already know what blocks are and what kind of information they contain. As our goal is to make the Blockchain more accessible for the mass, we designed a certain hierarchy in the visual representation of the different layers. (1) Blocks contain transactions, (2) transactions are interactions between addresses, (3) addresses contain user-specific information.
+## 1. We redesigned the website www.aepps.com
+Which will be a starting point for both consumers and developers. **Consumers** can discover possibilities of Blockchain (aeternity in particular) by trying out decentralized aepps. Developers will be able to get inspired by the aepps as well, but also be able to 'Get Started' by visiting dev.aepps.com.
 
-You can visit the working version [here](https://explorer.aepps.com/)
+The new version will be an update of [the old version](www.aepps.com/).
 
-### The Dashboard
-* Starts with a prominent placed introduction text and a universal search bar, so users can instantly search for that what they're looking for without goint through the page
-* Displays the stats from the market, such as market cap and exchange rate, so users instantly get an understanding of the size and positioning of Æternity
-* Displays detailed information about the last mined block, so users can quickly scan the latest update on the chain
-* Displays the last tree blocks and most important information, so users have an understanding of the recent progress of the blockchain
+### The homepage
+* Starts with an introduction text that addresses both consumers and developers.
+* Developers have the possibility to instantly get started, or scroll down to explore the identity manager and the aepps more.
+* We assume that consumers are more interested in the consumer facing aepps, therefor these are shown on the homepage.
 
-<img src='sprint-06-release/img/blockchain-explorer-home.png' width='750px' />
+<img src='sprint-08-release/img/aepps-home-1.jpg' width='100%' />
+<img src='sprint-08-release/img/aepps-home-2.jpg' width='100%' />
+<img src='sprint-08-release/img/aepps-home-3.jpg' width='100%' />
+<img src='sprint-08-release/img/aepps-home-4.jpg' width='100%' />
 
-### Blocks overview
-* Displays the last 10 blocks, with most important information
-* Time since mined is always positioned in the upper right corner, so that the user has an idea of the current
+### Aepp Single Page
+* Every aepp has a detailed page, where we explain the aepp more with: idea behind the aepp, the future possibilities, screenshots, links to github, etc.
 
-<img src='sprint-06-release/img/blockchain-explorer-blocks.png' width='750px' />
-
-### Block Info
-* The general information that about the block is displayed in the purple area
-* Within this purple area the user can navigate back and forth in the chain of blocks
-* The transactions are listed in the grey area below, with transaction information such as fee, total amount, addresses, and the kind of transaction displayed as a label.
-
-<img src='sprint-06-release/img/blockchain-explorer-transactions.png' width='750px' />
-
-### Transaction Info
-* The general information that about the block is still displayed in the purple area
-* The transactions are listed in the grey area below, with information per transaction such as fee, total amount, addresses, and the kind of transaction displayed in a clear label.
-
-<img src='sprint-06-release/img/blockchain-explorer-transaction-info.png' width='750px' />
-
-
-### Address Info
-* Clicking on an address anywhere in the blockchain explorer leads to the detailed address information
-* Here are the details of the address listed, such as amount, number of transactions, latets transactions.
-
-<img src='sprint-06-release/img/blockchain-explorer-address-info.png' width='750px' />
-
+<img src='sprint-08-release/img/aepps-aepp-1.jpg' width='100%' />
 
 ---
 
+## 2. We started to a design concept for the aepp icons
+We clearly have a hierarchy in the different icons:
+1. The Identity Manager is the Base æpp, where 2. & 3. can be done.
+2. Core æpps are 'pre-installed' and instantly available for the user in order to make use of aeternity's core functionalities, such as 'Transfer', 'Messages', 'Address Book' and the 'Blockchain Explorer'.
+3. The latest are Use Case æpps, which show the (endless) possibilities of decentralized aepps.
 
-## 2. We started the concept/design of the decision maker æpp
-The decision maker is an æpp that lets users create documents (decisions) based on a meeting that has been taken place. The author can create notes from this meeting and invite the people that took part of the meeting. When every attendee agreed to a note (quote, short text, ..), the note is closed and an agreement has took place and everyone should commit to that.  
+<img src='sprint-08-release/img/icons.jpg' width='100%' />
 
-**This is a first draft of the concept and will be updated in the following sprint**
+### Base æpp
+Built on the same concept of the logo. The main idea behind this is using a very simple symbol to represent the “operative system” which is able to stand alone and yet be reconnected to the AEternity brand. The metaphor of the identity being a circle, and the triad signifies movement and change as the user switches between his identities.
 
-### New Session
-* A new session can be started with a big button, for starting the audio.
-* After finishing the audio session, other attendees can be added directly.
+### Primary Icons
+Very minimal and using only circular shapes and lines, as per in the AEternity logo. The idea is to use the pink for the main icon, and invert the colors on the Primary Services Icons. This way, the color still helps you understand that you are looking at one of the core apps.
 
-<img src='sprint-06-release/img/decision-maker-new-session.png' width='752px' />
-
-### Session and single card
-* A session can contain multiple cards (texts, that people need to accept), here the user sees which ones are closed and agreed upon and which ones are in need of attention.
-* A single card can
-
-<img src='sprint-06-release/img/decision-maker-card.png' width='752px' />
-
+### Secondary Icons
+For these icons we would allow more flexibility for the designs, being able to use more complex and more figurative symbols (while still keeping the simplicity of the overall designs.
 
 ---
 
-## 3. We started the concept/design of the Æddress Book æpp
-The Æddress Book aepp allows the user to create and save contacts—like the smartphone address book or contacs application does—in the local storage. The user can assign aliases/names to Æternity addresses and interact, e.g. send transactions, in a more user friendly and visual appealing way. The design was already put together in a click dummy and will be developed as aepp in the upcoming sprints.
+## 3. We started the UX concept for an offline signing functionality
+Which prevents the private key from is ever being used on a device that is connected to the internet, in order to minimize the change of losing funds.
 
-### Æddress Book
-* At first start, there are no saved contacts, yet
+1. The user is being prompted that he is dealing with a lot funds, an that he should consider installing a cold wallet
+2. With a simple question like: "Do you have an old smartphone?", we try to explain the advantage of a cold wallet.
+3. If the user doesn't have an old smartphone, he has the option to install the wallet on the same phone (with a lower security)
 
-<img src='sprint-06-release/img/aeddress-book-empty.png' width='375px' />
-
-* Clicking/Tapping the prominent `+`-button leads the user to the next screen which shows a field for an alias/name, a field for an Æternity address and two buttons: `PASTE` an address you previously copied into your clipboard or `SCAN QR` to scan an identity which was given to you in shape of a QR code.
-
-<img src='sprint-06-release/img/aeddress-book-add-contact-empty.png' width='375px' />
-
-* Once both input fields are filled, the `Save contact` button is clickable/tappable
-
-<img src='sprint-06-release/img/aeddress-book-add-contact-filled.png' width='375px' />
-
-* Clicking/Tapping the `Save contact` button, leads the user back to the contact overview, now listing your first saved contact
-
-<img src='sprint-06-release/img/aeddress-book-one-contact.png' width='375px' />
-
-* Next to the contacts’ alias/name, identicon—or later profile picture—and Æternity address the user finds a button to expand the action menu which when being clicked/tapped shows possible actions like sending a transaction to that contact, or sharing that contacts’ indentity with another contact
-
-<img src='sprint-06-release/img/aeddress-book-one-contact-action-menu.png' width='375px' />
-
-* Clicking/Tapping the Transaction æpp’s button results in that contacts’ Æternity address being copied to the input field of the Transaction æpp where the user has to enter the amount of AE they’d like to send
-
-<img src='sprint-06-release/img/aeddress-book-transfer-empty.png' width='375px' />
-
-* Entering the amount makes the `Make transaction` button clickable/tappable
-
-<img src='sprint-06-release/img/aeddress-book-transfer-filled.png' width='375px' />
-
-* Clicking/Tapping the `Make transaction` button brings up a confirmation screen asking the user if they’d really like to make that transaction or not
-
-<img src='sprint-06-release/img/aeddress-book-transfer-confirmation.png' width='375px' />
-
-* If willing to make the transaction, you’ll be returned to the Æddress Book and get a notification, that your AE tokens were sent
-
-<img src='sprint-06-release/img/aeddress-book-transferred-and-multiple-contacts.png' width='375px' />
-
+<img src='sprint-08-release/img/offline-signing-1.jpg' width='100%' />
+<img src='sprint-08-release/img/offline-signing-2.jpg' width='100%' />
 
 ---
 
 
 # Results previous sprints
+
+## Results Sprint 07
+[Sprint 07 – We build a blockchain explorer on aeternity's test net](sprint-07-release/main.md)
 
 ## Results Sprint 05
 [Sprint 05 – We developed a design structure](sprint-05-release/main.md)
