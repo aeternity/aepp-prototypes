@@ -35,7 +35,7 @@
     "y": -1089
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -69,10 +69,6 @@
     {
       "class": "group",
       "id": "ABB76162-2B85-421B-A81B-0D5A7C10FD5E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7F301784-9A5A-4006-9B9E-BC9C7429E5EA"
     },
     {
       "class": "text",
@@ -179,12 +175,16 @@
       "id": "578A6DF6-76FF-4FD1-865B-7F433BD323EC"
     },
     {
-      "class": "text",
-      "id": "64C95747-CECD-48E5-BF95-0651903AB7A0"
-    },
-    {
       "class": "symbolInstance",
       "id": "AEBAA54D-EA67-44AC-AEF6-8647367C56BE"
+    },
+    {
+      "class": "group",
+      "id": "33AECAD8-CA6F-4D57-A0E2-C40205982089"
+    },
+    {
+      "class": "text",
+      "id": "D1B87810-9AC9-48D4-A33B-65069C0ACC3E"
     }
   ],
   "name": "7.1-aepps-single",
