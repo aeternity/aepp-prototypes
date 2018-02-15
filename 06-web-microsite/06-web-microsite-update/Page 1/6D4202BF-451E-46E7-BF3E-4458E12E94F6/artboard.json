@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2551,
+    "height": 1405,
     "width": 1440,
     "x": 9433,
     "y": -1085
@@ -67,14 +67,6 @@
       "id": "D31C62A4-CAA3-4D98-BC9F-A2547C3397A5"
     },
     {
-      "class": "symbolInstance",
-      "id": "AB470EC7-DDE8-4072-A400-5DB87DF0F000"
-    },
-    {
-      "class": "text",
-      "id": "06C7D39F-3199-4459-BC6D-0B17E5C0F279"
-    },
-    {
       "class": "text",
       "id": "210081E4-05E3-46A0-937E-A52FA7EF5949"
     },
@@ -93,9 +85,17 @@
     {
       "class": "text",
       "id": "4233B9F2-A615-44BA-AB59-2DD821AB4FC8"
+    },
+    {
+      "class": "group",
+      "id": "945F4163-9B2E-415B-B949-3CF65B649655"
+    },
+    {
+      "class": "text",
+      "id": "7A27B7A6-193F-4A0A-9FF9-87002CF69C07"
     }
   ],
-  "name": "7.2-aepps-overview copy",
+  "name": "7.3-aepps-static",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
