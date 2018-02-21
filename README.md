@@ -1,3 +1,9 @@
+---
+layout: page
+title: Prototypes
+navigation: 4
+---
+
 # Welcome to the Æternity Prototypes
 
 We publish concepts and prototypes of æpps that will run on the æternity blockchain. We work in with an iterative process that is build up by sprints, which last two weeks each. We document our progress and results per sprint. We encourage designers and developers to join the community.
