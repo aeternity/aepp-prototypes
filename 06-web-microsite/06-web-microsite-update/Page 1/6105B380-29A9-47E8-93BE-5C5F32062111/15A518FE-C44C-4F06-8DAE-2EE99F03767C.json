@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
+    "height": 350,
     "width": 200,
     "x": 965,
     "y": 137
@@ -50,12 +50,57 @@
       "_class": "overrideValue",
       "overrideName": "A555C9D8-C846-4815-89DC-F2F9A7218983/7BD0EF18-F04A-4A47-9D50-331B2AA9A071_stringValue",
       "value": "Core æpps"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "482B2F73-C857-455E-BFD2-BA2BC1B68CEC",
+      "overrideName": "AA9B226A-B872-4D8E-A112-EF14C45BC793/7BD0EF18-F04A-4A47-9D50-331B2AA9A071_stringValue",
+      "value": "Community æpps"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0EDF8A62-3B17-4135-8DEF-C9DF68B2819C",
+      "overrideName": "D5EEA1DB-1234-49F8-B480-FDCF54030E96/7BD0EF18-F04A-4A47-9D50-331B2AA9A071_stringValue",
+      "value": "Alpha"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDCB4741-C0D5-4841-8FE5-A18C17021F32",
+      "overrideName": "66CBB094-7A16-4212-8542-E22C2F87FD54/7BD0EF18-F04A-4A47-9D50-331B2AA9A071_stringValue",
+      "value": "Beta"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD740940-C02F-4938-8AA9-93EFB62C2374",
+      "overrideName": "E2FF5092-5A9A-4DEC-9437-641D24532143/7BD0EF18-F04A-4A47-9D50-331B2AA9A071_stringValue",
+      "value": "Kovan Test Net"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AC52F209-9C11-4070-A712-0F268D3EA2BD",
+      "overrideName": "805FC012-FAE9-4841-8007-23DE2F59248E/7BD0EF18-F04A-4A47-9D50-331B2AA9A071_stringValue",
+      "value": "Ethereum Main Net"
     }
   ],
   "overrides": {
+    "66CBB094-7A16-4212-8542-E22C2F87FD54": {
+      "7BD0EF18-F04A-4A47-9D50-331B2AA9A071": "Beta"
+    },
+    "805FC012-FAE9-4841-8007-23DE2F59248E": {
+      "7BD0EF18-F04A-4A47-9D50-331B2AA9A071": "Ethereum Main Net"
+    },
     "A555C9D8-C846-4815-89DC-F2F9A7218983": {
       "7BD0EF18-F04A-4A47-9D50-331B2AA9A071": "Core æpps",
       "symbolID": "3A637602-318C-4125-BFC3-86E127896136"
+    },
+    "AA9B226A-B872-4D8E-A112-EF14C45BC793": {
+      "7BD0EF18-F04A-4A47-9D50-331B2AA9A071": "Community æpps"
+    },
+    "D5EEA1DB-1234-49F8-B480-FDCF54030E96": {
+      "7BD0EF18-F04A-4A47-9D50-331B2AA9A071": "Alpha"
+    },
+    "E2FF5092-5A9A-4DEC-9437-641D24532143": {
+      "7BD0EF18-F04A-4A47-9D50-331B2AA9A071": "Kovan Test Net"
     },
     "F3B62542-249C-4B33-9F9E-7B6B344616E8": {
       "B06F49FC-A41A-460F-A13D-47675E1218E6": "All",
