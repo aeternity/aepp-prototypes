@@ -18,7 +18,7 @@
     "height": 21,
     "width": 19,
     "x": 229,
-    "y": 253
+    "y": 250
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -45,6 +45,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 21,
+            "enabled": 1,
+            "modelID": "constraint_c997790f-25cd-47b6-a343-fac90f02bef7",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 19
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3ba9186f-a342-4718-bc60-8c0c46e4a2b2",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   }
