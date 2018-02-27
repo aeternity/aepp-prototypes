@@ -35,7 +35,7 @@
     "y": 32
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -71,20 +71,20 @@
       "id": "E72BC53B-B734-4CA6-9F0E-9F734E2FC4F9"
     },
     {
-      "class": "group",
-      "id": "DB9F1056-BE21-41F2-932C-32954AB27817"
+      "class": "symbolInstance",
+      "id": "45088A4E-7F91-459C-9498-7C8D8C906445"
     },
     {
       "class": "shapeGroup",
       "id": "D9F9A283-2CBB-439C-9BF2-DCA6A1C01DB6"
     },
     {
-      "class": "symbolInstance",
-      "id": "4F9BEA77-C45F-4086-93A5-A40C9B8C43E7"
+      "class": "group",
+      "id": "A82E64D1-7535-488F-B710-84622DC3EEE2"
     },
     {
       "class": "symbolInstance",
-      "id": "F0AEBAB0-E5BE-4F92-BA79-C8E633E1D941"
+      "id": "4F9BEA77-C45F-4086-93A5-A40C9B8C43E7"
     },
     {
       "class": "symbolInstance",
@@ -93,6 +93,10 @@
     {
       "class": "symbolInstance",
       "id": "003824B0-769D-4711-B9EC-12052FF8EC39"
+    },
+    {
+      "class": "group",
+      "id": "BE095880-F167-492D-9DCD-1598551C5810"
     }
   ],
   "name": "10.42-med-3",

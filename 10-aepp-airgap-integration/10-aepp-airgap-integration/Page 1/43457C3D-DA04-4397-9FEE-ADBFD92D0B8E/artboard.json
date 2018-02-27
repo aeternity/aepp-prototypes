@@ -35,7 +35,7 @@
     "y": -741
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -95,12 +95,36 @@
       "id": "46AF6A57-FF06-4D54-B835-50EEFCC8E164"
     },
     {
-      "class": "symbolInstance",
-      "id": "C3DF4EFB-E7C2-44F0-862E-C7659848C1BE"
-    },
-    {
       "class": "text",
       "id": "1D40041C-E7D8-4E51-96CB-9DD5ADB77E39"
+    },
+    {
+      "class": "group",
+      "id": "05CDFCFA-A05B-47B1-A9A3-853BE7E3273F"
+    },
+    {
+      "class": "group",
+      "id": "56816E27-022C-4016-AE4A-3E9A398D4514"
+    },
+    {
+      "class": "group",
+      "id": "7549BEF0-7EF2-422F-A4E4-7B43035E507C"
+    },
+    {
+      "class": "group",
+      "id": "BAE3A3A7-8DB7-4159-9E96-F4621AF428D4"
+    },
+    {
+      "class": "group",
+      "id": "302C027C-BD0F-44D7-BDE3-2FE922DE2136"
+    },
+    {
+      "class": "group",
+      "id": "F972B738-338A-4F5C-99CB-33B53D6C00A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3DF4EFB-E7C2-44F0-862E-C7659848C1BE"
     }
   ],
   "name": "10.20-upgrade-security-normal",

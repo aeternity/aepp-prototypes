@@ -30,8 +30,8 @@
       "id": "BED1081E-BA1B-46FA-8422-94E64CC555C7"
     },
     {
-      "class": "group",
-      "id": "54CDCFF5-A2C5-4D8C-A749-8512569584F9"
+      "class": "symbolInstance",
+      "id": "D9BDDF0F-DE9F-45ED-B7FF-98CB5AEE6AC7"
     }
   ],
   "name": "Group",
@@ -51,15 +51,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 87,
+            "constant": 80,
             "enabled": 1,
-            "modelID": "constraint_b802848b-73eb-486d-b867-eb0c87aad610",
+            "modelID": "constraint_dd3f164c-8406-4354-8086-53a047ab8ba7",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 87
+            "multiplier": 80
           },
           "automatic": 1,
-          "modelID": "viewConstraints_19cf589c-c9a8-44aa-aaf1-b8f6e9ae283a",
+          "modelID": "viewConstraints_5cdec98c-b948-46e2-98af-2c6a7c988e04",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
