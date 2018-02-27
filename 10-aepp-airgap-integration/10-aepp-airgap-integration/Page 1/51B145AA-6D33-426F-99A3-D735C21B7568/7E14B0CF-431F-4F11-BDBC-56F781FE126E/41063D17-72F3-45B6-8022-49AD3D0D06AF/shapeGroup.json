@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 40.0000000000001,
+    "height": 40,
     "width": 40,
     "x": 0,
     "y": 0
@@ -140,6 +140,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 40,
+            "enabled": 1,
+            "modelID": "constraint_948da3c4-9d08-4a08-9a3e-9ab7d74ab5de",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 40
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e5a29171-8993-4da1-b820-d0c1b57da67c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   },

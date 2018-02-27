@@ -35,7 +35,7 @@
     "y": -741
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -76,10 +76,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "5C1937C9-CB32-4061-BB52-53575004AD25"
-    },
-    {
-      "class": "symbolInstance",
       "id": "4F022AE1-A7B1-4FB1-AB0B-564F2411659D"
     },
     {
@@ -87,12 +83,8 @@
       "id": "F4818A58-B716-4530-9446-06DB312B1A5A"
     },
     {
-      "class": "shapeGroup",
-      "id": "9B9BCDC2-5974-46BE-A7CE-8591CCFC7157"
-    },
-    {
-      "class": "bitmap",
-      "id": "3280EEC1-83C2-43E3-BE8C-9F0E00527FB5"
+      "class": "symbolInstance",
+      "id": "94F9C72D-5A9B-4792-8C61-067503EAEF5E"
     },
     {
       "class": "group",
@@ -103,8 +95,16 @@
       "id": "8C1A9799-FA94-4A2B-8AD3-1A8508923B53"
     },
     {
+      "class": "group",
+      "id": "33B09087-4639-457F-A2A5-4193278DA392"
+    },
+    {
       "class": "shapeGroup",
-      "id": "760AB9A5-C377-46FF-8A72-1E6055868BEA"
+      "id": "666CEDE3-3FBD-44D2-8181-710FF4F9817A"
+    },
+    {
+      "class": "group",
+      "id": "A0B9C01A-D300-47BE-9B7B-E2B5110CD7D8"
     }
   ],
   "name": "10.32-max-3",

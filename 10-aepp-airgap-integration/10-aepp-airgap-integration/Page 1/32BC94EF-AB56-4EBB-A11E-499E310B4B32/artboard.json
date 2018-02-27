@@ -35,7 +35,7 @@
     "y": 32
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -63,36 +63,8 @@
       "id": "B515CDC5-29E2-4DAD-9778-8CA120BBB18B"
     },
     {
-      "class": "text",
-      "id": "4CAF1DDE-9D51-4504-ADC8-4774AC047D35"
-    },
-    {
-      "class": "text",
-      "id": "16760FA1-5182-46DD-B49D-36F6DF650AE8"
-    },
-    {
-      "class": "group",
-      "id": "B9614C8D-DD67-47CF-8258-F31C2209573D"
-    },
-    {
-      "class": "group",
-      "id": "813CCC2D-62B8-49D7-8BAB-5A0BEB136412"
-    },
-    {
-      "class": "group",
-      "id": "46F5E617-C7FE-44B2-800E-7AE976B1B2AB"
-    },
-    {
-      "class": "group",
-      "id": "9240FC22-3E0B-42AF-A8D4-89C0A0E18FB0"
-    },
-    {
       "class": "symbolInstance",
       "id": "94B65BF7-5C25-47C3-92A4-E8F415ED683D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B20961AE-790E-43F6-945A-8A16A149FD01"
     },
     {
       "class": "symbolInstance",
@@ -101,6 +73,46 @@
     {
       "class": "symbolInstance",
       "id": "58871532-4B7E-4F37-9B53-007706EA4125"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B3CC0924-8637-4063-8836-F12FF79EB757"
+    },
+    {
+      "class": "group",
+      "id": "A2C05ABA-A802-420C-A62A-FDD6EF6CB57D"
+    },
+    {
+      "class": "group",
+      "id": "8BB911DD-4802-4CB7-863B-B2E4915999D7"
+    },
+    {
+      "class": "text",
+      "id": "D1091759-1FB2-4226-B33E-E7BCC90F3389"
+    },
+    {
+      "class": "text",
+      "id": "BEF43DAA-199F-4D99-A155-12D8C2A54946"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DAF22D23-C5B2-490C-ABEC-06B22452FE78"
+    },
+    {
+      "class": "text",
+      "id": "1A713C47-0CCA-46F5-8410-D9F5E933E646"
+    },
+    {
+      "class": "group",
+      "id": "918FF1A5-5F8C-4414-81A0-EAD74470BAD6"
+    },
+    {
+      "class": "group",
+      "id": "3EBA2448-1133-4387-A1CD-B8F9CD75D500"
+    },
+    {
+      "class": "group",
+      "id": "A24B3E5B-8284-4657-811F-A25ACB91F018"
     }
   ],
   "name": "10.43-med-5",
