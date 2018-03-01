@@ -10,15 +10,15 @@ The new version will be an update of [the old version](http://aepps.com).
 * Developers have the possibility to instantly get started, or scroll down to explore the identity manager and the æpps more.
 * We assume that consumers are more interested in the consumer facing æpps, therefor these are shown on the homepage.
 
-<img src='sprint-08-release/img/aepps-home-1.jpg' width='100%'>
-<img src='sprint-08-release/img/aepps-home-2.jpg' width='100%'>
-<img src='sprint-08-release/img/aepps-home-3.jpg' width='100%'>
-<img src='sprint-08-release/img/aepps-home-4.jpg' width='100%'>
+<img src='/sprint-08-release/img/aepps-home-1.jpg' width='100%'>
+<img src='/sprint-08-release/img/aepps-home-2.jpg' width='100%'>
+<img src='/sprint-08-release/img/aepps-home-3.jpg' width='100%'>
+<img src='/sprint-08-release/img/aepps-home-4.jpg' width='100%'>
 
 ### æpp Single Page
 * Every æpp has a detailed page, where we explain the æpp more with: idea behind the æpp, the future possibilities, screenshots, links to github, etc.
 
-<img src='sprint-08-release/img/aepps-aepp-1.jpg' width='100%'>
+<img src='/sprint-08-release/img/aepps-aepp-1.jpg' width='100%'>
 
 ---
 
@@ -28,7 +28,7 @@ We clearly have a hierarchy in the different icons:
 2. Core æpps are 'pre-installed' and instantly available for the user in order to make use of æternity's core functionalities, such as 'Transfer', 'Messages', 'Address Book' and the 'Blockchain Explorer'.
 3. The latest are Use Case æpps, which show the (endless) possibilities of decentralized æpps.
 
-<img src='sprint-08-release/img/icons.jpg' width='100%'>
+<img src='/sprint-08-release/img/icons.jpg' width='100%'>
 
 ### Base æpp
 Built on the same concept of the logo. The main idea behind this is using a very simple symbol to represent the “operative system” which is able to stand alone and yet be reconnected to the æternity brand. The metaphor of the identity being a circle, and the triad signifies movement and change as the user switches between his identities.
@@ -48,5 +48,5 @@ Which prevents the private key from is ever being used on a device that is conne
 2. With a simple question like: "Do you have an old smartphone?", we try to explain the advantage of a cold wallet.
 3. If the user doesn't have an old smartphone, he has the option to install the wallet on the same phone (with a lower security)
 
-<img src='sprint-08-release/img/offline-signing-1.jpg' width='100%'>
-<img src='sprint-08-release/img/offline-signing-2.jpg' width='100%'>
+<img src='/sprint-08-release/img/offline-signing-1.jpg' width='100%'>
+<img src='/sprint-08-release/img/offline-signing-2.jpg' width='100%'>
