@@ -18,10 +18,15 @@ All the designs are frequently updated in Zeplin Styleguide, where all the CSS S
 # Getting started as a developer
 Developers can make use of the existing open source æpps components and tools in the development repositories below.
 💳 **æpp Identity**: [Dev Repo](https://github.com/aeternity/aepp-identity)
+
 🚀 **æpp Notary**: [Dev Repo](https://github.com/aeternity/aepp-aexistence)
+
 🙋‍ **æpp Conversational Machine**: [Dev Repo](https://github.com/aeternity/aepp-conversational-machine)
+
 📝 **æpp Voting**: [Dev Repo](https://github.com/aeternity/aepp-voting)
+
 🛠 **æpp Components**: [Dev Repo](https://github.com/aeternity/aepp-components)
+
 
 ---
 
@@ -72,13 +77,11 @@ The consumer side of the website functions as an introduction to the æternity p
 **Single æpp**
 <img src='sprint-09-release/img/aepp.jpg' width='100%'>
 
-
 ### Developer side
 The developer side is the place where developers can get started with developing æpps for the æternity blockchain. In there we're linking all the useful Github repositories a developer needs for to get started.
 
 **Get Started Guide**
 <img src='sprint-09-release/img/dev-1.jpg' width='100%'>
-
 
 ## 2. We finalized the design of all the æpp icons
 We finalized the æpp icon which we have started in the previous sprint. We clearly have a hierarchy in the different icons:
@@ -91,8 +94,6 @@ We finalized the æpp icon which we have started in the previous sprint. We clea
 ## 3. We finalized the concept for offline signing with Airgap
 We have finalized the concept for offline signing which we started in the previous sprint.
 [See Clickdummy](https://projects.invisionapp.com/share/JTFUTDQWEFN#/screens)!
-
-
 
 ---
 
