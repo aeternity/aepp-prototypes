@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 121,
-    "x": 223,
+    "width": 141,
+    "x": 206,
     "y": 613
   },
   "horizontalSpacing": 0,
@@ -34,11 +34,20 @@
     {
       "_class": "overrideValue",
       "overrideName": "A9E93EBD-D81C-4413-99E9-03B7D5D33A06_stringValue",
-      "value": "Approve"
+      "value": "Sign"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E4972C2-1F00-4045-B035-ECCA12173872",
+      "overrideName": "BB1E29A8-AC76-4776-A955-B18E179DCCC0_symbolID",
+      "value": ""
     }
   ],
   "overrides": {
-    "A9E93EBD-D81C-4413-99E9-03B7D5D33A06": "Approve"
+    "A9E93EBD-D81C-4413-99E9-03B7D5D33A06": "Sign",
+    "BB1E29A8-AC76-4776-A955-B18E179DCCC0": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
