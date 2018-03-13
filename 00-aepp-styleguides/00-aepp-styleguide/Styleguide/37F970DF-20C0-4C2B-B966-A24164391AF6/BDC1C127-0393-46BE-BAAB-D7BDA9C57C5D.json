@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 30,
     "width": 109,
-    "x": 49,
+    "x": 44,
     "y": 613
   },
   "horizontalSpacing": 0,
@@ -35,10 +35,19 @@
       "_class": "overrideValue",
       "overrideName": "3420460C-8385-4957-8454-7E13567CBC69_stringValue",
       "value": "Cancel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B47BBBBD-A141-4BC5-BE7D-3C231F305E33",
+      "overrideName": "A7DCA516-9668-4B89-B1BE-48BE4675DC33_symbolID",
+      "value": ""
     }
   ],
   "overrides": {
-    "3420460C-8385-4957-8454-7E13567CBC69": "Cancel"
+    "3420460C-8385-4957-8454-7E13567CBC69": "Cancel",
+    "A7DCA516-9668-4B89-B1BE-48BE4675DC33": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
