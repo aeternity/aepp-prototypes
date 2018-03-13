@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 881,
+  "changeIdentifier": 974,
   "do_objectID": "7156BBB0-7955-46A9-8A51-DA42BA272666",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 50,
     "width": 335,
     "x": 0,
-    "y": 5010
+    "y": 5290
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,11 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "49BF403D-6576-47B9-9CAA-1C446778CF66"
+    },
+    {
+      "class": "text",
+      "id": "933DEC3C-2014-46F0-87C4-2EEC4DA99296"
     }
   ],
   "name": "identity/collapsed-aepp",

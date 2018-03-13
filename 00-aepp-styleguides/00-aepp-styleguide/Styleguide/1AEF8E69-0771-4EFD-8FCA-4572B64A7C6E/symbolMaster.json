@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1010,
+  "changeIdentifier": 1028,
   "do_objectID": "1AEF8E69-0771-4EFD-8FCA-4572B64A7C6E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 50,
     "width": 335,
     "x": 415,
-    "y": 5010
+    "y": 5290
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,11 +41,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "6BB5807B-2F92-4C9B-9DC9-A0222FBA5CA2"
+    },
+    {
+      "class": "text",
+      "id": "C8846AA8-953C-4EBF-A0C9-069A103BC8D1"
+    },
+    {
+      "class": "text",
+      "id": "956550D0-02EB-408D-9780-C17BB12986CA"
     }
   ],
   "name": "identity/collapsed-home",
