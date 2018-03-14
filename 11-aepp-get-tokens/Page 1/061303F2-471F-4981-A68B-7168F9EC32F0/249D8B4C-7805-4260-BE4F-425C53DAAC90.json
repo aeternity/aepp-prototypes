@@ -29,8 +29,22 @@
   "name": "card/minified-grid",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B4F0CD3-3217-4DC9-A610-F73703E8CCD6",
+      "overrideName": "AF12488C-6747-43C5-9838-35A337806922_stringValue",
+      "value": "0 ETH"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB0B7EC6-D680-4509-9831-97E64B10FB69",
+      "overrideName": "0F3466A2-41E5-41E7-BF34-B573E42FB68B_stringValue",
+      "value": "0  AE"
+    }
   ],
   "overrides": {
+    "0F3466A2-41E5-41E7-BF34-B573E42FB68B": "0  AE",
+    "AF12488C-6747-43C5-9838-35A337806922": "0 ETH"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

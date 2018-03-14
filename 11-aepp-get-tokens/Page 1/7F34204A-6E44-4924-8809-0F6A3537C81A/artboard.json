@@ -17,7 +17,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 1,
         "visibleScaleType": 0
       }
     ],
@@ -35,7 +35,7 @@
     "y": 935
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -72,10 +72,6 @@
       "id": "D193DF27-476B-48E6-BF81-5D09641CE92F"
     },
     {
-      "class": "symbolInstance",
-      "id": "E58FD92E-3F00-4BF7-83A4-B2D404CB3A5F"
-    },
-    {
       "class": "group",
       "id": "C64C1AFE-AAEB-4A25-92FA-97B8FE68B1AC"
     },
@@ -106,6 +102,10 @@
     {
       "class": "text",
       "id": "BF36D4E2-C3F7-4678-B01A-98C7DC300F91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EEDE2337-17FF-4B66-8FC9-B268DBEC3FD2"
     }
   ],
   "name": "11.13-exchange-transfer-filled",
