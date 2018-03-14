@@ -9,7 +9,7 @@ navigation: 4
 ## Overview
 These are concepts and prototypes of æpps that will run on the æternity blockchain. They can be found in the [github repository](https://github.com/aeternity/aepp-prototypes).
 
-We work in an iterative process consisting of two week [sprints](http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint), each lasting 2 weeks. 
+We work in an iterative process consisting of two week [sprints](http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint), each lasting 2 weeks.
 
 We document our progress and results per sprint here. We encourage designers and developers to join the community by contributing pull requests.
 
@@ -43,17 +43,17 @@ Designers can make use of the styleguide and shared styles for Sketch. Read belo
 
 ## Make use of the æternity Sketch Styleguide
 
-Use our styleguide as a library in order to quickly make use of æternity's UI elements. Download our [Styleguide](00-aepp-styleguides/00-aepp-styleguide.sketch) and set it up as a Library in your own Sketch file or keep track of changes with the Kactus app:
+Use our styleguide as a library in order to quickly make use of æternity's UI elements. Download our [Styleguide](00-aepp-sketch-resources/00-aepp-styleguide.sketch) and set it up as a Library in your own Sketch file or keep track of changes with the Kactus app:
 
 Use the Mac App and the Sketch Plugin [Kactus](https://github.com/kactus-io/kactus), make a branch, keep track of changes and create pull requests of this repository.
 
 *or*
 
-Create a new Sketch File, but use our Symbols as a [Styleguide](00-aepp-styleguides/00-aepp-styleguide.sketch) using the Sketch Library function. [Learn more about libraries](https://www.sketchapp.com/docs/libraries/adding-libraries)
+Create a new Sketch File, but use our Symbols as a [Styleguide](00-aepp-sketch-resources/00-aepp-styleguide.sketch) using the Sketch Library function. [Learn more about libraries](https://www.sketchapp.com/docs/libraries/adding-libraries)
 
 ## Make use of the shared text styles in Sketch
 
-1. Save the [æternity Text Styles](00-aepp-styleguides/00-aepp-styleguide/document.json) locally
+1. Save the [æternity Text Styles](00-aepp-sketch-resources/00-aepp-sketch-resources/00-aepp-textstyle.json) locally
 2. Use the [Shared Style Guide Sketch Plugin](https://github.com/nilshoenson/shared-text-styles), install the plugin and import the æternity Shared Text Style you just downloaded.
 
 ## Take a look at the æpps we have already made
