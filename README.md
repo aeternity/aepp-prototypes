@@ -22,8 +22,8 @@ All the designs are frequently updated in Zeplin Styleguide, where all the CSS S
 ---
 
 ## Getting started as a developer
-
 Developers can make use of the existing open source æpps components and tools in the development repositories below.
+
 💳 **æpp Identity**: [Dev Repo](https://github.com/aeternity/aepp-identity)
 
 🚀 **æpp Notary**: [Dev Repo](https://github.com/aeternity/aepp-aexistence)
@@ -38,11 +38,9 @@ Developers can make use of the existing open source æpps components and tools i
 ---
 
 # Getting started as a designer
-
 Designers can make use of the styleguide and shared styles for Sketch. Read below to see how to get started.
 
 ## Make use of the æternity Sketch Styleguide
-
 Use our styleguide as a library in order to quickly make use of æternity's UI elements.
 
 Install [Kactus](https://github.com/kactus-io/kactus), clone the repository, keep track of changes, create a branch, and create pull requests to merge your branch into master.
@@ -52,16 +50,18 @@ Kactus will automatically create `.sketch` files from the directories in this re
 [Learn more about libraries](https://www.sketchapp.com/docs/libraries/adding-libraries)
 
 ## Make use of the shared text styles in Sketch
-
 1. Save the [æternity Text Styles](00-aepp-styleguide/document.json) locally
 2. Use the [Shared Style Guide Sketch Plugin](https://github.com/nilshoenson/shared-text-styles), install the plugin and import the æternity Shared Text Style you just downloaded.
 
 ## Take a look at the æpps we have already made
-
 💳 **æpp Identity**: [Designs](01-aepp-identity) | [Demo æpp](http://identity.aepps.com/)
+
 ✍️ **æpp Message Wall**: [Designs](02-aepp-message-wall) | [Demo æpp](https://wall.aepps.com/)
+
 🚀 **æpp Notary**: [Designs](03-aepp-notary) | [Demo æpp](http://notary.aepps.com/)
+
 🙋 **æpp Response**: [Designs](04-aepp-response)
+
 📝 **æpp Voting**: [Designs](05-aepp-voting) | [Demo æpp](https://vote.aepps.com/)
 
 ---
