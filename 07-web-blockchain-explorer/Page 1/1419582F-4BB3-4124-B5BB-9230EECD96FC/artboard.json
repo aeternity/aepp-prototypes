@@ -31,8 +31,8 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": -6404,
-    "y": -10260
+    "x": -5936,
+    "y": -9978
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,6 +46,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -76,11 +77,31 @@
     },
     {
       "class": "shapeGroup",
-      "id": "45EE8355-F791-40AF-BAA1-F426482CD9DC"
+      "id": "CD38D7A3-9B79-42E1-A8EF-C76B60D6B52C"
     },
     {
       "class": "text",
-      "id": "53332237-D291-4196-8450-E6E8D26EFBEE"
+      "id": "E87CB732-877E-4C65-8685-9A7825874C45"
+    },
+    {
+      "class": "text",
+      "id": "69DCD350-A1CC-4A47-BB90-366FBBA8DDD7"
+    },
+    {
+      "class": "text",
+      "id": "C93511AA-2D74-4F8C-AB47-46699647F3C3"
+    },
+    {
+      "class": "text",
+      "id": "70B7AC9F-3581-451D-952A-2CB87BAA8AE4"
+    },
+    {
+      "class": "text",
+      "id": "2372201A-3DD0-40AA-A888-364B188FD4A4"
+    },
+    {
+      "class": "text",
+      "id": "9E40E535-11F7-4A2C-ABFA-3A7630C28B99"
     },
     {
       "class": "text",
@@ -88,51 +109,22 @@
     },
     {
       "class": "text",
-      "id": "595AC715-F529-458E-99F9-809383724F4B"
-    },
-    {
-      "class": "text",
       "id": "453CE87F-9240-409C-91C8-5EA7946EB8BA"
     },
     {
       "class": "group",
-      "id": "E452D839-FF51-41D5-9A7F-78827E449771"
-    },
-    {
-      "class": "group",
-      "id": "F5E31891-1819-473A-B4DF-942E90EDD00D"
-    },
-    {
-      "class": "group",
-      "id": "6E444C02-D794-4E45-906E-CDA8851B66A3"
-    },
-    {
-      "class": "group",
-      "id": "D7319386-B102-45CC-9295-E1336CAE75BF"
-    },
-    {
-      "class": "group",
-      "id": "CDE729D4-53B6-4CB3-8D16-31E75D703E2D"
-    },
-    {
-      "class": "group",
-      "id": "5746345D-1520-4813-B2B9-249EE56EAE5F"
-    },
-    {
-      "class": "group",
-      "id": "868F7BD5-C772-4B5A-A0D3-BC1D6F88E263"
-    },
-    {
-      "class": "group",
-      "id": "CAA887E6-10A7-49D0-AE45-32070D643039"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3616B07F-4CBF-4582-97F5-E25272BC8FEC"
+      "id": "672FFA96-ABD9-44ED-A7A7-8AD2D2EAF335"
     }
   ],
   "name": "09.20-transactions copy 2",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

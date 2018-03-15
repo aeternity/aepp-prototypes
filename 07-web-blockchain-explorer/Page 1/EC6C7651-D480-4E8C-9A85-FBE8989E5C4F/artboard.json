@@ -35,7 +35,7 @@
     "y": -12990
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,6 +46,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -57,14 +58,6 @@
     {
       "class": "group",
       "id": "F302795A-0101-4DEF-9302-09BD435C39AA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6D6FB17A-2402-49C1-ADB4-779F6E40708B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1DF4E30D-B78A-45F1-A8BE-D05AF678BC21"
     },
     {
       "class": "text",
@@ -425,10 +418,6 @@
     {
       "class": "group",
       "id": "293F4AF7-F4BC-4A66-855D-A38E06563D72"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "525422D9-1650-432A-9A0A-4711D4CFDC46"
     },
     {
       "class": "group",

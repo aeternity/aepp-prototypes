@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 500,
+    "height": 690,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -24,7 +24,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "layers": [
     {
@@ -32,8 +32,8 @@
       "id": "C8AE14A9-F819-41BD-900A-8C288C4FEDD9"
     }
   ],
-  "name": "Rectangle 3",
-  "nameIsFixed": false,
+  "name": "hero 2",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -71,18 +71,17 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{-0.53420459956027821, -0.50800550523756716}",
+          "from": "{0, 0}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.6321481717687075,
-                "green": 0.3248414502458082,
-                "red": 0.4356733825983293
+                "blue": 0.4392156862745096,
+                "green": 0.1843137254901961,
+                "red": 0.9490196078431372
               },
               "position": 0
             },
@@ -91,14 +90,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.3450980392156863,
-                "green": 0.1058823529411765,
-                "red": 0.1921568627450981
+                "blue": 0.3607843137254902,
+                "green": 0.1450980392156863,
+                "red": 0.2588235294117647
               },
               "position": 1
             }
           ],
-          "to": "{0.99999999999999978, 1}"
+          "to": "{0.63441840277777772, 0.67159193840579712}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

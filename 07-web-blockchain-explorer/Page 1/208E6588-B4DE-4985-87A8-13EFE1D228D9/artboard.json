@@ -29,10 +29,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2970,
+    "height": 3353,
     "width": 1440,
-    "x": -8481,
-    "y": -13002
+    "x": -8608,
+    "y": -13001
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,6 +46,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -57,6 +58,10 @@
     {
       "class": "shapeGroup",
       "id": "F7E048F4-8E92-4FE6-A9A1-BEF63242474D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "776FC1B7-E81E-43CE-8278-2F75F8588BCF"
     },
     {
       "class": "group",
@@ -120,14 +125,6 @@
     },
     {
       "class": "text",
-      "id": "A3B68A75-93D9-4EF1-B4D9-A074BB0E808F"
-    },
-    {
-      "class": "text",
-      "id": "E5103C4E-2D24-4954-9864-09E3D6F15444"
-    },
-    {
-      "class": "text",
       "id": "08C5AD2F-1112-4B06-A0FD-5BBD942046C3"
     },
     {
@@ -135,20 +132,8 @@
       "id": "F37B409D-C77A-45C4-ABD3-8F18B29DAB53"
     },
     {
-      "class": "shapeGroup",
-      "id": "3D9884E0-F102-490F-ABC9-657988D6670E"
-    },
-    {
       "class": "group",
       "id": "D711625F-5511-414F-8297-C169D9A29DF7"
-    },
-    {
-      "class": "text",
-      "id": "FC2D7AF2-57F7-413D-A421-9BD4A899695D"
-    },
-    {
-      "class": "text",
-      "id": "9792179F-3E3E-4605-BBBC-E5B669950EDA"
     },
     {
       "class": "group",
@@ -163,8 +148,8 @@
       "id": "504587C6-E0CC-44CD-9845-F9102A4B8CF2"
     },
     {
-      "class": "symbolInstance",
-      "id": "C890BE14-7CC4-437A-8CD0-C115D307ED2A"
+      "class": "text",
+      "id": "9F40DA59-8E19-4AB6-BA2D-3BA4885D64A2"
     }
   ],
   "name": "09.00-blockchain-explorer",
