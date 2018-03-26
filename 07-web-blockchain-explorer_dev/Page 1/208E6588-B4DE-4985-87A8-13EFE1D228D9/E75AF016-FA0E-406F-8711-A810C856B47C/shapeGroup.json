@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 181.0057830185865,
-    "width": 193.7851821791328,
-    "x": 642.2872339329352,
-    "y": 1006
+    "height": 158.6907750231503,
+    "width": 158.6907750231503,
+    "x": 639,
+    "y": 1025
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,22 +25,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "oval",
       "id": "A2528E30-61DD-4B1D-945E-A5515656DEB2"
-    },
-    {
-      "class": "rectangle",
-      "id": "C550BC6E-4747-4E54-B9C5-90155FF56A63"
-    },
-    {
-      "class": "rectangle",
-      "id": "AE55AAB7-5123-4CCA-9CE2-26026CA2371C"
     }
   ],
-  "name": "Combined Shape Copy",
+  "name": "Combined Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -133,12 +125,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 181.0058,
+            "constant": 158.6908,
             "enabled": 1,
             "modelID": "constraint_684176ea-58bb-4b59-b7a8-562fe99f7ed3",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 193.7852
+            "multiplier": 158.6908
           },
           "automatic": 1,
           "modelID": "viewConstraints_5417589b-43f5-4c2e-864a-29909d12327e",

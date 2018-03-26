@@ -17,7 +17,7 @@
         "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 1573,
     "width": 1440,
-    "x": -22165,
-    "y": -19853
+    "x": -40044,
+    "y": -25251
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -108,8 +108,8 @@
       "id": "4935B260-710B-4A02-8C8C-E14D2783D25A"
     },
     {
-      "class": "symbolInstance",
-      "id": "D3C54822-0027-4907-9E9E-AE2117B7C322"
+      "class": "group",
+      "id": "6A86BDD2-9133-4077-B6C2-0DFBB899174B"
     },
     {
       "class": "text",
@@ -450,6 +450,10 @@
     {
       "class": "group",
       "id": "A4FD6299-B172-40E0-8253-3FB2CC275268"
+    },
+    {
+      "class": "group",
+      "id": "D4E260C1-CC5A-48B2-B067-2E80A90FA38F"
     }
   ],
   "name": "09.10-blocks",

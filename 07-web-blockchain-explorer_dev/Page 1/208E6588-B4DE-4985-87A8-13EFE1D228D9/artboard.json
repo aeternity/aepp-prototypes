@@ -17,7 +17,7 @@
         "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 4149,
     "width": 1440,
-    "x": -23912,
-    "y": -19863
+    "x": -40046,
+    "y": -29879
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -128,20 +128,8 @@
       "id": "31E07E7C-D717-40B0-A9A8-50A3469AAD20"
     },
     {
-      "class": "group",
-      "id": "44FBDE07-E475-40E9-9AE0-2899F4A6ED65"
-    },
-    {
       "class": "text",
       "id": "2FF56EDB-8B8B-47AD-8693-4F9CFB4C9960"
-    },
-    {
-      "class": "text",
-      "id": "93369901-3D83-47C0-8008-A60CF3006120"
-    },
-    {
-      "class": "text",
-      "id": "DC57CDBC-40DF-4859-A767-1489BD54DC2A"
     },
     {
       "class": "text",
@@ -176,30 +164,6 @@
       "id": "46BD69D3-BF26-4A22-9D2F-ACECD64EBFCC"
     },
     {
-      "class": "group",
-      "id": "7EA97AB2-47F0-4E5C-86BD-314D0BB9D8A1"
-    },
-    {
-      "class": "group",
-      "id": "865CC532-7490-4A63-A1D1-A972FDBBB05B"
-    },
-    {
-      "class": "text",
-      "id": "675C23DD-61DE-4014-8A09-C73F484D1502"
-    },
-    {
-      "class": "group",
-      "id": "5303947E-2D3A-4CA0-A172-D152A1AFAA0F"
-    },
-    {
-      "class": "text",
-      "id": "05BE5393-D823-40F6-870F-64A3B0BCC355"
-    },
-    {
-      "class": "text",
-      "id": "A6A971E9-DB25-48BA-9407-DE1B93733FCE"
-    },
-    {
       "class": "symbolInstance",
       "id": "1203735C-2997-42B0-A7D8-1F3299C0B37A"
     },
@@ -210,10 +174,6 @@
     {
       "class": "text",
       "id": "87C98BE2-4C69-4389-8536-D08FEB785B9F"
-    },
-    {
-      "class": "group",
-      "id": "45A53308-61D1-4417-9C03-98226D2A0107"
     },
     {
       "class": "symbolInstance",
@@ -236,26 +196,6 @@
       "id": "816AF99B-0E80-47ED-9C50-C5EBB8EC705D"
     },
     {
-      "class": "group",
-      "id": "7806FA09-F66C-44BE-A6E9-E8FD145170EB"
-    },
-    {
-      "class": "group",
-      "id": "D1CD04FF-9F74-403F-873C-FFE5E8E27980"
-    },
-    {
-      "class": "group",
-      "id": "9906D3AD-84F3-4FDA-A217-9E3834525AC8"
-    },
-    {
-      "class": "text",
-      "id": "4DF74BFD-DA35-4621-BA9B-5969C49AF6B9"
-    },
-    {
-      "class": "text",
-      "id": "BA2716B4-44DA-49A6-857A-DD505542063F"
-    },
-    {
       "class": "symbolInstance",
       "id": "25E0398E-81CF-4EDF-A909-F526654DC6FF"
     },
@@ -269,7 +209,7 @@
     },
     {
       "class": "group",
-      "id": "A4FFA310-E16E-4E1C-B969-60F2022BB36A"
+      "id": "53A55D2F-FEB7-4B9B-87CB-4E3F9D9220A9"
     },
     {
       "class": "text",
@@ -277,11 +217,11 @@
     },
     {
       "class": "group",
-      "id": "F33D7D8C-869B-4791-8D91-9DBDDB97BB33"
+      "id": "A4691008-E6F9-4195-AFEC-CE0AE398C12E"
     },
     {
-      "class": "text",
-      "id": "1DAA5E17-0ED7-40E4-BD4A-DE8A0B11BFE2"
+      "class": "group",
+      "id": "9CF31120-5DBF-4203-8F93-B54BD5909E32"
     },
     {
       "class": "shapeGroup",
@@ -289,23 +229,27 @@
     },
     {
       "class": "group",
-      "id": "5710244D-471C-42E3-90E6-D96F4B4A0B94"
+      "id": "93EC4302-5BDF-4AD6-A328-64C26E97610D"
     },
     {
       "class": "group",
       "id": "E466F1E2-02D1-4676-9413-356C91932D06"
     },
     {
-      "class": "group",
-      "id": "F4347C3E-BFE7-40A5-A0C2-27C01C881F7B"
+      "class": "text",
+      "id": "9AF77451-1615-4628-BE90-BD147BFA79B2"
+    },
+    {
+      "class": "text",
+      "id": "07F60BFE-EFC8-449E-ADC9-48BC577D182B"
+    },
+    {
+      "class": "text",
+      "id": "4E24EB2D-E70B-48B7-B297-32F6F00CAA8C"
     },
     {
       "class": "group",
       "id": "16FEF760-C605-42A2-A6A8-07E90A944650"
-    },
-    {
-      "class": "group",
-      "id": "9B8732C8-902D-44BA-9A1E-87236B0D1C54"
     },
     {
       "class": "symbolInstance",
@@ -330,6 +274,18 @@
     {
       "class": "group",
       "id": "D4ADB994-F03D-4966-9BA0-78C1D8114775"
+    },
+    {
+      "class": "group",
+      "id": "900C8D66-8213-429B-834A-848544C67C6C"
+    },
+    {
+      "class": "text",
+      "id": "97B5B32B-9B95-4906-93B9-C194F8473564"
+    },
+    {
+      "class": "text",
+      "id": "5628F99C-3DB8-4E33-B551-735776EB7A34"
     }
   ],
   "name": "09.00-blockchain-explorer",

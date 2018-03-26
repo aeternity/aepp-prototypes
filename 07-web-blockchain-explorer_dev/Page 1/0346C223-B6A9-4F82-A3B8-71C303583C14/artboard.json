@@ -19,7 +19,7 @@
         "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -32,10 +32,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8B644D70-68F0-433D-9B8F-5CFF11CEDDE7",
-    "height": 1551,
+    "height": 1024,
     "width": 1440,
-    "x": -11779,
-    "y": -19863
+    "x": -40078,
+    "y": -19997
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -60,8 +60,32 @@
       "id": "C95380FA-B724-434B-8E86-BC09C379BEA7"
     },
     {
+      "class": "shapeGroup",
+      "id": "E00CB358-2049-4E49-8951-1FB6D143A548"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CB9C1CE-13B1-4331-9577-03667373BA3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA3D9AE1-4DF4-47EF-B314-31FC64B32D13"
+    },
+    {
+      "class": "text",
+      "id": "CB33EBB1-B5CA-4280-BA30-9EB70D071164"
+    },
+    {
+      "class": "text",
+      "id": "6DD85DED-4566-4AFA-8B51-F3B6882A3DB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5119933C-A9B4-415C-9810-9606D601F6D0"
+    },
+    {
       "class": "group",
-      "id": "6288CF1E-5E60-4C5C-B51E-6760305BC7AD"
+      "id": "7FC463B5-B34C-47F8-B954-72C3BB686113"
     },
     {
       "class": "group",
@@ -82,9 +106,29 @@
     {
       "class": "text",
       "id": "127AE94A-8BF3-42E8-A913-236E3AF54F7B"
+    },
+    {
+      "class": "group",
+      "id": "F550982C-369F-4662-9FF2-C6AE6E803360"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AEA6E85F-A89C-4E9A-9017-A4290F8465C7"
+    },
+    {
+      "class": "group",
+      "id": "88BD195C-F203-49BE-9822-AC8081A27C0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6290A85C-71F7-423C-9564-64B12D44BACE"
+    },
+    {
+      "class": "group",
+      "id": "40F237A8-DAA1-436F-BB7E-12B18D7BC1B4"
     }
   ],
-  "name": "09.30-transaction-detailed",
+  "name": "09.40-transaction-detailed",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

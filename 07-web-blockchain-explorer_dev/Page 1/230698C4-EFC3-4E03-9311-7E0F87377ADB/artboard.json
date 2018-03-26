@@ -19,7 +19,7 @@
         "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -34,11 +34,11 @@
     "do_objectID": "D90E1922-8387-4200-8943-9D6F32D8700E",
     "height": 1283,
     "width": 1440,
-    "x": -8126,
-    "y": -19863
+    "x": -40078,
+    "y": -17472
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -310,9 +310,13 @@
     {
       "class": "group",
       "id": "2F39F6A6-8897-4D81-9054-3D822CECD95B"
+    },
+    {
+      "class": "group",
+      "id": "AC3B123D-25A0-4076-93DE-377B8145EF7A"
     }
   ],
-  "name": "09.20-transactions-v1 copy",
+  "name": "09.50-addresses",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
