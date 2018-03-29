@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 1575,
     "width": 1440,
-    "x": -40044,
+    "x": -40078,
     "y": -23278
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -62,6 +62,10 @@
     {
       "class": "shapeGroup",
       "id": "582C1520-0955-43A6-9F0B-BA7868CDF813"
+    },
+    {
+      "class": "group",
+      "id": "498CA7E5-CE83-45A9-BD90-11477CCDFFCB"
     },
     {
       "class": "symbolInstance",
@@ -126,10 +130,6 @@
     {
       "class": "group",
       "id": "50E987A5-777A-4A2F-9C14-AD748DC9FAD3"
-    },
-    {
-      "class": "group",
-      "id": "1EC2D9EC-181B-4BFE-9967-6F89709C045B"
     },
     {
       "class": "group",

@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 1573,
     "width": 1440,
-    "x": -40044,
+    "x": -40078,
     "y": -25251
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,10 +58,6 @@
     {
       "class": "shapeGroup",
       "id": "DB084E12-1238-4674-A522-8068333EA6CF"
-    },
-    {
-      "class": "group",
-      "id": "8B366360-494A-47D7-9488-F47D245185B5"
     },
     {
       "class": "group",
@@ -454,6 +450,10 @@
     {
       "class": "group",
       "id": "D4E260C1-CC5A-48B2-B067-2E80A90FA38F"
+    },
+    {
+      "class": "group",
+      "id": "5CAECFF0-E8B5-4DC3-8989-0EA5D9FBB459"
     }
   ],
   "name": "09.10-blocks",
