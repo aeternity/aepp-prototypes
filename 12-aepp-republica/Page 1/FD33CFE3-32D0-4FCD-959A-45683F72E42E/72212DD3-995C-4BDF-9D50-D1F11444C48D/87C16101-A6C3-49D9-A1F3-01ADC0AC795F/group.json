@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "87C16101-A6C3-49D9-A1F3-01ADC0AC795F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C7A34AA-2676-4F0A-AE9C-7D8428BD442E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F898397C-E1D3-41F4-B2DB-DECA3C8D9383",
+    "height": 123,
+    "width": 213,
+    "x": 116,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B53EC98D-4F6C-4E80-BDDE-07D3C039C2E6"
+    },
+    {
+      "class": "text",
+      "id": "4985FE14-3CBA-4C35-AB57-DD45021EC2BE"
+    },
+    {
+      "class": "text",
+      "id": "ECA9A3EA-A47A-4303-8427-FD3C6E7E2EE1"
+    }
+  ],
+  "name": "card/large copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDD9EDF4-5EE7-476F-8BA9-294D98770A9A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 123.0437,
+            "enabled": 1,
+            "modelID": "constraint_b321b932-91f1-4d0f-8ac5-855012494823",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 213
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0e4b6607-2c4d-4925-8f8f-56e147586513",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

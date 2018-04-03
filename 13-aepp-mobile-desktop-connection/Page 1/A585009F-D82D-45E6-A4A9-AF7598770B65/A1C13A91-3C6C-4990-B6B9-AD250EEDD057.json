@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A1C13A91-3C6C-4990-B6B9-AD250EEDD057",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FA55D1E-16C6-4F20-B054-AD2A28DD28F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D7E2A05-AA0C-425C-AB51-A358B6B2E9AE",
+    "height": 150,
+    "width": 96,
+    "x": 140,
+    "y": 100
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "app/launcher",
+  "nameIsFixed": false,
+  "originalObjectID": "6D0D34D3-0F8D-4654-95C6-85CC6AFE9A94",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5B02ADBF-7BF9-4F03-9D58-A139CB4CB95D_stringValue",
+      "value": "Voting"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FB6944FF-7193-4C31-8926-828DD7F7F134_symbolID",
+      "value": "0E6F4AB8-2DAA-430A-ADA6-F15D281B5498"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5BA7CCF-C71A-46CC-BE90-09EFB885D7A1",
+      "overrideName": "051AFB76-8AB4-488B-83DB-A6B67E49312A_symbolID",
+      "value": "02E74094-50C9-4469-97CE-8E3A737E2F0B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6C5FD9A-7B1D-4906-8E47-62569AA6947E",
+      "overrideName": "D86BAC87-B40C-4E2D-B0EB-D228FE003D67_symbolID",
+      "value": "10650D74-6DC5-4A0C-A47F-E294DA0BD0F3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49EB7CB9-F695-4881-9844-A28F4FB06479",
+      "overrideName": "E0111998-3108-4A5A-878E-1A1926D86A90_symbolID",
+      "value": "10650D74-6DC5-4A0C-A47F-E294DA0BD0F3"
+    }
+  ],
+  "overrides": {
+    "051AFB76-8AB4-488B-83DB-A6B67E49312A": {
+      "symbolID": "02E74094-50C9-4469-97CE-8E3A737E2F0B"
+    },
+    "5B02ADBF-7BF9-4F03-9D58-A139CB4CB95D": "Voting",
+    "D86BAC87-B40C-4E2D-B0EB-D228FE003D67": {
+      "symbolID": "10650D74-6DC5-4A0C-A47F-E294DA0BD0F3"
+    },
+    "E0111998-3108-4A5A-878E-1A1926D86A90": {
+      "symbolID": "10650D74-6DC5-4A0C-A47F-E294DA0BD0F3"
+    },
+    "FB6944FF-7193-4C31-8926-828DD7F7F134": {
+      "symbolID": "0E6F4AB8-2DAA-430A-ADA6-F15D281B5498"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6653FC53-CF2D-42E2-903C-717D5453CFF9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9361A6BF-0BA0-4002-9714-C68F8BCDE954",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

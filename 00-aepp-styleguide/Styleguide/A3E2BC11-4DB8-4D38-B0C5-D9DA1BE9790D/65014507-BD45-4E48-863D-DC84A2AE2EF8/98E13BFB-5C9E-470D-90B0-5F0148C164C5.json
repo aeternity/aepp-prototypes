@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "98E13BFB-5C9E-470D-90B0-5F0148C164C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C220BA5C-AFE0-4A53-B136-B1B17A42EDEE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7DAC2745-2166-4DCE-B08A-C4377BCC84F4",
+    "height": 23,
+    "width": 23,
+    "x": 59,
+    "y": 14
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Avatar",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0281EC22-4492-41E3-960B-3E63DF8A216C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3EC603C0-3984-422E-9C76-BC3F0C37357B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 23,
+            "enabled": 1,
+            "modelID": "constraint_22718421-11d9-4d49-b1a7-39e7ac39187b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 23
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c3b438a8-4264-45e2-8b39-01690bebbae0",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

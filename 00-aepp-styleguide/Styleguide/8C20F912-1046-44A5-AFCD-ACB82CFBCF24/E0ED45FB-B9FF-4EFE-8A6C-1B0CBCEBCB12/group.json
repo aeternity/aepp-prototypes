@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "E0ED45FB-B9FF-4EFE-8A6C-1B0CBCEBCB12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "731E921B-B462-4222-BCAD-9CBC5FA0A3C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EBAACA95-F612-4FE5-A113-1B2B0286152B",
+    "height": 12,
+    "width": 12,
+    "x": 15,
+    "y": 45
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8D78F787-9365-4C15-8028-41A62AA3BA09"
+    },
+    {
+      "class": "group",
+      "id": "8E237057-509D-4A3E-A68B-DB703B814B6A"
+    }
+  ],
+  "name": "AirGap_Shield_Logo_newcolors",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DE7F1C9-5C49-49E2-8000-A7C41A4B2895",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 17,
+            "enabled": 1,
+            "modelID": "constraint_fab6a7a5-a442-4aa7-a5b0-fc10b96453ec",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 15.3
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2dda61cb-b405-4fb5-9e25-30ce31c6e3fc",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

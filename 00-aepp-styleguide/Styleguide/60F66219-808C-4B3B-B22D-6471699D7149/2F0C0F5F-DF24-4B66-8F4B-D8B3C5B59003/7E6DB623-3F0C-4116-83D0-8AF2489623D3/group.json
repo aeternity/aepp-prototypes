@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "7E6DB623-3F0C-4116-83D0-8AF2489623D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52E994DC-D3BD-43EC-A294-DBA6ADBE06D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A933095B-183D-4A53-B151-F16D05EE87D1",
+    "height": 31,
+    "width": 30,
+    "x": -4,
+    "y": -5.571428571428577
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CFCB28C9-D4DD-494D-9C71-295698FF36CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED994D4F-ED5A-4F46-B3A1-32B1DF5A3B57"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED3FE39C-A8A7-4D71-B74D-C23254345479"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62723C19-A89E-4E0B-9845-8F4C8E1D17EE"
+    }
+  ],
+  "name": "Group 10",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "176D6D6C-7949-409E-896F-803B9E60E35D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 33.5,
+            "enabled": 1,
+            "modelID": "constraint_b72e5e04-44e1-4c3f-b5cd-b5312fbdad9b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 30.45455
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8f12f763-93c2-4326-b7e7-e571afa825d4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

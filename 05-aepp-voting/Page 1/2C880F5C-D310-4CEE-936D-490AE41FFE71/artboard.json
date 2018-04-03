@@ -46,6 +46,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -208,51 +209,58 @@
     },
     {
       "class": "symbolInstance",
-      "id": "DFDF0B0E-1724-4CC1-9578-86B20913E3E4"
+      "id": "EE723CB8-40A0-4262-B06D-071897115E58"
     },
     {
       "class": "symbolInstance",
-      "id": "8FBED6EA-C054-40E6-BD24-9CB3BE903BB8"
+      "id": "1E053AAA-8552-4C04-A005-FD19241D0557"
     },
     {
       "class": "symbolInstance",
-      "id": "1B2B3392-04ED-49A9-9012-4DD6126C4CA6"
+      "id": "0D549CA2-27FA-4DBE-9572-7972658CEB73"
     },
     {
       "class": "symbolInstance",
-      "id": "2928AD68-5832-49B7-8013-94B7EC23BF59"
+      "id": "FCBACC9F-4EFA-4CC6-A31D-069B1B496924"
     },
     {
       "class": "symbolInstance",
-      "id": "51DA6DE9-8420-475F-8EAC-3D2382F85864"
+      "id": "0ED00AE3-AF42-49BF-B22A-1CCE741737FE"
     },
     {
       "class": "shapeGroup",
-      "id": "516CA952-9FAA-4F6F-B28F-99B153C16920"
+      "id": "27DC0B69-01F9-4681-ACEB-9459784AD8E1"
     },
     {
       "class": "symbolInstance",
-      "id": "CAC0945F-7E96-4B4B-A7C4-69C52F9D6F70"
+      "id": "EA14F423-82ED-4C77-B5C7-DC967290AF3F"
     },
     {
       "class": "symbolInstance",
-      "id": "2FF5012B-F650-4F53-84F4-A7146FA9120C"
+      "id": "5E685711-75FC-454F-8674-D01FD96727C1"
     },
     {
       "class": "symbolInstance",
-      "id": "4C6EDEB5-F941-4A40-8132-54D8D2462879"
+      "id": "64705995-9445-4B49-B6A5-FA081B5E0ED8"
     },
     {
       "class": "text",
-      "id": "B109C1F5-F478-46AD-A3EB-8344A8C0E694"
+      "id": "6D3E6A0F-A2B2-4C53-997F-14234FE122F3"
     },
     {
       "class": "text",
-      "id": "55F28C41-A827-4522-B397-26A01FA70F4F"
+      "id": "EC57584D-643F-4F72-BA47-FB8ADD6C04D2"
     }
   ],
   "name": "05.30-voting-desktop",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
