@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "5ED663C5-639B-4B61-A6D6-AD3894DAC1EB",
+  "do_objectID": "B1C0CF39-3105-40D5-8550-76EC6924AF5D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9866BF2B-C7BF-4181-89DA-E8906DD15C4E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "115A4EBC-E647-4499-BA62-E1E9CA37004B",
     "height": 22,
     "width": 60,
     "x": 0,
-    "y": 0.001434794317447086
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": true,
@@ -25,11 +27,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "BB894951-AA14-4EEF-8C11-F079988A7C21"
+      "id": "BADADB4F-E6ED-40A9-9A90-167FFCAEB5EA"
     }
   ],
   "name": "Mask",
@@ -56,6 +58,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "AEDDD5A6-DC98-4EC8-8CEC-D5030CCD65B7",
     "endDecorationType": 0,
     "fills": [
       {
@@ -63,12 +66,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3450980392156863,
-          "green": 0.1058823529411765,
-          "red": 0.1921568627450981
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -76,35 +79,7 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 10,
-        "color": {
-          "_class": "color",
-          "alpha": 0.11,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": false,
-        "offsetX": 0,
-        "offsetY": 0,
-        "spread": 0
-      }
-    ],
     "startDecorationType": 0
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   },
   "windingRule": 1
 }
