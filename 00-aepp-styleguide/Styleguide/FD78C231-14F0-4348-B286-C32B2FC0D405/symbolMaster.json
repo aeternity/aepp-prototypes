@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9000,
+  "changeIdentifier": 9026,
   "do_objectID": "FD78C231-14F0-4348-B286-C32B2FC0D405",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B2E5ACA9-93B4-44F8-8B86-5806C74456E6",
-    "height": 188,
+    "height": 190,
     "width": 335,
-    "x": 4565,
+    "x": 5395,
     "y": 5684
   },
   "hasBackgroundColor": false,
@@ -46,11 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "B83C47A1-73DE-4B7E-837C-2DC72E4516CE"
+      "id": "B5C3B605-0A2C-4173-AC31-6717707067A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E973C327-6233-4837-B1FE-4F6C4BEA15D2"
     },
     {
       "class": "symbolInstance",
@@ -91,7 +95,7 @@
   ],
   "name": "identity/large-inactive-registered",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
