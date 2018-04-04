@@ -16,7 +16,7 @@
     "height": 112,
     "width": 85,
     "x": 55,
-    "y": 68
+    "y": 69
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -55,12 +55,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 75,
+            "constant": 112,
             "enabled": 1,
             "modelID": "constraint_5b8a1d91-7219-4de5-8513-9ffc09bcc516",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 56
+            "multiplier": 85
           },
           "automatic": 1,
           "modelID": "viewConstraints_4563399e-061c-484c-ab91-3c835e50cd92",
