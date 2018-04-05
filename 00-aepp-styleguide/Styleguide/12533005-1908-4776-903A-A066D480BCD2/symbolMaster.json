@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9349,
+  "changeIdentifier": 9882,
   "do_objectID": "12533005-1908-4776-903A-A066D480BCD2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,7 +26,7 @@
     "do_objectID": "0E9C7778-01FF-4352-911C-4DFA95D3F8B9",
     "height": 115,
     "width": 335,
-    "x": 9130,
+    "x": 2905,
     "y": 5684
   },
   "hasBackgroundColor": false,
@@ -46,23 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "668C2BD9-5F8C-4564-BCF6-56E2BFF44E17"
-    },
-    {
-      "class": "group",
-      "id": "C3C205FF-3538-4BB0-8D3F-084BA3C56383"
-    },
-    {
-      "class": "group",
-      "id": "FE6E695C-A82A-4133-B2B7-6BABE373A71B"
-    },
-    {
-      "class": "group",
-      "id": "9DC55F64-FABC-4318-8AD8-943ED0052F68"
     },
     {
       "class": "symbolInstance",
@@ -83,9 +71,21 @@
     {
       "class": "text",
       "id": "5FD15079-3F53-4833-BAD3-C6297D2CE9A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECF0F230-8C94-4C1B-9900-FD453D8D5993"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58279D7A-BD4E-48D1-9AB1-F8D3B25A417D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F47BEDF4-7C96-4255-A113-42A84C27011A"
     }
   ],
-  "name": "identity/stacked-mnemonic",
+  "name": "identity/stacked",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
