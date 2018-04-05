@@ -17,8 +17,8 @@
     "do_objectID": "02CCB8D5-2EC9-42DB-B8AB-48AB1A9DBAD6",
     "height": 150,
     "width": 96,
-    "x": 672,
-    "y": 397
+    "x": 336,
+    "y": 587
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -71,6 +71,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.3
+    },
     "do_objectID": "8DB3B233-9C8E-40E9-A840-D4D477D6C740",
     "endDecorationType": 0,
     "miterLimit": 10,

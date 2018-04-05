@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "1B305C63-6BC4-4598-BAFF-C4ECC3D79C1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74C4E893-AED6-4F71-9B71-939AC54527DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C916F4C4-EB88-4D99-9D1F-6CAC12D30678",
+    "height": 75,
+    "width": 66.66666666666666,
+    "x": 44,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DE5BDF67-7BE7-4285-A62D-99EAD94BF363"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D973325B-6991-4E04-8252-5A1BD1107946"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89C66C9D-89A3-4F85-87C1-B4520AA35DA7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1889C415-A327-4F57-BAE8-12463025404C"
+    }
+  ],
+  "name": "Group 9",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6AA2AA3C-299E-46B7-A7B4-1EC910B095C7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 75,
+            "enabled": 1,
+            "modelID": "constraint_101ad9df-86bd-427d-919c-afd000043d9a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 66.66666
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e940ac8e-5d56-412c-a5c4-83b1768974d3",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
