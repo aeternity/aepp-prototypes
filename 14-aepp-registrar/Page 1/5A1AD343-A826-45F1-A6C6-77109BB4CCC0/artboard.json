@@ -38,7 +38,7 @@
     "y": 891
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,15 +61,23 @@
     },
     {
       "class": "symbolInstance",
-      "id": "369EA87E-485F-4D9D-8EE8-0EA6E7ED0B93"
-    },
-    {
-      "class": "symbolInstance",
       "id": "50EFDA39-0665-4F53-B7E1-2ED0FF326613"
     },
     {
+      "class": "text",
+      "id": "104FC83A-F207-471A-AD9E-62E878CA20A8"
+    },
+    {
+      "class": "text",
+      "id": "B80202D3-CC93-4775-9A53-4F57CAB18C8D"
+    },
+    {
       "class": "symbolInstance",
-      "id": "45C55B3D-9046-4C1F-B7A9-4C8D63E67455"
+      "id": "17646024-DAAB-428F-BD66-BD7D90B21702"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F7D05E6-564B-4594-831F-BF15062840FC"
     }
   ],
   "name": "14.12-aepp-registrar",
