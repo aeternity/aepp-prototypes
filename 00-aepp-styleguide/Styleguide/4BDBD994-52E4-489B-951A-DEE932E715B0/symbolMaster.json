@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 11273,
+  "changeIdentifier": 11315,
   "do_objectID": "4BDBD994-52E4-489B-951A-DEE932E715B0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +26,11 @@
     "do_objectID": "881AC390-56B8-44A8-BE6E-51572E3C28A9",
     "height": 156,
     "width": 335,
-    "x": 369,
+    "x": 0,
     "y": 9099
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -54,15 +54,7 @@
     },
     {
       "class": "text",
-      "id": "BDB24C5F-6063-4EAA-AB45-E85A878EDE0E"
-    },
-    {
-      "class": "text",
-      "id": "3E18BE93-B631-4BCB-94D3-E17F24870071"
-    },
-    {
-      "class": "text",
-      "id": "544E8467-51FB-4092-A542-52C8310232CE"
+      "id": "203EC28F-9841-4A1A-B98A-D9E9FD9B9AE3"
     },
     {
       "class": "text",
@@ -70,11 +62,11 @@
     },
     {
       "class": "text",
-      "id": "E91062A1-FA08-4F26-85A7-37A079B10719"
+      "id": "D3C0ECD8-CDA2-47C6-8D9D-2973BD96B04E"
     },
     {
       "class": "text",
-      "id": "A150D6A3-BA5A-4DA4-A9D8-F163EEA16107"
+      "id": "544E8467-51FB-4092-A542-52C8310232CE"
     },
     {
       "class": "text",
@@ -82,14 +74,22 @@
     },
     {
       "class": "text",
-      "id": "D3C0ECD8-CDA2-47C6-8D9D-2973BD96B04E"
+      "id": "3E18BE93-B631-4BCB-94D3-E17F24870071"
     },
     {
       "class": "text",
-      "id": "203EC28F-9841-4A1A-B98A-D9E9FD9B9AE3"
+      "id": "A150D6A3-BA5A-4DA4-A9D8-F163EEA16107"
+    },
+    {
+      "class": "text",
+      "id": "E91062A1-FA08-4F26-85A7-37A079B10719"
+    },
+    {
+      "class": "text",
+      "id": "BDB24C5F-6063-4EAA-AB45-E85A878EDE0E"
     }
   ],
-  "name": "transaction/exchange-details copy",
+  "name": "transaction",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

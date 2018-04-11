@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6061,
+  "changeIdentifier": 6090,
   "do_objectID": "E2517B97-4BA8-491E-AC1F-567C953CCAA2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -58,23 +58,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8BA60CBB-12E3-4FBC-BE46-FA364165D78D"
-    },
-    {
-      "class": "text",
-      "id": "99544D27-BC9C-42A2-97D9-DEDEDE5D34F4"
-    },
-    {
-      "class": "symbolInstance",
       "id": "A268F215-818B-41D8-9B5E-FBA1502BC06F"
     },
     {
       "class": "shapeGroup",
       "id": "D32503F0-A393-4FDA-BDE3-81C1E0F68A33"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2B11A5D9-406E-475F-BFD1-581A40DF9A8C"
     },
     {
       "class": "group",
@@ -87,6 +75,18 @@
     {
       "class": "symbolInstance",
       "id": "436DAA8B-29BD-4B45-A0A4-83B3D3C4BACD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "482E3071-2710-407E-ACF1-1CFAA4E7492F"
+    },
+    {
+      "class": "text",
+      "id": "99544D27-BC9C-42A2-97D9-DEDEDE5D34F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BA60CBB-12E3-4FBC-BE46-FA364165D78D"
     }
   ],
   "name": "alert/transaction-new",
