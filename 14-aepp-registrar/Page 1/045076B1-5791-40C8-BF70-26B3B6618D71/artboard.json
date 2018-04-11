@@ -38,7 +38,7 @@
     "y": 891
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -61,18 +61,30 @@
     },
     {
       "class": "symbolInstance",
-      "id": "ABA68E3B-2308-48B8-838A-1A9EAE0877F2"
+      "id": "4C5E5443-1B63-4782-B7F5-5A6C66D008AE"
+    },
+    {
+      "class": "text",
+      "id": "3C327EE6-CC41-47B0-9D85-29FE537AC35F"
+    },
+    {
+      "class": "text",
+      "id": "1A2EC5DB-7A51-4F77-B295-99FF9C2315A7"
     },
     {
       "class": "symbolInstance",
-      "id": "03396EB1-5C09-4ADB-A1BD-3037FD143F02"
+      "id": "60B86E1D-67A8-4EAE-8024-3D183763C13F"
     },
     {
-      "class": "group",
-      "id": "0CF9804C-11E5-4B4B-840C-A2B612AFCCAC"
+      "class": "symbolInstance",
+      "id": "16B86F5C-04DA-4E3F-922F-8C38B4E72F08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08648D95-F9C8-463D-85AC-6E0AF2F71D81"
     }
   ],
-  "name": "14.13-aepp-registrar",
+  "name": "14.02-aepp-registrar",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
