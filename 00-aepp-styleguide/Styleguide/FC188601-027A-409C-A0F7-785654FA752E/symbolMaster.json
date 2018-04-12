@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 152,
+  "changeIdentifier": 474,
   "do_objectID": "FC188601-027A-409C-A0F7-785654FA752E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 2,
     "width": 335,
     "x": 0,
-    "y": 3910
+    "y": 3962
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,14 +42,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "7E56026B-4708-4523-9687-9C6D9AAD59FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57773035-8D2C-4456-BF69-F6D3833AB048"
     }
   ],
-  "name": "divider/boring",
+  "name": "divider/divider",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

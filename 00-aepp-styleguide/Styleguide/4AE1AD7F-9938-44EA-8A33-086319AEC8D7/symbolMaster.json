@@ -8,21 +8,12 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4697,
+  "changeIdentifier": 4730,
   "do_objectID": "4AE1AD7F-9938-44EA-8A33-086319AEC8D7",
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "FE654A45-FD88-4E53-B679-C818CB3E5BBA",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -36,7 +27,7 @@
     "height": 24,
     "width": 24,
     "x": 3264,
-    "y": 5420
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -63,12 +54,12 @@
     },
     {
       "class": "symbolInstance",
-      "id": "D04F3290-C35C-4199-B9E2-3CC5D762B486"
+      "id": "2274F357-959F-4016-9473-4DACEFFDC04B"
     }
   ],
   "name": "icon/ui/edit",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

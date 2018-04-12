@@ -8,21 +8,12 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2315,
+  "changeIdentifier": 2335,
   "do_objectID": "68E7ACCE-72A8-403E-A3F5-A86CE42D611E",
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "17018644-BD3C-4863-9032-BEBF1BE405EA",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -36,7 +27,7 @@
     "height": 24,
     "width": 24,
     "x": 2224,
-    "y": 5420
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -60,11 +51,15 @@
     {
       "class": "shapeGroup",
       "id": "69B72E9D-4611-49E0-B194-A8E50CFA297C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7EEEC889-6997-4D6B-95F4-D439B399E0A3"
     }
   ],
   "name": "icon/ui/arrow-right",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

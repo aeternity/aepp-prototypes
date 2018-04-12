@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 240,
+  "changeIdentifier": 541,
   "do_objectID": "9B4C2BDA-12AD-4951-82F2-276B8F1FA1A9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 64,
     "width": 64,
     "x": 144,
-    "y": 5420
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,13 +45,17 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "34E9EF4E-189B-40C9-A619-9C4DD5021AA3"
+      "class": "shapeGroup",
+      "id": "A5B72AD7-9B04-487A-AF0B-BDAFD2F47972"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBC14E76-FB44-4A9D-A429-2E48C18F20B8"
     }
   ],
   "name": "icon/app/addresses",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

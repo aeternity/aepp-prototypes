@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 257,
+  "changeIdentifier": 327,
   "do_objectID": "93ABF393-D462-49C6-9A70-C3C7AC2815E8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "height": 64,
     "width": 64,
     "x": 1440,
-    "y": 5420
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,13 +49,17 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "C49C052A-6D93-4EB5-8563-C76F65959856"
+      "class": "shapeGroup",
+      "id": "7D4E2329-BDA7-4565-837E-24DB567C3A5C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E1A86ED-27C5-4248-8733-ED0D48577BDD"
     }
   ],
   "name": "icon/app/settings",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

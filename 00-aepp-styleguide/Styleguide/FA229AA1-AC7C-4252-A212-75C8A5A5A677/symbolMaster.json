@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 203,
+  "changeIdentifier": 255,
   "do_objectID": "FA229AA1-AC7C-4252-A212-75C8A5A5A677",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 64,
     "width": 64,
     "x": 864,
-    "y": 5420
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,13 +45,17 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "90DA0154-4067-4B7A-BC5A-EAC6EF6E69CB"
+      "class": "shapeGroup",
+      "id": "027D560B-B5C1-4F8E-A9ED-2A3ADD20A8A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F76A3D7-E435-4C83-801D-C92841BA59DE"
     }
   ],
   "name": "icon/app/placeholder",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

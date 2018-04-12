@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 291,
+  "changeIdentifier": 354,
   "do_objectID": "76C57172-6BD5-488E-9D93-C0674A69A526",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "height": 28,
     "width": 46,
     "x": 126,
-    "y": 8649
+    "y": 9276
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,8 +49,16 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "CE1CF28E-4705-460B-9312-30563D753C9E"
+      "class": "shapeGroup",
+      "id": "0566387D-3508-4428-82C3-67774CDA6303"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26F298BC-94A9-44BB-9C85-6AC5D0DE99D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4AA216A9-68BC-474F-8ECC-329FB179B0D8"
     }
   ],
   "name": "switch/inactive",

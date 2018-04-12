@@ -7,7 +7,7 @@
     "green": 0.9686274509803922,
     "red": 0.9686274509803922
   },
-  "changeIdentifier": 988,
+  "changeIdentifier": 1085,
   "do_objectID": "57DF5A44-18E4-492E-8C0B-A4508503EBC2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 20,
     "width": 375,
-    "x": 455,
-    "y": 2600
+    "x": 0,
+    "y": 2372
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,24 +42,16 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "61F8F9B4-80DE-4F93-A41D-56697CC58EBC"
-    },
-    {
-      "class": "text",
-      "id": "ED82C8E8-C9B1-4C9B-99D8-C50E9C68B07B"
-    },
-    {
       "class": "symbolInstance",
-      "id": "F7DE2AC5-A04B-4BE7-B2DF-B830257FE1E3"
+      "id": "44F4A176-E801-41D9-8663-B322E75409C3"
     }
   ],
-  "name": "bars/status/black",
+  "name": "bars/status",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

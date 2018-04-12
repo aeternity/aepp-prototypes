@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 201,
+  "changeIdentifier": 804,
   "do_objectID": "354FD677-9F33-455B-9D32-8997EABA0979",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 150,
     "width": 335,
     "x": 0,
-    "y": 6074
+    "y": 6666
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,16 +45,8 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "0AA660F0-3D72-4762-B68F-8BFB61FA6A4A"
-    },
-    {
-      "class": "text",
-      "id": "1CEDC4F0-8C14-4496-AC3A-77EB5AB1DFC3"
-    },
-    {
-      "class": "text",
-      "id": "094BFF51-04E4-4500-AA88-08E5DCE249F5"
+      "class": "group",
+      "id": "E39CF45B-0215-4FD6-82BD-CE4A8A121EA5"
     },
     {
       "class": "text",
@@ -63,11 +55,19 @@
     {
       "class": "text",
       "id": "4B05A9A8-70F1-4FAD-B675-466934E1C4F1"
+    },
+    {
+      "class": "text",
+      "id": "094BFF51-04E4-4500-AA88-08E5DCE249F5"
+    },
+    {
+      "class": "text",
+      "id": "1CEDC4F0-8C14-4496-AC3A-77EB5AB1DFC3"
     }
   ],
-  "name": "inputfield/dramatic/empty",
+  "name": "input/empty",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

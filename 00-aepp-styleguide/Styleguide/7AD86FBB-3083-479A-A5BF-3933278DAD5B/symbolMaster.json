@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1390,
+  "changeIdentifier": 1910,
   "do_objectID": "7AD86FBB-3083-479A-A5BF-3933278DAD5B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
+    "height": 70,
     "width": 1440,
     "x": 0,
-    "y": 5140
+    "y": 5514
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,19 +42,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "15C31677-BC54-4675-8085-62378C4801FF"
     },
     {
-      "class": "group",
-      "id": "57BDC525-3768-40D7-A3A1-33A46070EF44"
+      "class": "symbolInstance",
+      "id": "845D9154-8E8F-4043-91F9-259A9C4310D4"
     },
     {
-      "class": "group",
-      "id": "02D82F74-9A9B-416A-B3B1-977890FA93DE"
+      "class": "text",
+      "id": "918BEAA1-CC90-41D1-B5D1-913D5F1E584E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78AC6E39-34E5-494F-9299-5F254C8DB3D0"
     }
   ],
   "name": "header/desktop",

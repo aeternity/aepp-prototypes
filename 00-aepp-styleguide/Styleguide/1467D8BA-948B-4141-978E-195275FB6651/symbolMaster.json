@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 727,
+  "changeIdentifier": 742,
   "do_objectID": "1467D8BA-948B-4141-978E-195275FB6651",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,10 +27,10 @@
     "height": 20,
     "width": 20,
     "x": 0,
-    "y": 2109
+    "y": 1881
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,11 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "537ED365-B40A-434A-A675-6583C3E2061F"
+    },
+    {
       "class": "symbolInstance",
-      "id": "EA75C912-5A66-4847-B485-60FFAE593CA1"
+      "id": "0C62E248-8407-468E-AD89-1A3A3BE1DAB3"
     }
   ],
   "name": "badge/false",

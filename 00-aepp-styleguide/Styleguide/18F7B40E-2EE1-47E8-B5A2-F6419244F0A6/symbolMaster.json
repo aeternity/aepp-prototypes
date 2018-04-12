@@ -7,20 +7,11 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 259,
+  "changeIdentifier": 292,
   "do_objectID": "18F7B40E-2EE1-47E8-B5A2-F6419244F0A6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,7 +24,7 @@
     "height": 24,
     "width": 24,
     "x": 2744,
-    "y": 5420
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,12 +50,12 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C5AF2A23-0AB1-4CD9-9F87-2D1D5929B3ED"
+      "id": "B3A3FC7C-7017-4141-9CC0-031BC99FE745"
     }
   ],
   "name": "icon/ui/chevron-left",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 172,
+  "changeIdentifier": 292,
   "do_objectID": "65246BF1-98EA-4D2C-B09C-8B95F69970D6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 64,
     "width": 64,
     "x": 1872,
-    "y": 5420
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,13 +45,17 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "DC0D77E4-6043-4580-974B-B09E796207F0"
+      "class": "shapeGroup",
+      "id": "8782A6A7-CCD0-4D6C-8634-6A82B16CD800"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7ED03BE8-D0F6-4867-A212-0B1535C6D2B1"
     }
   ],
   "name": "icon/app/wall",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
