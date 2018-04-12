@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 224,
+  "changeIdentifier": 343,
   "do_objectID": "6A19AEF4-5B38-410C-9175-9C540A476B57",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 64,
     "width": 64,
     "x": 432,
-    "y": 5420
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,13 +45,17 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "6C095473-6A31-49D2-AE7A-5DFF7C385B70"
+      "class": "shapeGroup",
+      "id": "4B5A4AA8-9A74-498E-ABBC-1E405D61C935"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E35C5D0-ECDE-4498-A994-F58EF38BE9AC"
     }
   ],
   "name": "icon/app/charity",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/boring/small/active",
-  "nameIsFixed": false,
+  "name": "BUTTON LEFT",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
@@ -38,11 +38,20 @@
       "do_objectID": "9420AA86-7C50-4412-95D9-2A3A24C15F27",
       "overrideName": "DEAFA6D2-1717-45DC-BC5D-7532CCD283AE_stringValue",
       "value": "EDIT"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8A79EF7-70D9-4BEF-BEA0-2A9D93284FD7",
+      "overrideName": "3471B740-D084-44B0-9455-07044E966F81/1F54B88C-35E8-4651-AABC-26FAB322E360_stringValue",
+      "value": "INFO"
     }
   ],
   "overrides": {
     "0615DF7D-8094-43E5-99A9-ADB6A6A91CD9": {
       "symbolID": ""
+    },
+    "3471B740-D084-44B0-9455-07044E966F81": {
+      "1F54B88C-35E8-4651-AABC-26FAB322E360": "INFO"
     },
     "DEAFA6D2-1717-45DC-BC5D-7532CCD283AE": "EDIT"
   },
@@ -50,7 +59,7 @@
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,

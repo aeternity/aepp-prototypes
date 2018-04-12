@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4530,
+  "changeIdentifier": 4848,
   "do_objectID": "3EF726B1-D161-4894-B82C-E94B8750B10E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 100,
     "width": 375,
-    "x": 0,
-    "y": 7001
+    "x": 1520,
+    "y": 7593
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,28 +46,20 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "BB44E032-9F3C-46A3-B6F9-98E64CD51647"
-    },
-    {
-      "class": "group",
-      "id": "FB681952-F28C-4C05-B671-6B96BE0A00DF"
-    },
-    {
-      "class": "text",
-      "id": "DD8B3CA5-79D4-4F77-A941-EA69C37F8B08"
+      "id": "FD518E2F-3469-425F-86CB-6D5138FEC5B4"
     },
     {
       "class": "symbolInstance",
-      "id": "DF64C217-DA64-4AEB-9610-FEA5F74E6FA2"
+      "id": "059368EC-7A34-4206-BA8A-26A9A75CC54B"
     },
     {
       "class": "text",
       "id": "7F59C69A-36C6-4AFA-A518-91361C487BC3"
     }
   ],
-  "name": "modal/aeBanner",
+  "name": "modal/aeBanner/mobile",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

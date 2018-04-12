@@ -7,20 +7,11 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 209,
+  "changeIdentifier": 244,
   "do_objectID": "EC31514D-9C58-4F0D-A5CF-C93A331E51D3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,7 +24,7 @@
     "height": 24,
     "width": 24,
     "x": 3056,
-    "y": 5420
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,12 +50,12 @@
     },
     {
       "class": "symbolInstance",
-      "id": "6E63BD3D-1C1D-4E6A-9C04-0C2D0E7AE80B"
+      "id": "5FFD18CA-ED76-4F79-8653-54746971A0AD"
     }
   ],
   "name": "icon/ui/close",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

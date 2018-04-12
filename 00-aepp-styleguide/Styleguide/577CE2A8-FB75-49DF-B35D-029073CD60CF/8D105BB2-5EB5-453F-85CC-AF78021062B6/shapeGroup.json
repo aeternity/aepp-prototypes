@@ -5,6 +5,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -32,8 +41,8 @@
       "id": "E5E0201F-57D7-4D0C-B41A-818F231DDA26"
     }
   ],
-  "name": "Combined Shape",
-  "nameIsFixed": false,
+  "name": "SHAPE",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": -90,

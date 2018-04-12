@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9477,
+  "changeIdentifier": 9488,
   "do_objectID": "AD0A746C-4399-4708-BB6B-E554BE742452",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,11 +26,11 @@
     "do_objectID": "82F62098-37DC-4F19-8DFA-34E5E3159374",
     "height": 72,
     "width": 335,
-    "x": 1245,
+    "x": 1660,
     "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,12 +46,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "245E24C3-0802-4B42-BEE0-F288F97082F1"
-    },
     {
       "class": "text",
       "id": "88319888-3850-496E-AD8F-6A957E5D55EC"
@@ -59,6 +55,10 @@
     {
       "class": "text",
       "id": "3C7FD855-8E07-4133-A5E5-1B54CC696A79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "245E24C3-0802-4B42-BEE0-F288F97082F1"
     }
   ],
   "name": "address/contact",

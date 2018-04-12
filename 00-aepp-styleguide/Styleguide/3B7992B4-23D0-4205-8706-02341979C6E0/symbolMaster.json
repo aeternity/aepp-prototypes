@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 213,
+  "changeIdentifier": 300,
   "do_objectID": "3B7992B4-23D0-4205-8706-02341979C6E0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 64,
     "width": 64,
     "x": 576,
-    "y": 5420
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,13 +45,17 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "6C9B890B-17DD-42AD-AE7D-444DC9B4DEA1"
+      "class": "shapeGroup",
+      "id": "26C8CF9D-47FA-434E-8EDE-4894BE72CC9D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCEFCF45-FEF0-4741-B62B-95B4FAABEEE4"
     }
   ],
   "name": "icon/app/explorer",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

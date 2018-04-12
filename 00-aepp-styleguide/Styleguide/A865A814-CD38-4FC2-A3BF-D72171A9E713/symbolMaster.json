@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 14602,
+  "changeIdentifier": 14685,
   "do_objectID": "A865A814-CD38-4FC2-A3BF-D72171A9E713",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "height": 190,
     "width": 335,
     "x": 1660,
-    "y": 5684
+    "y": 6276
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,11 +46,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "DB58119B-37B2-46C2-AD27-3F689BA366E7"
+      "class": "shapeGroup",
+      "id": "459ADB03-04FD-4A4A-B4A5-FA73966487E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E7C2E90-6FED-49D1-9A48-9495C3B2246E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA128032-D86D-472E-B307-170949A2DB86"
     },
     {
       "class": "symbolInstance",
@@ -58,7 +66,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "AA128032-D86D-472E-B307-170949A2DB86"
+      "id": "379EDEC4-5E13-4B12-9F97-0E0BB4F9DB87"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "785EE5B0-CE1E-495A-B67C-9A21A6100281"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE4814EF-F9F5-40C5-879D-A25D1D934DF4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B8BC58E-52A6-40FF-BB08-66045CD79675"
     },
     {
       "class": "text",
@@ -69,33 +89,13 @@
       "id": "297CEEFF-409A-41A2-B711-5BE4782F6495"
     },
     {
-      "class": "group",
-      "id": "C198227D-9796-41F2-8073-688920496219"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F6CFF25D-F75E-47B5-AA09-3C81570EB784"
-    },
-    {
       "class": "text",
       "id": "F514A837-DED3-43FD-89F5-38EA30E91B14"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0B8BC58E-52A6-40FF-BB08-66045CD79675"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "785EE5B0-CE1E-495A-B67C-9A21A6100281"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "379EDEC4-5E13-4B12-9F97-0E0BB4F9DB87"
     }
   ],
   "name": "identity/large-active",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
