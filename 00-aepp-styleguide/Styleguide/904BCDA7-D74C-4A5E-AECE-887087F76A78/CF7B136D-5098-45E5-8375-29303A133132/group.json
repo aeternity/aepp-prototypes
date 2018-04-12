@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "CF7B136D-5098-45E5-8375-29303A133132",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "578D2A13-8F52-4A32-B1B1-8FA99E1D12C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "359FBF9A-F4F7-41D8-A512-41E6DD17AC21",
+    "height": 12,
+    "width": 12,
+    "x": 90,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "96DFB99D-E064-4CE6-9AE3-C96FC1810ABD"
+    },
+    {
+      "class": "group",
+      "id": "E88E26F3-1BFE-463E-8DC3-78E49E33CE01"
+    }
+  ],
+  "name": "AIRGAP RIGHT",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "57A73AA0-5212-4D8A-A179-48FC69B1BEF2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 17,
+            "enabled": 1,
+            "modelID": "constraint_fab6a7a5-a442-4aa7-a5b0-fc10b96453ec",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 15.3
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2dda61cb-b405-4fb5-9e25-30ce31c6e3fc",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
