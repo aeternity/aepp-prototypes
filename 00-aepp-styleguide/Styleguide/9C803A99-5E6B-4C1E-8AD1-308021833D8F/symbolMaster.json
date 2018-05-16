@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8962,
+  "changeIdentifier": 9978,
   "do_objectID": "9C803A99-5E6B-4C1E-8AD1-308021833D8F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,8 +26,8 @@
     "do_objectID": "27527D2C-FE2A-4C3C-BC3C-B7B90034B03D",
     "height": 190,
     "width": 335,
-    "x": 5810,
-    "y": 5684
+    "x": 2075,
+    "y": 6276
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,52 +46,56 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "0ED3A69F-8EAE-4FF2-9DC3-353745F64AAE"
+      "class": "shapeGroup",
+      "id": "86842819-4942-4765-8155-BBDAD8F8E9FA"
     },
     {
       "class": "symbolInstance",
-      "id": "803FFE36-B4F0-439A-B840-D7BC74C1C21F"
-    },
-    {
-      "class": "group",
-      "id": "F98CB97A-BEB4-456E-BE7F-243A0644277A"
-    },
-    {
-      "class": "group",
-      "id": "5926B780-31A4-41A0-8CE8-16F0697DD0D0"
-    },
-    {
-      "class": "group",
-      "id": "5F14D10D-C2E9-40ED-8F91-C70A63B04978"
-    },
-    {
-      "class": "text",
-      "id": "A4A19B6A-0834-4245-8301-358C1F7E60CA"
-    },
-    {
-      "class": "text",
-      "id": "086B1898-2C0F-44A0-B0A2-903EE41AA10D"
-    },
-    {
-      "class": "text",
-      "id": "32D10380-1297-4358-BECC-B2DD11D47979"
+      "id": "3ADD58C1-9707-47F7-AE5D-E7953387A7FB"
     },
     {
       "class": "symbolInstance",
-      "id": "8F4DF0C1-1147-4F47-B769-84225C505D61"
+      "id": "DDC6EF52-FA9F-443C-BE06-E20A06657009"
     },
     {
-      "class": "group",
-      "id": "4BB551B0-CEB9-4998-B0F4-8E4D6D3F89F9"
+      "class": "symbolInstance",
+      "id": "49377CFD-3C3B-4552-B7EB-D5BB58B55B46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19F47BD8-B0D3-4812-B798-955A68CD5F95"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F64F8E6-A801-4487-BA49-DE9DB4BDE884"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F11EF66A-ABE0-4ABB-954B-2A7DB25A6E6F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFFCB669-7DFA-43E0-9BB7-59E04392AA22"
+    },
+    {
+      "class": "text",
+      "id": "0640A13B-408C-4C2B-B388-2037BE59EB90"
+    },
+    {
+      "class": "text",
+      "id": "1FA49DCA-0DD6-4CEF-AF49-08AF130C7B52"
+    },
+    {
+      "class": "text",
+      "id": "5207500E-A6C8-4102-AD0A-582F748C159A"
     }
   ],
-  "name": "identity/large-inactive-mnemonic",
+  "name": "identity/large-inactive",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

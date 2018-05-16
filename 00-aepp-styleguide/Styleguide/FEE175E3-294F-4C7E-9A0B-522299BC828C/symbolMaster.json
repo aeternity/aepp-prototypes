@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 258,
+  "changeIdentifier": 1265,
   "do_objectID": "FEE175E3-294F-4C7E-9A0B-522299BC828C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,9 +22,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 102,
-    "width": 142,
+    "width": 141,
     "x": 587,
-    "y": 6424
+    "y": 7016
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,11 +45,23 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "F60A15DE-51D7-4052-83A6-5C50892D72F1"
+      "class": "shapeGroup",
+      "id": "BE90A14C-85EE-4CD9-8207-D28FA4BDBA93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CD8CB40-C46B-4F2B-B979-EA2133015827"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8CB8AC09-193A-4A22-9E89-A383CE0BE074"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E59EB67-E512-4D1C-B596-7EACE4AA28E5"
     }
   ],
-  "name": "logo/medium-black",
+  "name": "logo/medium",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

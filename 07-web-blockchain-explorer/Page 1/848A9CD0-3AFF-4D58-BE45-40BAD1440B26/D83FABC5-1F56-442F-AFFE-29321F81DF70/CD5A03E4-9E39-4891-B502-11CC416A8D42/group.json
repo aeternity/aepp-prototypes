@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "CD5A03E4-9E39-4891-B502-11CC416A8D42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EC836CA-B8BB-4073-BA18-68D929D66FCA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7D433350-CD43-4D49-A95C-F25857D80C90",
+    "height": 23,
+    "width": 23,
+    "x": 46,
+    "y": 460
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "566B14E5-51C3-4EC8-8CE2-310BFD6DA810"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6EAC0EF6-3230-444E-8ADC-A8BBFF9D8CF1"
+    }
+  ],
+  "name": "Monogram",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4363BB47-D270-44C1-B1A1-B03EBA47A320",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 23,
+            "enabled": 1,
+            "modelID": "constraint_ac611ec9-26d5-475a-8efa-d37524d24875",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 23
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_9b7844f1-402d-4ace-9779-ad3b1fbdfe61",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

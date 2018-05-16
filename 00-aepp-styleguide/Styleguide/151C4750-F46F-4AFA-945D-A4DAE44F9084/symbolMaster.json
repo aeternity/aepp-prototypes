@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4408,
+  "changeIdentifier": 5171,
   "do_objectID": "151C4750-F46F-4AFA-945D-A4DAE44F9084",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 100,
     "width": 768,
     "x": 1975,
-    "y": 7001
+    "y": 7593
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,24 +46,20 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "57FEE92F-33EF-4C1D-8F77-9A75FD13BF9D"
+      "id": "8FE80F11-5D56-4142-BC71-F73AC0C94104"
     },
     {
-      "class": "group",
-      "id": "0EA4B407-B79F-4595-A476-159C55E4D329"
-    },
-    {
-      "class": "group",
-      "id": "46A31B53-435C-4132-9503-9B391BB249AB"
+      "class": "symbolInstance",
+      "id": "A03408E0-C51E-460C-8D60-814D4D43205C"
     },
     {
       "class": "text",
-      "id": "1B532FE4-DCD0-4B23-9765-6D9043550C2F"
+      "id": "895AE17E-0AF6-4186-A750-78B559904B62"
     }
   ],
-  "name": "modal/aeBanner-tablet",
+  "name": "modal/aeBanner/tablet",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

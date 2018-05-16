@@ -38,7 +38,7 @@
     "y": -2808
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -68,10 +68,6 @@
       "id": "2239CEF5-6E54-41DC-8B05-3D0159B9666A"
     },
     {
-      "class": "text",
-      "id": "85B5A569-B28F-48BE-9425-0382C1EF058C"
-    },
-    {
       "class": "symbolInstance",
       "id": "55FCC0C0-A4F1-465D-BCE8-5C8AA4EAAABD"
     },
@@ -94,6 +90,10 @@
     {
       "class": "text",
       "id": "B36DFAA0-20B1-4CD1-B17B-04A532EE89CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "438F4103-A661-4288-8444-44E9CE90D07A"
     },
     {
       "class": "group",

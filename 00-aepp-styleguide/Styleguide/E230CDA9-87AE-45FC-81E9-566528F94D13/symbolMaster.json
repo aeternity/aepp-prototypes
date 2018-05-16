@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 175,
+  "changeIdentifier": 297,
   "do_objectID": "E230CDA9-87AE-45FC-81E9-566528F94D13",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 1584,
-    "y": 5420
+    "x": 1728,
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,13 +45,17 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "ACA8EAED-E1CC-4903-ADAA-5367816572B1"
+      "class": "shapeGroup",
+      "id": "EF190736-0DC7-4922-AFF0-8604DD7D5C1B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F12F4B5D-4725-4C36-8DF9-CA0BD2ED6248"
     }
   ],
   "name": "icon/app/vote",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

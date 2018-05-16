@@ -7,20 +7,11 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2328,
+  "changeIdentifier": 2356,
   "do_objectID": "24577430-5410-4380-9860-DAB23A5140AC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -32,8 +23,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 3640,
-    "y": 5420
+    "x": 4200,
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -56,11 +47,15 @@
     {
       "class": "shapeGroup",
       "id": "61928370-5449-4EC1-89F1-BD4FDEDD4C8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7EA8E717-6BF3-442D-81E0-007D8AB4F0F1"
     }
   ],
   "name": "icon/ui/share",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

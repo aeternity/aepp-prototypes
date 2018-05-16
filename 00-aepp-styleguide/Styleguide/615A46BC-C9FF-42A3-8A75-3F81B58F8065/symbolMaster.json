@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 183,
+  "changeIdentifier": 294,
   "do_objectID": "615A46BC-C9FF-42A3-8A75-3F81B58F8065",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 64,
     "width": 64,
-    "x": 1440,
-    "y": 5420
+    "x": 1584,
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,13 +45,17 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "1BB2755A-2594-4CC3-85AF-60ACEB5A2693"
+      "class": "shapeGroup",
+      "id": "73E6C870-D288-4E79-B3FE-BA4243DE4D2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15F26603-4B84-4ED1-94C7-AD244B434C9C"
     }
   ],
   "name": "icon/app/transfer",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

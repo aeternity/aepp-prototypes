@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 157,
+  "changeIdentifier": 184,
   "do_objectID": "07AAEEB1-2288-4559-9161-AAE1F6075598",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "height": 28,
     "width": 28,
     "x": 0,
-    "y": 3682
+    "y": 3734
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,11 +42,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "796C03D7-0053-49EB-A274-8A03635A856A"
+      "class": "shapeGroup",
+      "id": "94082A1C-B696-4758-9EBF-103317C90D95"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76F1F332-3C5C-4737-9655-D325A876645E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E41BDEC-196F-456D-8B4E-A536FDE97FEC"
     }
   ],
   "name": "checkbox/active",

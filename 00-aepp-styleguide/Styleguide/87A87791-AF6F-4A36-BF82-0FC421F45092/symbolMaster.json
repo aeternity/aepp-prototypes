@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5086,
+  "changeIdentifier": 6186,
   "do_objectID": "87A87791-AF6F-4A36-BF82-0FC421F45092",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 327,
+    "height": 320,
     "width": 355,
     "x": 3693,
-    "y": 7001
+    "y": 7593
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,45 +45,41 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "251955DE-2ED8-410C-981A-0F71B721071A"
-    },
-    {
-      "class": "group",
-      "id": "BF46BC63-8B5C-4754-ADE4-98AEBD3586DA"
-    },
-    {
-      "class": "group",
-      "id": "2276B51C-05B6-4BC8-928B-DE912D3CCC0C"
-    },
-    {
-      "class": "group",
-      "id": "11B2E29E-17EA-4B9F-A62D-0879B87A7BE4"
+      "class": "symbolInstance",
+      "id": "F2F148D5-796B-43F6-A999-6BAFA94BBD55"
     },
     {
       "class": "symbolInstance",
-      "id": "0905DA14-5B76-490F-9E8D-6C60F6B534FA"
+      "id": "84A94057-B0A4-4D87-8834-8743A5EC53D3"
     },
     {
       "class": "symbolInstance",
-      "id": "1D3A00E1-FA30-4E09-8B64-745018CC74E1"
+      "id": "DC0E2A09-4BCC-4C8C-A991-5ECE3F2E7BB5"
     },
     {
       "class": "symbolInstance",
-      "id": "5615FB63-9AE6-4E82-9A7D-118371D2788E"
+      "id": "C339A888-0656-49C7-8EB9-1B213FF25CB3"
     },
     {
       "class": "symbolInstance",
-      "id": "633A3988-3F8D-40DC-8BA3-DDDA8FE52902"
+      "id": "BF9BEE18-46F6-4D19-9CA7-6CCF01148D62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39E65861-22A2-4BF9-A6A3-1C845DBDEEBD"
     },
     {
       "class": "text",
-      "id": "DC5DD7B6-97F2-4326-B83A-A14893474424"
+      "id": "BA4880B3-29DE-499F-9260-599F9CAC0030"
+    },
+    {
+      "class": "text",
+      "id": "D250401A-8ECF-474E-BE72-F30888B9B9E7"
     }
   ],
-  "name": "modal/aeConfirm-multi-options",
+  "name": "modal/aeConfirm/three-buttons",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

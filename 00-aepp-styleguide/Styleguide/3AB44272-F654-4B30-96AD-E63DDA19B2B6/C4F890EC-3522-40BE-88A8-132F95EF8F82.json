@@ -17,7 +17,7 @@
     "do_objectID": "BE4057E4-7DF5-4B73-B166-3AE45A8DC5B9",
     "height": 24,
     "width": 24,
-    "x": 244,
+    "x": 299,
     "y": 119
   },
   "horizontalSpacing": 0,
@@ -26,18 +26,27 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon/ui/check",
-  "nameIsFixed": false,
+  "name": "02 CHECK",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
       "do_objectID": "1B06181F-895B-4DCB-A4A0-453153CDF8EC",
       "overrideName": "5A51E438-2879-4BEF-896A-DDF855887291_symbolID",
       "value": "7FA2C035-15ED-493D-B399-195B332DC296"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "103675EF-04A5-43C2-B997-E4BA20A6BF24",
+      "overrideName": "836EAB54-2869-4412-BF96-674A5FE230E1_symbolID",
+      "value": "7FA2C035-15ED-493D-B399-195B332DC296"
     }
   ],
   "overrides": {
     "5A51E438-2879-4BEF-896A-DDF855887291": {
+      "symbolID": "7FA2C035-15ED-493D-B399-195B332DC296"
+    },
+    "836EAB54-2869-4412-BF96-674A5FE230E1": {
       "symbolID": "7FA2C035-15ED-493D-B399-195B332DC296"
     }
   },

@@ -7,20 +7,11 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2811,
+  "changeIdentifier": 2849,
   "do_objectID": "4D6924C5-ECE8-42AD-8947-9719D071C9DC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -32,8 +23,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 2184,
-    "y": 5420
+    "x": 2536,
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,12 +50,12 @@
     },
     {
       "class": "symbolInstance",
-      "id": "5A51E438-2879-4BEF-896A-DDF855887291"
+      "id": "836EAB54-2869-4412-BF96-674A5FE230E1"
     }
   ],
   "name": "icon/ui/check",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

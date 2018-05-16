@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 340,
+  "changeIdentifier": 456,
   "do_objectID": "7F4BF3C2-29BF-40D9-B4EB-5715BAEE81B7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,8 +26,8 @@
     "do_objectID": "8856716F-371D-4AB4-8356-0C9E97D31149",
     "height": 64,
     "width": 64,
-    "x": 1152,
-    "y": 5420
+    "x": 1296,
+    "y": 5784
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,13 +49,17 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "6C17193E-0DFA-4ABD-BB78-6272F8328F4E"
+      "class": "shapeGroup",
+      "id": "8635FAF4-4B0A-4FAC-B2CD-8B7858C9BED2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B51C850-6EC8-492B-88D8-8CB1CDB6D907"
     }
   ],
   "name": "icon/app/remote",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

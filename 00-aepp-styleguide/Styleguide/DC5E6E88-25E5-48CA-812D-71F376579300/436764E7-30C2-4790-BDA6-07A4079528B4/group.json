@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,10 +32,14 @@
     {
       "class": "symbolInstance",
       "id": "6F3D15AC-F459-4A38-B2FE-6E13901683AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C1C7A9D9-CB12-4072-BC55-CB0E35EDF373"
     }
   ],
-  "name": "shape/rounded",
-  "nameIsFixed": false,
+  "name": "FRAME",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

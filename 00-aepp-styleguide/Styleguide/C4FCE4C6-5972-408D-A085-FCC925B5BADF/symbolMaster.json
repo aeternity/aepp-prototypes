@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 360,
+  "changeIdentifier": 455,
   "do_objectID": "C4FCE4C6-5972-408D-A085-FCC925B5BADF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "height": 28,
     "width": 46,
     "x": 0,
-    "y": 8427
+    "y": 9276
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,8 +49,16 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "EA46C7CD-D608-4066-B36E-F2E371E230B0"
+      "class": "shapeGroup",
+      "id": "47713F3F-0F7B-4C5E-8DCF-4E9DF2A118F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "886778DA-7C37-47E9-9CE7-555DCED01778"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80352FB8-44DB-4C24-BF4C-9AEAF10C99D4"
     }
   ],
   "name": "switch/active",

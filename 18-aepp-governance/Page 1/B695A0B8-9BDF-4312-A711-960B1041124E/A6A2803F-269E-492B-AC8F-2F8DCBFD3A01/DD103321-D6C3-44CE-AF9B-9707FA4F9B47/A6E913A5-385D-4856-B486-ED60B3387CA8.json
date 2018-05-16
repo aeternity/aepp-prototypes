@@ -1,0 +1,79 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "A6E913A5-385D-4856-B486-ED60B3387CA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4059FD6-4616-4CF7-9F5D-DB77C9EC0281",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "18ED78E1-FE19-4709-984D-F6BB0E39B758",
+    "height": 158,
+    "width": 290,
+    "x": -12,
+    "y": -1
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/4cccc5a41dedf7639ef0201a0cd3528ac683609a.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0.03388935810810789,
+      "contrast": 1.137880067567568,
+      "do_objectID": "6C9817C2-D430-4C9F-8C8B-A0BB3AF22369",
+      "hue": -0.4669935025606451,
+      "isEnabled": true,
+      "saturation": 1.755067567567568
+    },
+    "do_objectID": "B305882B-933F-435B-9C91-0C4B76599844",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 158,
+            "enabled": 1,
+            "modelID": "constraint_f078da1c-58ca-4cdf-a059-4711aec9918f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 290.1454
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b988a21f-2a2f-4010-bfc8-3fa19353b016",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

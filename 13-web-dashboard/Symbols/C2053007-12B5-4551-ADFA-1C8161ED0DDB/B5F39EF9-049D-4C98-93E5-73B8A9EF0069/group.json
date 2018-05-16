@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "B5F39EF9-049D-4C98-93E5-73B8A9EF0069",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E048052A-CB88-4011-A2E3-240411A116B7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B7E6AF1A-02A9-4F57-94FA-C63DDA297241",
+    "height": 12,
+    "width": 12,
+    "x": 90,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "33B0B3CF-EE6C-4A11-AFCA-222A6210C03D"
+    },
+    {
+      "class": "group",
+      "id": "A713EFDA-68AB-487D-97D5-B7D94C8647C3"
+    }
+  ],
+  "name": "AirGap_Shield_Logo_newcolors Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "DFACAC05-3C0C-453B-89C9-745086B8202D",
+      "opacity": 0.300000011920929
+    },
+    "do_objectID": "ECEB189C-94BB-4C6A-9F18-113824BE704B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 17,
+            "enabled": 1,
+            "modelID": "constraint_fab6a7a5-a442-4aa7-a5b0-fc10b96453ec",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 15.3
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2dda61cb-b405-4fb5-9e25-30ce31c6e3fc",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

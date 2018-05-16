@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "CA7A9F7E-4220-4B70-88CE-95EDFC941FEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9AE7CCF9-8C40-4C38-8485-F8D8169A4E1C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "845725B3-0141-4906-AC57-EB298287A376",
+    "height": 23,
+    "width": 138,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "62FDB1BD-1D4C-42F1-8683-182F34047535"
+    },
+    {
+      "class": "group",
+      "id": "47080799-8335-43AA-AF75-38955EAAB1A1"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ABC56D94-303D-4CB9-BAC5-5DF164F01822",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 23,
+            "enabled": 1,
+            "modelID": "constraint_5d7ce5e6-9a7f-46f3-a265-b27fcb3c453e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 138
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_420737c4-c3cf-4f82-b2ce-ed147915511b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
