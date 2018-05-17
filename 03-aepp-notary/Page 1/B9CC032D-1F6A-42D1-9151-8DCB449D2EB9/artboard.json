@@ -46,6 +46,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -104,11 +105,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "D1EC672A-5ED9-4F2F-86C9-0F02F04EC840"
+      "id": "87DC88DB-D59C-420A-B3A7-4FBF3FDEC452"
     },
     {
       "class": "symbolInstance",
-      "id": "9CDECCC1-FB13-487B-BD73-8D64D4939137"
+      "id": "D1EC672A-5ED9-4F2F-86C9-0F02F04EC840"
     },
     {
       "class": "symbolInstance",
@@ -125,6 +126,13 @@
   ],
   "name": "03.00-notary",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

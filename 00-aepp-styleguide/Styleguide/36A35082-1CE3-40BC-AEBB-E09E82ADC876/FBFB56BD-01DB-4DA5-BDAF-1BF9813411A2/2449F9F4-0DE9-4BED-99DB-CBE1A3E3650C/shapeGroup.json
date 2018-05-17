@@ -18,8 +18,8 @@
     "do_objectID": "6D0BD9E9-15EE-4284-8FAC-4D24478DC360",
     "height": 106,
     "width": 331.0000000000001,
-    "x": 2,
-    "y": 2
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -36,7 +36,7 @@
   ],
   "name": "SHAPE",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 23,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -48,13 +48,13 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.4313725490196083,
+          "green": 0.1607843137254902,
+          "red": 0.9686274509803922
         },
         "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
+        "isEnabled": true,
+        "position": 2,
         "thickness": 2
       }
     ],
@@ -80,6 +80,12 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "windingRule": 1
 }

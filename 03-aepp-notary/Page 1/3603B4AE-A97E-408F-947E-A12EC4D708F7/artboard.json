@@ -46,6 +46,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -84,15 +85,22 @@
     },
     {
       "class": "symbolInstance",
-      "id": "9008A266-C911-4042-A47D-31CE5C1B6262"
+      "id": "57576BED-0896-41EA-B6B4-6169DFE00DA9"
     },
     {
       "class": "symbolInstance",
-      "id": "57576BED-0896-41EA-B6B4-6169DFE00DA9"
+      "id": "28EB32BC-6A13-4AA6-8BD3-6AE845E3BDFF"
     }
   ],
   "name": "03.12-create_proof-success",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

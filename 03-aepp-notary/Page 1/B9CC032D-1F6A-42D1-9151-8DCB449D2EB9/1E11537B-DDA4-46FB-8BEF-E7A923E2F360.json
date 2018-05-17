@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "header/mobile",
   "nameIsFixed": false,
   "overrideValues": [
@@ -53,51 +49,28 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "648C1E75-79FA-4C7C-9867-57207B281929_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "80AF3BCC-5A00-4778-9D59-592092E17D12_stringValue",
-      "value": "Proof"
-    },
-    {
-      "_class": "overrideValue",
       "overrideName": "B3F9054A-8955-421E-913C-2BBBAFB95598/219AF209-82C8-4F5F-BF11-AD4577D25F70_symbolID",
       "value": "6101C33A-F8AA-4B8D-8EF6-F35B7867A493"
     },
     {
       "_class": "overrideValue",
+      "do_objectID": "65660AA3-50C5-434B-A1E8-12792582D6A1",
+      "overrideName": "648C1E75-79FA-4C7C-9867-57207B281929_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A53F94CA-E032-44F5-AD6F-4308A62D547C",
       "overrideName": "C1FCD26F-D089-48F8-A67E-AA9BF6FDA305_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF0542E9-F60E-4346-90FA-C9F405A129F4",
+      "overrideName": "80AF3BCC-5A00-4778-9D59-592092E17D12_stringValue",
+      "value": "Proof"
     }
   ],
-  "overrides": {
-    "62B16CAF-BF63-46E9-942D-AC1CF20F01A7": {
-      "219AF209-82C8-4F5F-BF11-AD4577D25F70": {
-        "symbolID": "B3CFE66E-ADD4-4F0C-876A-B1F83BEDED55"
-      },
-      "6E41B7C8-2A86-46DF-9DAC-9B300C9B85A2": {
-        "symbolID": "B3CFE66E-ADD4-4F0C-876A-B1F83BEDED55"
-      },
-      "symbolID": "8A1A0387-26F3-4FFA-A92F-757A16A31803"
-    },
-    "648C1E75-79FA-4C7C-9867-57207B281929": {
-      "symbolID": ""
-    },
-    "80AF3BCC-5A00-4778-9D59-592092E17D12": "Proof",
-    "B3F9054A-8955-421E-913C-2BBBAFB95598": {
-      "219AF209-82C8-4F5F-BF11-AD4577D25F70": {
-        "symbolID": "6101C33A-F8AA-4B8D-8EF6-F35B7867A493"
-      }
-    },
-    "C1FCD26F-D089-48F8-A67E-AA9BF6FDA305": {
-      "symbolID": ""
-    },
-    "F4FA0FB4-AB95-49C3-8F41-674719494C72": {
-      "ECF7D9A7-77A9-415E-9151-024C263C923B": "New message"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
