@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "header/mobile",
   "nameIsFixed": false,
   "overrideValues": [
@@ -38,32 +34,23 @@
     },
     {
       "_class": "overrideValue",
+      "do_objectID": "D3D053A4-ABB3-42E9-A472-34FA3295B445",
       "overrideName": "648C1E75-79FA-4C7C-9867-57207B281929_symbolID",
       "value": "6C0700EA-9B75-47AF-891C-E309517156F1"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "80AF3BCC-5A00-4778-9D59-592092E17D12_stringValue",
-      "value": "Create proof"
+      "do_objectID": "728649AE-F4DB-47A9-A9C1-208780373A9C",
+      "overrideName": "C1FCD26F-D089-48F8-A67E-AA9BF6FDA305_symbolID",
+      "value": ""
     },
     {
       "_class": "overrideValue",
-      "overrideName": "C1FCD26F-D089-48F8-A67E-AA9BF6FDA305_symbolID",
-      "value": ""
+      "do_objectID": "9D8C9D05-64ED-4C37-A242-42FB2DE6C301",
+      "overrideName": "80AF3BCC-5A00-4778-9D59-592092E17D12_stringValue",
+      "value": "Create proof"
     }
   ],
-  "overrides": {
-    "648C1E75-79FA-4C7C-9867-57207B281929": {
-      "symbolID": "6C0700EA-9B75-47AF-891C-E309517156F1"
-    },
-    "80AF3BCC-5A00-4778-9D59-592092E17D12": "Create proof",
-    "C1FCD26F-D089-48F8-A67E-AA9BF6FDA305": {
-      "symbolID": ""
-    },
-    "F4FA0FB4-AB95-49C3-8F41-674719494C72": {
-      "ECF7D9A7-77A9-415E-9151-024C263C923B": "New message"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
