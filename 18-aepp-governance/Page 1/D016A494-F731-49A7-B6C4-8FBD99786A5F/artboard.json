@@ -13,6 +13,15 @@
     "_class": "exportOptions",
     "do_objectID": "04E60105-F39E-4351-802E-DAC8C4CEA1E5",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,7 +34,7 @@
     "do_objectID": "BC54B451-D4FD-4D6D-B393-AE91D530E221",
     "height": 667,
     "width": 375,
-    "x": 1493,
+    "x": 1311,
     "y": 134
   },
   "hasBackgroundColor": false,
@@ -52,23 +61,15 @@
     },
     {
       "class": "text",
-      "id": "8DCE5263-5E22-4BE0-ADA1-6CA4F39E0404"
-    },
-    {
-      "class": "text",
-      "id": "3B35E7C7-FD3D-4B16-9F5F-9DED0D7C0489"
-    },
-    {
-      "class": "text",
       "id": "99951194-CB57-4BE5-B9C4-A618F43A66B3"
     },
     {
       "class": "text",
-      "id": "A3313EB1-3DEB-4ADB-BB71-37F708F4BB1D"
+      "id": "CD29F4F9-705C-443E-B258-27D6CE904AA2"
     },
     {
-      "class": "text",
-      "id": "95727327-AF67-413A-8733-F0F7CCCD0A62"
+      "class": "group",
+      "id": "D843F443-9909-48A4-86C7-3173B844861B"
     },
     {
       "class": "group",
@@ -85,10 +86,14 @@
     {
       "class": "group",
       "id": "0C20459D-469D-483C-B0D8-3BB3B87EC2C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36551FD8-87A3-48B5-83A2-70BEB525F6E2"
     }
   ],
-  "name": "1",
-  "nameIsFixed": false,
+  "name": "18.01-Governance",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,

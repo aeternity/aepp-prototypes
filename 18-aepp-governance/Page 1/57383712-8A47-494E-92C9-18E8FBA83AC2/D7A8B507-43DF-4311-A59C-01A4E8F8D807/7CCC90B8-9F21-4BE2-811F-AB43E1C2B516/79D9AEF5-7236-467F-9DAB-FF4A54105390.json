@@ -1,0 +1,70 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "79D9AEF5-7236-467F-9DAB-FF4A54105390",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FA1D9E1-FBC8-4290-A214-997DD005D886",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5DC81DA6-6B56-4176-A656-613D56CF1DDF",
+    "height": 65.68627450980381,
+    "width": 103.7555555555555,
+    "x": -3.066666666666669,
+    "y": -8.8235294117647
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/643286629117332a9a7650e8a68d9af2c2c8e444.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06689FE2-40C8-43B6-850A-2784136DF3AC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 134,
+            "enabled": 1,
+            "modelID": "constraint_d0390aaa-b46d-4d7b-b81b-76ebe9e8369d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 202.844
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_a6e1fb1c-1a88-4f7d-99d2-d4b4137b58ac",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
