@@ -1,10 +1,38 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIiMnLzAxMjM6PkpLTE1OT1BRUlRfY1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QWlBsZWFzZSBjb25zaWRlciB1c2luZyBhIHNlY3VyZSBhY2NvdW50LCBzZXR1cCB0aGUgZ3JlZW4gYWNjb3VudCBjYXJkIHRvIHNlY3VyZSB5b3VyIGZ1bmRzLtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACYARgBuAGl8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZRAA0gokJSZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AQgArTERIKKCsuoikqgAuADKIsLYANgA6AD18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAXlJvYm90by1SZWd1bGFy0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LTERIKP0QdpEBBQkOAEoATgBSAFaRFRkdIgBaAF4AYgBmAGlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/4xMTExbY7CM/8AAAAAAAACM/4xMTExbY7CM/4xMTExbY7NI0NThTojg51lVWVwpYWVpbXF1eXFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBACgAAjQDcAAAAAAACAHBAB0jQ1YGFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNgYjlfEBBOU1BhcmFncmFwaFN0eWxl0jQ1ZGVfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZjlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRaWpUcm9vdIABAAgAEQAaACMALQAyADcAWABeAGUAbgB1AIIAhACGAIgA5QDsAPQA/wEEAQYBCAEKAQwBEQETARUBFwEZARsBRgFoAZUBqAGqAa8BzAHOAdAB1wHaAdwB3gHhAeMB5QHnAf0CEwIcAisCMAI7AkQCWgJeAmsCdAJ5AowCjwKiAqkCrgKwArICtAK2ArsCvQK/AsECwwLFAskCzwLUAtoC4wLsAvUC/gMDAwYDEwMfAyoDPANeA3ADcgN0A30DfwOBA4YDoAOkA7cDvAPRA9QD6QP7A/4EAwAAAAAAAAIBAAAAAAAAAGsAAAAAAAAAAAAAAAAAAAQF"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5960784314,
+            "green": 0.5960784314,
+            "red": 0.5960784314
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 16
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 23,
+            "minimumLineHeight": 23
+          }
+        },
+        "length": 90,
+        "location": 0
+      }
+    ],
+    "string": "Please consider using a secure account, setup the green account card to secure your funds."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "12EF58E3-A1F0-48EE-A871-ACC848AF28E0",
@@ -56,11 +84,18 @@
           "red": 0.5960784314
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF5Sb2JvdG8tUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDiAOcA8gD7AREBFQEiASsBMAFDAUYBWQFrAW4BcwAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF1"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 16
+          }
         },
         "MSAttributedStringTextTransformAttribute": 0,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGGxxYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBRVJG51bGzWCQoLDA0ODxAREhMRW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRWJGNsYXNzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodBACgAAjQDcAAAAAAACAAhAB0hUWFxhaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxcZGl8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRHR5Ucm9vdIABAAgAEQAaACMALQAyADcAOwBBAE4AWgBlAHcAfgCgALIAtAC2AL8AwQDDAMgA0wDcAPYA+gENARYBKAErATAAAAAAAAACAQAAAAAAAAAfAAAAAAAAAAAAAAAAAAABMg=="
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "maximumLineHeight": 23,
+          "minimumLineHeight": 23
         }
       },
       "verticalAlignment": 0
