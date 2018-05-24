@@ -16,8 +16,8 @@
     "constrainProportions": true,
     "height": 63.88281250000004,
     "width": 147.08984375,
-    "x": 9.403125,
-    "y": 127.5
+    "x": 14.403125,
+    "y": 44.5
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -466,12 +466,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 75.15625,
+            "constant": 63.88281,
             "enabled": 1,
             "modelID": "constraint_ceb01d2b-13f4-41da-ae72-a12a6ab90e09",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 173.0469
+            "multiplier": 147.0898
           },
           "automatic": 1,
           "modelID": "viewConstraints_7063bdb4-0e7c-4982-9377-866e7437e7bd",

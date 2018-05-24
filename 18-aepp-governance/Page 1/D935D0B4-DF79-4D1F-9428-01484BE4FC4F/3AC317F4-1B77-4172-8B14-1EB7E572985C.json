@@ -17,22 +17,21 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Medium",
-              "size": 18
+              "size": 12
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 28,
-            "minimumLineHeight": 28
+            "alignment": 0
           }
         },
-        "length": 18,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Popular Categories"
+    "string": "All Categories"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3AC317F4-1B77-4172-8B14-1EB7E572985C",
@@ -51,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5482A48D-5787-429F-ACF4-2E260120BF7E",
-    "height": 28,
+    "height": 14,
     "width": 245,
     "x": 26,
-    "y": 335
+    "y": 336
   },
-  "glyphBounds": "{{1, 6}, {153, 18}}",
+  "glyphBounds": "{{0, 2}, {95, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -74,10 +73,10 @@
     "do_objectID": "F401E154-6B22-42D8-B6DE-23E200B6468D",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "0E1493CE-F900-41D5-A2FC-88DB03A45E38",
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "9CE27078-5A8B-488A-B15C-D0783551865F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -90,15 +89,14 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Medium",
-            "size": 18
+            "size": 12
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 28,
-          "minimumLineHeight": 28
+          "alignment": 0
         }
       },
       "verticalAlignment": 0

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "85E210C9-7F35-4C71-B878-CA456BDD145C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F651E852-A9ED-4B1F-97B2-E97B2015C604",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B5F37C5E-080E-4CB7-8D6B-7B556FB30DE6",
+    "height": 23,
+    "width": 23,
+    "x": 0,
+    "y": 110
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Avatar Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D691E160-DD5F-4EBF-A0C4-F8888F495A51",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "24579C14-48FB-4681-BEB2-035905BF2058",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 48,
+            "enabled": 1,
+            "modelID": "constraint_c607957c-ef5a-4ace-9d11-5235d6bcc8fd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 48
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_67f90290-7a32-47fc-8fd5-2583257247a5",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
