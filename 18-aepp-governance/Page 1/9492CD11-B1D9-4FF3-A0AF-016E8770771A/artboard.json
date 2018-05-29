@@ -32,13 +32,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A2CBB1CA-3AEC-4E4A-90FF-69CB784A3CBB",
-    "height": 1878,
+    "height": 1777,
     "width": 375,
-    "x": 3814,
+    "x": 1716,
     "y": 134
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,16 +56,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "C0813104-26AC-42AA-A742-46D268FA5436"
-    },
-    {
       "class": "text",
       "id": "7ED729D6-8445-48DA-A766-E1EB3B649E34"
     },
     {
       "class": "text",
-      "id": "EECBFE00-D13F-43A3-A6C3-3D9584845317"
+      "id": "E98B3639-6356-4F3B-A163-8B2F355DC985"
     },
     {
       "class": "text",
@@ -76,16 +72,8 @@
       "id": "E1424F49-9674-4338-BFEB-35EC1BE58A89"
     },
     {
-      "class": "text",
-      "id": "A62D495B-1178-4AF3-8D37-41D9E8F90227"
-    },
-    {
       "class": "group",
       "id": "EB9DE007-BF40-4954-B7DA-7BC85F918C75"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3461A5C6-18A7-4C3D-8E9F-7A5EB8BBBF9D"
     },
     {
       "class": "symbolInstance",
@@ -144,8 +132,52 @@
       "id": "9AC1865B-FB0E-45E2-AC86-06C343F61A62"
     },
     {
-      "class": "group",
-      "id": "A575D5C2-F628-4435-BADF-EFBA15284360"
+      "class": "text",
+      "id": "796CBA24-EDB5-45F6-9518-51A3B05C6C24"
+    },
+    {
+      "class": "text",
+      "id": "81629FD3-93E4-4D20-984C-2C9BA9308F55"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D66F4625-6563-4FFF-8650-A46D6A821439"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9153E05B-C866-4784-A720-96254AF9B91B"
+    },
+    {
+      "class": "text",
+      "id": "2B9B9933-1DF7-4A14-A9FE-C8E892D0B82E"
+    },
+    {
+      "class": "text",
+      "id": "46888995-A8E7-40EF-A7D5-A801509D7A04"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7C6639E4-4890-4A44-92A1-C056893FBC06"
+    },
+    {
+      "class": "text",
+      "id": "AFA0A7F1-9941-45A6-9C42-A337D4193E7E"
+    },
+    {
+      "class": "text",
+      "id": "31111854-729C-4111-95C6-C4BED75A0D0C"
+    },
+    {
+      "class": "text",
+      "id": "025E275F-53AD-4084-8EF6-556D7422F7AE"
+    },
+    {
+      "class": "text",
+      "id": "FCCF470C-0171-4AAD-8875-A4B06C43E18E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B26C6C8-A4CE-47B1-95F1-AA7EC9860DD0"
     },
     {
       "class": "symbolInstance",
@@ -153,18 +185,18 @@
     },
     {
       "class": "text",
-      "id": "27F34834-31C5-45A7-A946-28921A2DCD0F"
-    },
-    {
-      "class": "text",
       "id": "3CD0EE85-21D5-4377-9EBE-2AA74401802B"
     },
     {
       "class": "text",
-      "id": "135257C0-8A81-4F8C-BBE6-F986BC5887BF"
+      "id": "4A770018-140E-4891-A19D-D8BB875360FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FCF200B7-D1A1-4D9A-9DEF-10B63F5565D3"
     }
   ],
-  "name": "18.05-Governance Copy",
+  "name": "18.06-Governance",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

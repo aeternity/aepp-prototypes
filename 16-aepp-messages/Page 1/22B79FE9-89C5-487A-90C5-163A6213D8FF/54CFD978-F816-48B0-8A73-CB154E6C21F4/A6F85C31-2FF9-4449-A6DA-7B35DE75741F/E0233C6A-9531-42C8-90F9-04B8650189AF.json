@@ -110,8 +110,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A20B6180-63CF-4EC4-94F5-988103BA40D2",
-    "height": 78,
-    "width": 150,
+    "height": 48,
+    "width": 148,
     "x": 15,
     "y": 29
   },
@@ -124,7 +124,7 @@
   "lineSpacingBehaviour": 2,
   "name": "AVATAR Copy 5",
   "nameIsFixed": true,
-  "resizingConstraint": 18,
+  "resizingConstraint": 2,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -165,11 +165,11 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

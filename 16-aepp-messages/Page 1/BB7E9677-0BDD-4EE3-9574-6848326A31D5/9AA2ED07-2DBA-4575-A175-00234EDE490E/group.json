@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -32,10 +32,6 @@
     {
       "class": "shapeGroup",
       "id": "22392C2C-1609-44F8-950C-1C250F2C62E6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C3E7BD3E-D6E0-4E37-A1E9-27830E52B3C9"
     },
     {
       "class": "shapeGroup",
@@ -65,5 +61,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

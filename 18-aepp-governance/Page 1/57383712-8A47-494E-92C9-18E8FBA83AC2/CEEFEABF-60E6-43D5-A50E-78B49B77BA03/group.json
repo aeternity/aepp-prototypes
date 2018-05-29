@@ -18,14 +18,14 @@
     "height": 165,
     "width": 236,
     "x": 23,
-    "y": 721
+    "y": 700
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -33,15 +33,23 @@
     },
     {
       "class": "text",
+      "id": "B8CC92FF-F94F-44BE-B544-5766AAEEE84C"
+    },
+    {
+      "class": "text",
       "id": "316239BB-4E7B-46E9-9775-236F707F2AE3"
     },
     {
       "class": "symbolInstance",
-      "id": "D7EA5AA7-39A6-471F-916D-CA727EFA4D57"
+      "id": "7BCE6299-759B-4C2E-AA3E-9D18ACA6B1C9"
     },
     {
-      "class": "group",
-      "id": "DE8C8755-2E31-478E-8CDE-918B5EA978F3"
+      "class": "text",
+      "id": "DD24417C-C7E2-46C6-924B-1B9434B47739"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7EA5AA7-39A6-471F-916D-CA727EFA4D57"
     }
   ],
   "name": "Group",

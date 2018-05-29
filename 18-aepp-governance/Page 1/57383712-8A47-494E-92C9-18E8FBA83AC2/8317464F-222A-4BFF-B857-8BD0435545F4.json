@@ -18,7 +18,7 @@
     "height": 30,
     "width": 30,
     "x": 24,
-    "y": 971
+    "y": 943
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -48,15 +48,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 32,
+            "constant": 30,
             "enabled": 1,
-            "modelID": "constraint_d7701956-f535-4efe-8bff-9e98e788ce4c",
+            "modelID": "constraint_d4fc3607-2a51-4440-a46c-72c950cdd1fd",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 32
+            "multiplier": 30
           },
           "automatic": 1,
-          "modelID": "viewConstraints_95ed01cf-95a4-4919-9abf-6a7d02a8279e",
+          "modelID": "viewConstraints_d1711229-1294-49c0-830c-bb104a633a0c",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
