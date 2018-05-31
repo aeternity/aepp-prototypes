@@ -30,16 +30,23 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "F33CDF13-B38A-42EE-8762-27096CE27836_symbolID",
-      "value": "7DC933F4-6C4C-48AB-AC3F-AEFF35C03175"
-    },
-    {
-      "_class": "overrideValue",
       "overrideName": "D424547B-962D-4EB0-BF41-C13FBCBA685F_symbolID",
       "value": "600B259D-3975-4AF4-91AC-FBA58D174BB9"
     },
     {
       "_class": "overrideValue",
+      "overrideName": "6DB2331F-8918-4CDA-B0A8-5E7D2FFFE3A0_stringValue",
+      "value": "Jonathan"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BA008E9D-AC0D-42DC-986F-F02007C9FB14",
+      "overrideName": "F33CDF13-B38A-42EE-8762-27096CE27836_symbolID",
+      "value": "7DC933F4-6C4C-48AB-AC3F-AEFF35C03175"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B38B6153-BE89-414F-A20F-CE5763752AF8",
       "overrideName": "F33CDF13-B38A-42EE-8762-27096CE27836/BDAE9758-5A4A-42F4-A3CA-FD8A34CB5BCD_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -49,18 +56,15 @@
     },
     {
       "_class": "overrideValue",
-      "overrideName": "6DB2331F-8918-4CDA-B0A8-5E7D2FFFE3A0_stringValue",
-      "value": "Jonathan"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "3EBC64E9-4F98-49C3-9C77-631449D7F568_stringValue",
-      "value": "3.69 AE"
-    },
-    {
-      "_class": "overrideValue",
+      "do_objectID": "EBBB779B-5BF6-41D5-8466-75EFE310AA5A",
       "overrideName": "C1D47FC1-0324-459B-8B11-6886E525510E_stringValue",
       "value": "12.9 ETH"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75ECC87C-7E40-4C2E-B80C-487B976D53D5",
+      "overrideName": "3EBC64E9-4F98-49C3-9C77-631449D7F568_stringValue",
+      "value": "3.69 AE"
     }
   ],
   "resizingConstraint": 63,

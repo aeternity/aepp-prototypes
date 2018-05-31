@@ -9,25 +9,25 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.596078431372549,
-            "green": 0.596078431372549,
-            "red": 0.596078431372549
+            "blue": 0.3450980392156863,
+            "green": 0.1058823529411765,
+            "red": 0.1921568627450981
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "RobotoMono-Medium",
-              "size": 16
+              "size": 20
             }
           },
-          "kerning": 0.2000000029802322,
+          "kerning": 0.25,
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 26,
-            "minimumLineHeight": 26
+            "maximumLineHeight": 31,
+            "minimumLineHeight": 31
           }
         },
         "length": 73,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 90,
-    "width": 270,
-    "x": 53,
-    "y": 117
+    "height": 95,
+    "width": 321,
+    "x": 27,
+    "y": 242
   },
-  "glyphBounds": "{{3, 6}, {264, 68}}",
+  "glyphBounds": "{{2, 7}, {317, 82}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -80,25 +80,25 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.596078431372549,
-          "green": 0.596078431372549,
-          "red": 0.596078431372549
+          "blue": 0.3450980392156863,
+          "green": 0.1058823529411765,
+          "red": 0.1921568627450981
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "RobotoMono-Medium",
-            "size": 16
+            "size": 20
           }
         },
-        "kerning": 0.2000000029802322,
+        "kerning": 0.25,
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 26,
-          "minimumLineHeight": 26
+          "maximumLineHeight": 31,
+          "minimumLineHeight": 31
         }
       },
       "verticalAlignment": 0
@@ -116,7 +116,7 @@
             "modelID": "constraint_bb69fed9-a85d-4a18-bf68-8d319e5bcad7",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 0.1349325
+            "multiplier": 0.1424288
           },
           "modelID": "viewConstraints_5f1103cc-e8a3-4478-856b-cbbd748a87e8",
           "model_class": "ADModelViewConstraints",
@@ -128,7 +128,7 @@
             "modelID": "constraint_d1f0a6e8-3e11-44f8-93a7-52727c6f0e7a",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 0.72
+            "multiplier": 0.856
           }
         },
         "isAutoWidth": 0

@@ -32,13 +32,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D230707D-7F2C-4EA3-91DA-8A4DF6D98282",
-    "height": 1011,
+    "height": 1032,
     "width": 375,
-    "x": -252,
-    "y": 134
+    "x": -583,
+    "y": 94
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,10 +57,6 @@
   "layers": [
     {
       "class": "group",
-      "id": "173E84D2-C989-4475-B726-159350CC860F"
-    },
-    {
-      "class": "group",
       "id": "999D80B1-3DBD-4691-91F2-AA41C33A2F29"
     },
     {
@@ -68,44 +64,24 @@
       "id": "E53627A5-0104-4E61-9D8F-0B36198458BC"
     },
     {
-      "class": "group",
-      "id": "6EDEC7BB-A98D-4A61-8F35-A6DB720CD9FF"
-    },
-    {
       "class": "shapeGroup",
       "id": "35A60D12-F117-4B46-9304-580905E2C0AB"
     },
     {
-      "class": "shapeGroup",
-      "id": "ECC66239-BF8A-4488-9A0A-D68C00956433"
-    },
-    {
-      "class": "bitmap",
-      "id": "20354E21-C749-45B7-9BCA-5BC8B7E258F0"
-    },
-    {
-      "class": "text",
-      "id": "6C8224AC-F004-42A2-BAD8-E49FD07AE7B1"
+      "class": "group",
+      "id": "B049D8D1-FFC4-4C31-BE2D-4DAD0A836E4F"
     },
     {
       "class": "group",
-      "id": "33B47511-4338-496E-96C6-53B90D62E03D"
+      "id": "8BC95414-F651-43B7-A897-F5B125B57422"
     },
     {
       "class": "group",
-      "id": "45B87D59-BEF8-4E16-AFB5-2384E4307566"
+      "id": "3DB3ECA7-1FDF-47E8-860A-2631E84A2002"
     },
     {
-      "class": "shapeGroup",
-      "id": "84D3AD79-8ABF-4BC1-AB41-0488F9A520A9"
-    },
-    {
-      "class": "bitmap",
-      "id": "35CAB298-A720-4560-AD5F-B48F8CD62639"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E52ABDAE-413E-43AA-B686-F54BD102978F"
+      "class": "group",
+      "id": "266AB382-051A-4168-928A-F75D23E2E542"
     },
     {
       "class": "text",
@@ -116,16 +92,8 @@
       "id": "339D6A2D-F258-40D1-BB9A-0CD6CDF713F6"
     },
     {
-      "class": "shapeGroup",
-      "id": "F35371EC-6521-4F89-BEEF-2734103DB9DD"
-    },
-    {
       "class": "text",
       "id": "0C245647-DFFC-4745-A218-6E23356FE4B2"
-    },
-    {
-      "class": "text",
-      "id": "B224673A-97F7-4D55-A5A3-D7B29138D557"
     },
     {
       "class": "text",
@@ -136,16 +104,8 @@
       "id": "139FA868-E3E7-45F4-A3DF-E21558C760AB"
     },
     {
-      "class": "shapeGroup",
-      "id": "C16C6E53-FD33-4576-B441-F5A8D46E76CF"
-    },
-    {
       "class": "text",
       "id": "98A19466-3F35-4EC9-9A93-BF9F8E5B2E00"
-    },
-    {
-      "class": "text",
-      "id": "41C0EEB8-0357-4AFC-90BC-FD681BA6D980"
     },
     {
       "class": "text",
@@ -185,6 +145,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "8E276291-EBA7-4A01-942E-56E348684990"
+    },
+    {
+      "class": "symbolInstance",
       "id": "AF99ADC0-FD80-4847-BE46-F5C599F14621"
     },
     {
@@ -204,12 +168,24 @@
       "id": "8317464F-222A-4BFF-B857-8BD0435545F4"
     },
     {
-      "class": "text",
-      "id": "92138529-BF25-4C4C-80FC-B4D4EB3AD89D"
-    },
-    {
       "class": "symbolInstance",
       "id": "CAC43FC9-D245-407F-9DD8-19AD4049FB9D"
+    },
+    {
+      "class": "text",
+      "id": "466D49B2-99B0-4281-8AF8-AC428571550B"
+    },
+    {
+      "class": "text",
+      "id": "B7F3B291-277B-4A67-8FED-2A3D9E5D0F10"
+    },
+    {
+      "class": "text",
+      "id": "C9665048-235E-46D2-922F-C151A86665DC"
+    },
+    {
+      "class": "text",
+      "id": "7839BAC9-4009-4319-8545-806CCFD97544"
     }
   ],
   "name": "18.02-Governance",

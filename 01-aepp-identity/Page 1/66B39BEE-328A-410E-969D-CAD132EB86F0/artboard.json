@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": -2538,
-    "y": -3666
+    "x": -3005,
+    "y": -3665
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -74,6 +74,10 @@
     {
       "class": "symbolInstance",
       "id": "30A2DD09-DA6F-4523-A6F1-206543742E2B"
+    },
+    {
+      "class": "text",
+      "id": "6B17B6DC-53D4-4558-A75A-5A722AD073C4"
     }
   ],
   "name": "01.15-base-new-account-pin",
