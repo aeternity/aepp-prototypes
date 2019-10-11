@@ -27,7 +27,7 @@ All the designs are frequently updated in Zeplin Styleguide, where all the CSS S
 # Getting started as a developer
 Developers can make use of the existing open source æpps components and tools in the development repositories below.
 
-💳 **æpp Identity**: [Dev Repo](https://github.com/aeternity/aepp-identity)
+💳 **æpp Base**: [Dev Repo](https://github.com/aeternity/aepp-base)
 
 🚀 **æpp Notary**: [Dev Repo](https://github.com/aeternity/aepp-aexistence)
 
@@ -64,7 +64,7 @@ Kactus will automatically create `.sketch` files from the directories in this re
 # Previous Aepps
 Take a look at the dev repositories of some of the aepps we have. Or look at the complete overview on [aepps.com](https://www.aepps.com)
 
-💳 **æpp Identity**: [Designs](01-aepp-identity) | [Demo æpp](http://identity.aepps.com/)
+💳 **æpp Identity**: [Designs](01-aepp-identity) | [Demo æpp](http://base.aepps.com/)
 
 ✍️ **æpp Message Wall**: [Designs](02-aepp-message-wall) | [Demo æpp](https://wall.aepps.com/)
 
