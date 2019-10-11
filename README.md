@@ -64,7 +64,7 @@ Kactus will automatically create `.sketch` files from the directories in this re
 # Previous Aepps
 Take a look at the dev repositories of some of the aepps we have. Or look at the complete overview on [aepps.com](https://www.aepps.com)
 
-💳 **æpp Base**: [Designs](01-aepp-identity) | [Demo æpp](http://base.aepps.com/)
+💳 **æpp Base**: [Designs](01-aepp-base) | [Demo æpp](http://base.aepps.com/)
 
 ✍️ **æpp Message Wall**: [Designs](02-aepp-message-wall) | [Demo æpp](https://wall.aepps.com/)
 
